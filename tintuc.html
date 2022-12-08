@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Medigo - Nhà thuốc online</title>
+	<link rel="shortcut icon" href="https://www.medigoapp.com/assets/images/favicon.png" />
+
+    <!-- Load font awesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous">
+
+    <!-- our files -->
+    <!-- css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/topnav.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/taikhoan.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/tintuc.css">
+
+    <!-- js -->
+    <script src="data/products.js"></script>
+	<script src="js/dungchung.js"></script>
+    <script>
+        window.onload = function () {
+            khoiTao();
+            // thêm tags (từ khóa) vào khung tìm kiếm
+            var tags = ["Thuốc hạ sốt", "Thuốc giảm đau", "Nước muối sinh lí", "Test covid"];
+            for (var t of tags) addTags(t, "index.html?search=" + t.replace(/\s/g, '+'));
+        }
+    </script>
+
+</head>
+
+<body>
+    <script> addTopNav();</script>
+
+    <section style="min-height: 85vh">
+        <script> addHeader(); </script>
+
+        <div class="body-tintuc">
+            <div class="tintuc-info">
+                <a href="https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/sot-xuat-huyet-o-nguoi-lon-trieu-chung-va-cach-dieu-tri/" target="_blank">
+                    <img src="img/tintuc/tintuc1.png">
+                    <h2 style="font-size: 125%;">Sốt xuất huyết ở người lớn: Triệu chứng và cách điều trị</h2>
+                </a>
+                <br/>
+                <h5>Sốt xuất huyết là bệnh truyền nhiễm phổ biến, xuất hiện theo mùa và có thể gây ra biến chứng nguy hiểm đến tính mạng.</h5>
+            </div>
+            
+           <div class="tintuc-info">
+            <a href="https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/phau-thuat-noi-soi-voi-robot-ho-tro-dieu-tri-ung-thu/" target="_blank">
+                <img src="img/tintuc/tintuc2.png">
+                <h2 style="font-size: 125%;">Phẫu thuật nội soi với Robot hỗ trợ điều trị ung thư thận </h2>
+            </a>
+            <br/>
+            <h5>Ung thư thận là loại ung thư nguy hiểm, có tỉ lệ tử vong cao và đang ngày càng gia tăng. Phẫu thuật là phương pháp điều trị chính của bệnh. Phẫu thuật nội soi điều trị u ung thư thận với Robot hỗ trợ là một bước phát triển mới, mang đến hiệu quả cao, đầy triển vọng cho bệnh nhân.</h5>
+           </div>
+
+           <div class="tintuc-info">
+            <a href="https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/vai-tro-cua-progestogen-trong-phong-ngua-sinh-non/" target="_blank">
+                <img src="img/tintuc/tintuc3.png">
+                <h2 style="font-size: 125%;"> Vai trò của Progestogen trong phòng ngừa sinh non</h2>
+            </a>
+            <br/>
+            <h5>Sinh non là tình trạng xảy ra khi trẻ ra đời trước tuần thứ 37 của thai kỳ. Trẻ sinh non thường có nhiều vấn đề về sức khỏe hơn so với những trẻ sinh đủ tháng (sinh từ tuần 39 – 40 của thai kỳ). Theo kết quả của nhiều nghiên cứu, Progestogen có thể giúp phòng ngừa sinh non cho một số phụ nữ.</h5>
+           </div>
+
+           <div class="tintuc-info">
+            <a href="https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/nhi/roi-loan-chuyen-hoa-o-tre-so-sinh-nhung-dieu-can-biet/" target="_blank">
+                <img src="img/tintuc/tintuc4.png">
+                <h2 style="font-size: 125%;"> Rối loạn chuyển hóa ở trẻ sơ sinh: Những điều cần biết </h2>
+            </a>
+            <br/>
+            <h5>Rối loạn chuyển hóa là một trong những căn bệnh gây tử vong rất cao ở trẻ sơ sinh, nó gây nhiều chứng nguy hiểm. Do vậy để hạn chế tối đa những nguy hiểm của bệnh lý này, các bậc cha mẹ cần phải hiểu rõ bệnh rối loạn chuyển hóa ở người là gì, các biểu hiện khi trẻ sơ sinh mắc bệnh lý rối loạn chuyển hóa.</h5>
+           </div>
+
+           <div class="tintuc-info">
+            <a href="https://massageishealthy.com/trieu-chung-dau-da-day-bao-tu.html" target="_blank">
+                <img src="img/tintuc/tintuc5.png">
+                <h2 style="font-size: 125%;"> 12 triệu chứng đau dạ dày, dấu hiệu phổ biến về bẹnh tiêu hóa - nguy cơ gây ung thư dạ dày </h2>
+            </a>
+            <br/>
+            <h5>Theo các báo cáo y học lâm sàng: Các triệu chứng đau dạ dày, đau bao tử là bị các cơn đau bụng nhẹ gây buồn nôn, có những cơn đau bụng cồn cào, đau rát là triệu chứng viêm dạ dày nhẹ, đau dạ dày nhẹ có ...</h5>
+           </div>
+
+           <div class="tintuc-info">
+            <a href="https://tamanhhospital.vn/cum-a/" target="_blank">
+                <img src="img/tintuc/tintuc6.jpeg">
+                <h2 style="font-size: 125%;"> Cúm A: Triệu chứng, nguyên nhân, chẩn đoán và điều trị</h2>
+            </a>
+            <br/>
+            <h5>Cúm A là bệnh nhiễm trùng đường hô hấp cấp tính do virus cúm mùa gây nên, với triệu chứng như: ho, chảy mũi, đau đầu, sốt, mệt mỏi, hắt hơi,...</h5>
+           </div>
+
+           <div class="tintuc-info">
+            <a href="https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/cao-huyet-ap-trieu-chung-nguyen-nhan-va-cach-dieu-tri/" target="_blank">
+                <img src="img/tintuc/tintuc7.png">
+                <h2 style="font-size: 125%;"> Cao huyết áp: Triệu chứng, nguyên nhân và cách điều trị</h2>
+            </a>
+            <br/>
+            <h5>Vậy triệu chứng, nguyên nhân và cách điều trị bệnh cao huyết áp là gì? Thầy thuốc nhân dân, bác sĩ cao cấp Đoàn Dư Đạt, bệnh viện ĐKQT Vinmec Hạ Long sẽ giúp bạn giải đáp các câu hỏi này.</h5>
+           </div> 
+
+    </section>
+
+    <script> addContainTaiKhoan(); </script>
+
+    <div class="footer">
+        <script>addFooter();</script>
+        
+    </div>
+
+    <i class="fa fa-arrow-up" id="goto-top-page" onclick="gotoTop()"></i>
+
+</body>
+
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Medigo - Nhà thuốc online</title>
+	<link rel="shortcut icon" href="https://www.medigoapp.com/assets/images/favicon.png" />
+
+    <!-- Load font awesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous">
+
+    <!-- our files -->
+    <!-- css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/topnav.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/taikhoan.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/baohanh.css">
+    <!-- js -->
+    <script src="data/products.js"></script>
+	<script src="js/dungchung.js"></script>
+
+    <script>
+        window.onload = function () {
+            khoiTao();
+            // thêm tags (từ khóa) vào khung tìm kiếm
+            var tags = ["Thuốc hạ sốt", "Thuốc giảm đau", "Nước muối sinh lí", "Test covid"];
+            for (var t of tags) addTags(t, "index.html?search=" + t.replace(/\s/g, '+'));
+        }
+    </script>
+</head>
+
+<body>
+
+    <script>addTopNav();</script>
+
+    <section style="min-height: 85vh">
+        <script>addHeader();</script>
+
+        <table>
+            <tr>
+                <td colspan="4" class="header-table">
+                    <marquee behavior="scroll" direction=left>Danh sách các nhà thuốc </marquee>
+                </td>
+            </tr>
+            <tr>
+                <th class="col1">STT</th>
+                <th class="col2">Địa chỉ</th>
+                <th class="col3">Điện thoại</th>
+                <th class="col4">Thời gian làm việc</th>
+            </tr>
+
+            <script>
+                var trungtam = [
+                    ["363 Đội Cấn, P. Liễu Giai, Q. Ba Đình, TP. Hà Nội"                , "(0780)-2212 158" , "8h00 - 17h00"],
+                    ["202-204 Xuân Phương, X. Vân Canh, H. Hoài Đức, TP. Hà Nội"        , "076.3841649"     , "8h00 - 17h00"],
+                    ["72 Tân Mỹ, P. Tân Phú, Q. 7, TP. Hồ Chí Minh"                     , "(031)-384 7689"  , "8h00 - 17h00"],
+                    ["771 Nguyễn Kiệm, P. 3, Q. Gò Vấp, TP. Hồ Chí Minh"                , "0924713257"      , "8h00 - 17h00"],
+                    ["343 Nguyễn Chế Nghĩa, TT. Gia Lộc, H. Gia Lộc, Tỉnh Hải Dương"    , "(064)-3531 248"  , "8h00 - 17h00"],
+                    ["119 Lê Công Thanh, P. Minh Khai, TP. Phủ Lý, Tỉnh Hà Nam"         , "(0240)-3820 349" , "8h00 - 17h00"],
+                    ["357 Nguyễn Văn Cừ, P. Hưng Bình, TP. Vinh, Tỉnh Nghệ An"          , "(0781)-3827 676" , "8h00 - 17h00"],
+                    ["21 Nguyễn Phúc Chu, P. Trảng Dài, TP. Biên Hòa, Tỉnh Đồng Nai"    , "(0241)-3812767"  , "8h00 - 17h00"],
+                    ["418 Đường 30/4, P. 3, TP. Tây Ninh, Tỉnh Tây Ninh"                , "(075)-3814 701"  , "8h00 - 17h00"],
+                    ["79 Hùng Vương, P. Mỹ Phước, TX. Bến Cát, Tỉnh Bình Dương"         , "(056)-3821 788"  , "8h00 - 17h00"],
+                    ["2 Ngô Quốc Trị, P. 5, TP. Vị Thanh, Tỉnh Hậu Giang"               , "(030)-389 3408"  , "8h00 - 17h00"],
+                    ["89 Hai Bà Trưng, Phường 3, TP Bạc Liêu, Tỉnh Bạc Liêu"            , "0650.3831528"    , "8h00 - 17h00"],
+                    ["36 Trần Phú, P. Diên Hồng, TP. Pleiku, Tỉnh Gia Lai"              , "(0651)-3774 789" , "8h00 - 17h00"],
+                    ["627 Lê Hồng Phong, P. Phước Long, Tp. Nha Trang, tỉnh Khánh Hòa"  , "062.382853"      , "8h00 - 17h00"],
+                    ["222-224 Lê Quý Đôn, P. Bồ Xuyên, TP. Thái Bình, Tỉnh Thái Bình"   , "(067)-3874 686"  , "8h00 - 17h00"]
+                ]
+
+                for (var i = 0; i < trungtam.length; i++) {
+                    var link = 'https://maps.google.com/maps?q=' + trungtam[i][0];
+                    document.write(`
+                        <tr>
+                            <td class="col1">` + (i + 1) + `</td>
+                            <td class="col2"> 
+                                <a href="`+link+`" target="_blank" title="Xem bản đồ">
+                                    ` + trungtam[i][0] +`
+                                </a>
+                            </td>
+                            <td class="col3">` + trungtam[i][1] +`</td>
+                            <td class="col4">` + trungtam[i][2] +`</td>
+                        </tr>
+                    `)
+                }
+            </script>
+        </table>
+
+    </section>
+
+    <script>addContainTaiKhoan(); </script>
+
+    <div class="footer">
+            <script>addFooter();</script>
+    </div>
+
+    <i class="fa fa-arrow-up" id="goto-top-page" onclick="gotoTop()"></i>
+
+</body>
+
+</html>
