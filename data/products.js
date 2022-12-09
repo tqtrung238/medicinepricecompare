@@ -12307,5 +12307,6517 @@ var list_products = [
              "name": "thietbi",
              "value": "medigo"
         }
-   }
+   },
+   {
+     "name": "Miếng dán kích mí Vacosi VM11 Size L (500 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20585_1-thumbnail-255x255-70.jpg",
+     "price": "72.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/vacosi-mieng-dan-kich-mi-vm11-size-l-500-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Keo dán mi Vacosi VM12",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20588_1-thumbnail-255x255-70.jpg",
+     "price": "68.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/vacosi-keo-dan-mi-vm12.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông phấn ướt vuông Vacosi BP04 (2 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20571_1-thumbnail-255x255-70.jpg",
+     "price": "21.600 đ/ Cái",
+     "link": "https://www.pharmacity.vn/vacosi-bong-phan-uot-vuong-set-2-bp04.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất giảm thâm nám giúp làm sáng da ban đêm Vichy Laboratoires LiftActiv Specialist Glyco-C Night Peel Ampoules (10 ống x 2ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20630_1_l-thumbnail-255x255.webp",
+     "price": "935.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tinh-chat-giam-tham-nam-giup-lam-sang-da-ban-dem-vichy-glyco-c-ampoules-10-ong-x-2ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm Olay Exfoliating Moisture Sea Salt Body Wash (Chai 650ml))",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12766_1_N-thumbnail-255x255-70.jpg",
+     "price": "144.800 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-duong-am-huong-muoi-bien-olay-daily-exfoliating-with-sea-salts-650ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm dành cho da khô ngứa Cetaphil Pro AD Derma Wash (295ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04296_1_l-thumbnail-255x255.webp",
+     "price": "227.400 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-danh-cho-da-kho-ngua-cetaphil-pro-ad-derma-wash-295ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ Pharmacity Sensitive Skin Gentle Skin Cleanser (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13038_1_l-thumbnail-255x255.webp",
+     "price": "52.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-diu-nhe-cho-da-pharmacity-sensitive-skin-cleanser-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa dưỡng ẩm Cetaphil Pro Ad Derma dành cho da khô ngứa (295ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04308_1_l-thumbnail-255x255.webp",
+     "price": "388.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-duong-am-cetaphil-pro-ad-derma-danh-cho-da-kho-ngua-295ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng dưỡng da trắng mịn tối ưu Sunplay Skin Aqua Clear White SPF 50+/ PA++++ (55g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11390_3-thumbnail-255x255-70.jpg",
+     "price": "192.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-chong-nang-duong-da-trang-min-toi-uu-sunplay-skin-aqua-clear-white-spf-50-pa-55g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel mờ sẹo Scarz Intensive Gel (9g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24251_1-thumbnail-255x255-70.jpg",
+     "price": "140.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/scarz-gel-tri-seo-intensive-gel-9g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ Pharmacity Sensitive Skin Skin (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22231_1_l-thumbnail-255x255-70.jpg",
+     "price": "15.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-sensitive-skin-skin-sua-rua-mat-diu-nhe-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Hộp mặt nạ collagen Pharmacity 23g (8 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22037_1-thumbnail-255x255-70.jpg",
+     "price": "36.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/pmc-hop-mat-na-collagen-23g-8-mieng.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng ẩm Neutrogena Hydro Boost 3D Sleeping Mask (hũ 50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23373_1-thumbnail-255x255-70.jpg",
+     "price": "132.000 đ/ Hũ",
+     "link": "https://www.pharmacity.vn/neutrogena-kem-duong-am-hydro-boost-3d-sleeping-mask-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi hồng đỏ Lip Pure Raspberry Pink",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21225_1_l-thumbnail-255x255.webp",
+     "price": "95.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/lip-pure-son-duong-moi-hong-do-raspberry-pink-38g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng da Klairs Rich Moist Soothing Cream (80ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22109_1-thumbnail-255x255-70.jpg",
+     "price": "495.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/klairs-kem-duong-da-rich-moist-soothing-cream-80ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng chuyên biệt dùng cho ban ngày Vichy LiftActiv Collagen Specialist (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19606_1_l-thumbnail-255x255.webp",
+     "price": "840.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-duong-chuyen-biet-dung-cho-ban-ngay-vichy-liftactiv-collagen-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel dưỡng ẩm Neutrogena Hydro Boost Water Gel (50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22500_1-thumbnail-255x255-70.jpg",
+     "price": "277.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-duong-am-neutrogena-hb-water-gel-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt Khoáng Cấp Ẩm Và Nuôi Dưỡng Eau Thermale Jonzac Thermal Spring Water (Chai 300ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22962_3-thumbnail-255x255-70.jpg",
+     "price": "330.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/jonzac-xit-khoang-cap-am-va-lam-diu-tuc-thi-thermal-spring-water-300ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem hỗ trợ giảm mụn làm mờ sẹo Derma Forte (Tuýp 15g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P15557_1-thumbnail-255x255-70.jpg",
+     "price": "100.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/derma-forte-kem-tri-mun-lien-seo-15g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội sạch gàu cho da đầu nhạy cảm Vichy Dercos Anti-Pelliculaire (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P05086_1_l-thumbnail-255x255.webp",
+     "price": "380.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-tri-gau-cho-da-dau-nhay-cam-vichy-dercos-anti-pelliculaire-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ tinh chất gạo Dabo 23ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21297_2-thumbnail-255x255-70.jpg",
+     "price": "19.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/dabo-mat-na-tinh-chat-gao-23ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tẩy trang cho da nhạy cảm, da mụn Caryophy Smart Cleansing Water (Chai 300ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22979_1-thumbnail-255x255-70.jpg",
+     "price": "360.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/caryophy-tay-trang-cho-da-nhay-cam-da-mun-smart-cleansing-water-300ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bọt rửa mặt cho da dầu mụn The Plant Base AC Clear Magic Foam A1 (120ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20629_1_l-thumbnail-255x255.webp",
+     "price": "349.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bot-rua-mat-cho-da-dau-mun-the-plant-base-ac-clear-magic-foam-a1-120ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel dưỡng da lô hội Banana Boat Aloe Vera (90ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07902_1_l-thumbnail-255x255.webp",
+     "price": "110.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/banana-boat-gel-duong-da-lo-hoi-90ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum dưỡng trắng, mờ thâm Balance Active Formula Supersize Vitamin C Brightening (Chai 60ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23423_2-thumbnail-255x255-70.jpg",
+     "price": "420.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/balance-serum-duong-trang-mo-tham-balance-active-formula-supersize-vitamin-c-brightening-60ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khoáng dưỡng da Thermal Spa Water Vichy (Chai 300ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P05068_2-thumbnail-255x255-70.jpg",
+     "price": "390.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khoang-duong-da-vichy-thermal-spa-water-300ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khoáng dưỡng da Thermal Spa Water Vichy (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P05099_3-thumbnail-255x255-70.jpg",
+     "price": "228.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khoang-duong-da-vichy-thermal-spa-water-150ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khoáng Avène Thermal Spring Water (300ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03422_1_l-thumbnail-255x255.webp",
+     "price": "367.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khoang-duong-da-avene-thermal-spring-water-300ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xà phòng rửa mặt Acne-Aid Soap Bar (Hộp 100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01343_1New-thumbnail-255x255-70.jpg",
+     "price": "90.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/xa-phong-tam-dieu-tri-mun-trung-ca-acne-aid-bar-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ dưỡng trắng da nha đam Vedette Aloe Whitening Mask (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03584_1_l-thumbnail-255x255.webp",
+     "price": "9.100 đ/ Gói",
+     "link": "https://www.pharmacity.vn/vedette-mat-na-giay-duong-da-nha-dam.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ dưỡng trắng da dưa leo Vedette Cucumber Whitening Mask (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03582_1-thumbnail-255x255-70.jpg",
+     "price": "9.100 đ/ Gói",
+     "link": "https://www.pharmacity.vn/vedette-mat-na-giay-duong-da-dua-leo.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất sáng da Balance Active Formula Vitamin C Brightening Serum (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21290_1_l-thumbnail-255x255.webp",
+     "price": "210.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tinh-chat-sang-da-balance-vitamin-c-active-formula-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất giúp làm mờ nếp nhăn trên da Balance Active Formula Gold + Marine Collagen Rejuvenating Serum (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21292_1_l-thumbnail-255x255-70.jpg",
+     "price": "250.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tinh-chat-ho-tro-ngua-lao-hoa-balance-serum-gold-collagen-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất chống nắng Sunplay Skin Aqua Tone Up UV Essence (50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20419_1_l-thumbnail-255x255.webp",
+     "price": "185.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/tinh-chat-chong-nang-hieu-chinh-sac-da-sunplay-skin-aqua-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất Sunplay Skin Aqua Tone Up UV Essence (Chai 50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17810_1_l-thumbnail-255x255.webp",
+     "price": "156.400 đ/ Chai",
+     "link": "https://www.pharmacity.vn/tinh-chat-chong-nang-hieu-chinh-sac-da-mint-green-sunplay-skin-aqua-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất Lavender Sunplay Skin Aqua Tone Up UV Essence(50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17812_1_l-thumbnail-255x255.webp",
+     "price": "184.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/tinh-chat-chong-nang-hieu-chinh-sac-da-lavender-sunplay-skin-aqua-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất chống nắng dưỡng ẩm Bioré Essence Aqua Rich SPF 50+ PA++++ (Tuýp 50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18797_1_l-thumbnail-255x255.webp",
+     "price": "180.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/tinh-chat-chong-nang-duong-am-biore-essence-aqua-rich-spf-50-pa-tuyp-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem bôi da thuần mộc Thanh Mộc Hương (16g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22424_4-thumbnail-255x255-70.jpg",
+     "price": "180.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/thanh-moc-huong-kem-boi-da-thuan-moc.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tẩy tế bào chết da mặt cà phê Daklak Cocoon (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21206_1_l-thumbnail-255x255.webp",
+     "price": "145.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/tay-te-bao-chet-da-mat-ca-phe-daklak-cocoon-150ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông thân giấy Pharmacity (200 que/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16844_1_l-thumbnail-255x255.webp",
+     "price": "23.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tam-bong-than-giay-pharmacity-200-quehop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông thân giấy Pharmacity (100 que/túi)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16843_1_l-thumbnail-255x255.webp",
+     "price": "15.000 đ/ Túi",
+     "link": "https://www.pharmacity.vn/tam-bong-than-giay-pharmacity-100-quetui.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông người lớn Pharmacity (40 cây/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09772_1_l-thumbnail-255x255.webp",
+     "price": "3.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/tam-bong-nguoi-lon-pharmacity-40-caygoi.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông người lớn Pharmacity (200 cây/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09774_1_l-thumbnail-255x255.webp",
+     "price": "22.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tam-bong-nguoi-lon-pharmacity-200-cayhop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông người lớn Pharmacity (100 cây/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09773_1_l-thumbnail-255x255.webp",
+     "price": "12.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/tam-bong-nguoi-lon-pharmacity-100-caygoi.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông kháng khuẩn Jomi (200 chiếc)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13288_1_l-thumbnail-255x255.webp",
+     "price": "33.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tam-bong-khang-khuan-jomi-200-chiec.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông kháng khuẩn đầu xoắn Sakura (Lọ 200 que giấy)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20426_5-thumbnail-255x255-70.jpg",
+     "price": "46.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tam-bong-khang-khuan-dau-xoan-sakura-lo-200-que-giay.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt tạo bọt Senka Perfect Whip (120g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09483_1-thumbnail-255x255-70.jpg",
+     "price": "99.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-tao-bot-senka-perfect-whip-150g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt tạo bọt dành cho da mụn Senka Perfect Whip Acne Care (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18169_1-thumbnail-255x255-70.jpg",
+     "price": "105.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-tao-bot-danh-cho-da-mun-senka-perfect-whip-acne-care-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt tạo bọt chiết xuất hoa hồng Nivea Radiance Hokkaido Rose (Tuýp 100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16680_1_l-thumbnail-255x255.webp",
+     "price": "73.500 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-tao-bot-chiet-xuat-hoa-hong-hokkaido-nivea-100ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt Senka Perfect Whip Collagen In (120g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10877_22-thumbnail-255x255.png",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-senka-perfect-whip-collagen-in-120g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt Reihaku Hatomugi Facial Foam (Chai 170g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21190_1_l-thumbnail-255x255.webp",
+     "price": "109.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-sang-da-chiet-xuat-y-di-hatomugi-170g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt Simple Refreshing Facial Wash 100% Soap Free (Tuýp 150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22495_1-thumbnail-255x255-70.jpg",
+     "price": "132.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-sach-thoang-khong-chua-xa-phong-simple-150ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt Nivea Pearl White Micro Bubbles Deep Clean Clay Foam (Tuýp 100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03841_1_l-thumbnail-255x255.webp",
+     "price": "52.500 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-mo-vet-tham-trang-da-se-khit-lo-chan-long-nivea-whitening-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt Oribe Facial Cleanser (Tuýp 100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22950_1-thumbnail-255x255-70.jpg",
+     "price": "70.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-hoa-cuc-va-vitamin-e-giup-sach-da-diu-nhe-trang-khoe-tu-nhien-oribe-tuyp-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt hạt nghệ Thorakao (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04798_1_l-thumbnail-255x255.webp",
+     "price": "40.600 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-hat-nghe-thorakao-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ cho mọi loại da Cetaphil Gentle Skin Cleanser (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P05373_4-thumbnail-255x255-70.jpg",
+     "price": "376.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-diu-nhe-cho-moi-loai-da-cetaphil-gentle-skin-cleanser-500ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ cho mọi loại da Cetaphil Gentle Skin Cleanser (Chai 125ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P05372_1_l-thumbnail-255x255.webp",
+     "price": "125.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-diu-nhe-cho-moi-loai-da-cetaphil-gentle-skin-cleanser-125ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt đất sét trắng Senka Perfect White Clay (120g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09484_1_l-thumbnail-255x255.webp",
+     "price": "109.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-dat-set-trang-senka-perfect-white-clay-120g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt Acnes Baby Mud Cleanser (Tuýp 100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04381_1_l-thumbnail-255x255.webp",
+     "price": "65.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-bun-non-duong-sang-acnes-baby-mud-cleanser-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng Senka Perfect UV Milk (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09624_1-thumbnail-255x255-70.jpg",
+     "price": "190.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-chong-nang-senka-perfect-uv-milk-40ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng Sunplay Skin Aqua Tone Up UV Milk (Chai 50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17809_1_l-thumbnail-255x255.webp",
+     "price": "156.400 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-chong-nang-hieu-chinh-sac-da-mint-green-sunplay-skin-aqua-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng Lavender Sunplay Skin Aqua Tone Up UV Milk (Chai 50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17811_1_l-thumbnail-255x255.webp",
+     "price": "184.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-chong-nang-hieu-chinh-sac-da-lavender-sunplay-skin-aqua-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng dưỡng trắng da, ngăn đen sạm Sunplay Whitening UV (30g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01128_1_l-thumbnail-255x255.webp",
+     "price": "84.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-chong-nang-duong-trang-da-ngan-den-sam-sunplay-whitening-uv-spf50-30g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng dưỡng da sáng hồng Bioré 30ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09554_1N-thumbnail-255x255-70.jpg",
+     "price": "61.200 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-chong-nang-duong-da-sang-hong-biore-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sửa rửa mặt tươi mát hương mơ ST.Ives Fresh Skin (170g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07289_1_l-thumbnail-255x255.webp",
+     "price": "102.200 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/stives-srm-tuoi-mat-huong-mo-170g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi Mentholatum Lip Pure Natural - Không mùi (3.9g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18793_1_l-thumbnail-255x255.webp",
+     "price": "85.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/son-duong-moi-khong-mui-mentholatum-lipure-natural-lipalm-39g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi Lipice Natural - hương tự nhiên (4,3g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18792_1_l-thumbnail-255x255.webp",
+     "price": "59.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/son-duong-moi-khong-mau-lipice-lipalm-huong-tu-nhien.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi hương táo Lipice Apple (4.3g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01462_1-thumbnail-255x255-70.jpg",
+     "price": "59.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/son-duong-moi-huong-tao-lipice-lipbalm-43g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi hồng xinh Vaseline Lip Therapy Rosy Lips with petroleum jelly (4.8g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13508_1_l-thumbnail-255x255.webp",
+     "price": "65.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/son-duong-moi-hong-xinh-vaseline-rosy-lips-48g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng ẩm cho môi Vaseline Lip Care Original For Soft, Smooth Lips (7g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09318_1-thumbnail-255x255-70.jpg",
+     "price": "69.700 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/son-duong-am-cho-moi-vaseline-lip-therapy-original-7g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng ẩm cho môi Hương vani Vaseline Lip Care Creme Brulee For Deliciously Kissable Lips (7g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09317_1-thumbnail-255x255-70.jpg",
+     "price": "69.700 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/son-duong-am-cho-moi-huong-vani-vaseline-lip-therapy-creme-brulee-7g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông trang điểm cao cấp Unicharm Silcot (66 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08283_1_l-thumbnail-255x255.webp",
+     "price": "33.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/silcot-bong-trang-diem-cao-cap-66-mieng.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum tế bào gốc NNO Regenexx Advanced (Hộp 30 viên)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18857_4-thumbnail-255x255-70.jpg",
+     "price": "660.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/serum-te-bao-goc-nno-regenexx-advanced-hop-30-vien.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum dưỡng da trắng sáng NNO Vite Aplicapz (3 vỉ x 10 viên/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16821_1_l-thumbnail-255x255.webp",
+     "price": "360.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/serum-duong-da-trang-sang-nno-vite-aplicapz-3-vi-x-10-vienhop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum cấp nước dưỡng ẩm Balance Active Formula Hyaluronic Deep Moisture Serum (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21291_1-thumbnail-255x255-70.jpg",
+     "price": "210.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/serum-cap-nuoc-duong-am-balance-active-formula-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông tiêu chuẩn kháng khuẩn Sakura TB01 (200 que/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P06428_3-thumbnail-255x255-70.jpg",
+     "price": "25.600 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/sakura-tam-bong-tieu-chuan-hop200-que.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông kháng khuẩn cho trẻ em Sakura Baby TB02 (180 que/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P06426_1-thumbnail-255x255-70.jpg",
+     "price": "32.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/sakura-tam-bong-baby-hop180-que.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi Orange Mango Mania + SPF Pharmacity (Thỏi 4.5g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22228_1_l-thumbnail-255x255-70.jpg",
+     "price": "55.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/pmc-son-duong-moi-orange-mango-mania-45g-spf.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ Pharmacity Sensitive Skin Cleanser (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22229_1_l-thumbnail-255x255-70.jpg",
+     "price": "220.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-sensitive-skin-skin-sua-rua-mat-diu-nhe-500ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ Pharmacity Sensitive Skin (125ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22230_1_l-thumbnail-255x255-70.jpg",
+     "price": "90.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-sensitive-skin-skin-sua-rua-mat-diu-nhe-125ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt Nạ Repairing Cellulose Mask (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23621_22-thumbnail-255x255-70.jpg",
+     "price": "32.000 đ/ Miếng",
+     "link": "https://www.pharmacity.vn/pmc-mat-na-cellulose-repairing-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt Nạ Hydrating Cellulose Mask (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23622_22-thumbnail-255x255-70.jpg",
+     "price": "32.000 đ/ Miếng",
+     "link": "https://www.pharmacity.vn/pmc-mat-na-cellulose-hydrating-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt Nạ Brightening Cellulose Mask (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23620_22-thumbnail-255x255-70.jpg",
+     "price": "32.000 đ/ Miếng",
+     "link": "https://www.pharmacity.vn/pmc-mat-na-cellulose-brightening-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Phim thấm dầu Pharmacity (Gói 50 tờ)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19434_1_l-thumbnail-255x255.webp",
+     "price": "49.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/phim-tham-dau-pharmacity-goi-50-to.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa dưỡng ẩm toàn thân Pharmacity Sensitive Skin Moisturizing Lotion (Chai 200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13039_1_l-thumbnail-255x255.webp",
+     "price": "127.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-sensitive-skin-moisturizing-lotion.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi Olive Oil Pharmacity Olive Oil Lip Balm",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P15634_22-thumbnail-255x255-70.jpg",
+     "price": "57.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/pharmacity-olive-oil-lip-balm.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Son dưỡng môi Argan Oil Pharmacity Argan Oil Lip Balm",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P15635_22-thumbnail-255x255.png",
+     "price": "57.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/pharmacity-argan-oil-lip-balm.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum ngừa mụn Pharmacity Acne Serum (12ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13052_22-thumbnail-255x255.png",
+     "price": "169.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/pharmacity-acne-serum.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem ngừa và giảm mụn Pharmacity Acne Cream (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13049_2_l-thumbnail-255x255.webp",
+     "price": "75.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-acne-cream.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa mặt ngừa mụn Pharmacity Acne Cleanser Gel (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13050_1_l-thumbnail-255x255.webp",
+     "price": "42.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/pharmacity-acne-cleanser-gel.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum cấp ẩm Pharmacist Formulator Moisturising Serum (Chai 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23890_1-thumbnail-255x255-70.jpg",
+     "price": "402.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pf-hydrafill-serum-duong-am-40-hyaluronic-acid-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng ẩm Pharmacist Formulators Moisturising Cream Light Texture (Hũ 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23888_1-thumbnail-255x255-70.jpg",
+     "price": "346.500 đ/ Hũ",
+     "link": "https://www.pharmacity.vn/pf-hydrafill-kem-duong-am-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Toner và tinh chất dưỡng ẩm Pharmacist Formulators 2in1 Moisturising Toner and Essence (Chai 200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23886_1_l-thumbnail-255x255.png",
+     "price": "375.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pf-hydraclean-toner-va-tinh-chat-duong-am-2in1-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dưỡng ẩm Pharmacist Formulators Moisturising Cleansing Milk (Chai 200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23885_1-thumbnail-255x255-70.jpg",
+     "price": "269.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pf-hydraclean-sua-rua-mat-duong-am-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ sản phẩm size nhỏ du lịch Pharmacist Formulators Sữa rửa mặt dưỡng ẩm- Kem dưỡng ẩm chống nắng - Serum dưỡng ẩm",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23900_2-thumbnail-255x255-70.jpg",
+     "price": "845.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/pf-bo-san-pham-size-nho-du-lich-sua-rua-mat-duong-am-kem-duong-am-chong-nang-serum-duong-am.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang và làm sạch dành cho da nhạy cảm Bioderma Sensibio H2O (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20648_1_l-thumbnail-255x255.webp",
+     "price": "396.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-va-lam-sach-danh-cho-da-nhay-cam-bioderma-sensibio-h2o-500ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang và làm sạch dành cho da hỗn hợp, da dầu đến da mụn Bioderma Sebium H2O (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20642_1_l-thumbnail-255x255.webp",
+     "price": "495.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-va-lam-sach-danh-cho-da-hon-hop-da-dau-den-da-mun-bioderma-sebium-h2o-500ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang tươi mát L'Oreal Micellar Water Refreshing (400ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10836_22-thumbnail-255x255-70.jpg",
+     "price": "209.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-tuoi-mat-loreal-micellar-water-refreshing-400ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang sạch thoáng Senka A.L.L Clear Water Fresh (230ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P14151_22-thumbnail-255x255.png",
+     "price": "109.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-sach-thoang-senka-all-clear-water-fresh-230ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang làm sạch sâu L'Oreal Micellar Water (400ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10835_1_l-thumbnail-255x255.webp",
+     "price": "209.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-lam-sach-sau-loreal-micellar-water-400ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang làm sạch sâu dành cho da dầu nhạy cảm La Roche-Posay Effaclar Micellar Water Ultra (400ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12710_1_l-thumbnail-255x255.webp",
+     "price": "465.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-lam-sach-sau-danh-cho-da-dau-nhay-cam-la-roche-posay-400ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang làm sạch sâu cho da nhạy cảm La Roche-Posay  Micellar Water Ultra Sensitive Skin (400ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12709_1_l-thumbnail-255x255.webp",
+     "price": "465.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-lam-sach-sau-cho-da-nhay-cam-la-roche-posay-micellar-water-400ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang dưỡng trắng da Senka A.L.L Clear Water (230ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P14557_1_l-thumbnail-255x255.webp",
+     "price": "99.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-duong-trang-da-senka-all-clear-water-230ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang dưỡng ẩm L'Oreal Micellar Water Moisturizing (400ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10834_1_l-thumbnail-255x255.webp",
+     "price": "209.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-duong-am-loreal-micellar-water-moisturizing-400ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang cho da mụn Eucerin Pro ACNE (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10481_1-thumbnail-255x255-70.jpg",
+     "price": "349.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-tay-trang-cho-da-mun-eucerin-pro-acne-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước khoáng làm dịu da La Roche-Posay Serozinc Zinc Sulfate Solution Cleansing, Soothing 300ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09676_3-thumbnail-255x255-70.jpg",
+     "price": "376.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-khoang-lam-sach-va-lam-diu-da-la-roche-posay-serozinc-300ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước khoáng làm dịu da La Roche-Posay Serozinc Zinc Sulfate Solution Cleansing, Soothing (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09675_1-thumbnail-255x255-70.jpg",
+     "price": "260.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-khoang-lam-sach-va-lam-diu-da-la-roche-posay-serozinc-150ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa hồng Simple Soothing Facial Toner (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10889_1-thumbnail-255x255-70.jpg",
+     "price": "160.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-hoa-hong-simple-soothing-facial-toner-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa hồng không mùi cho da nhạy cảm Dear, Klairs Supple Preparation Unscented Toner (180ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21435_1_l-thumbnail-255x255.webp",
+     "price": "319.200 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-hoa-hong-khong-mui-cho-da-nhay-cam-klairs-supple-preparation-unscented-180ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước tẩy trang dành cho da mụn Nivea Acne Care Micellair Oxygen Boost Micellar Water (Chai 400ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22499_1-thumbnail-255x255-70.jpg",
+     "price": "122.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nivea-nuoc-tay-trang-sach-sau-ngan-ngua-mun-acne-clear-micellair-400ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm bông Niva AZ3 (200 que/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08990_1_l-thumbnail-255x255.webp",
+     "price": "14.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/niva-tam-bong-az3-hop-200-que.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kềm cắt da Kềm Nghĩa D205",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08167_1_l-thumbnail-255x255.webp",
+     "price": "65.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/nghia-kem-thep-d205.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán mụn Mayan Care Ultra Thin Spot (20 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08161_1_l-thumbnail-255x255.webp",
+     "price": "30.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mieng-dan-tri-mun-mayan-care-ultra-thin-spot-20-mienggoi.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán mụn Pharmacity (20 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13123_1_l-thumbnail-255x255.webp",
+     "price": "33.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mieng-dan-mun-pharmacity-20-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán mụn Acnes Clear Patch (Hộp 24 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18794_1-thumbnail-255x255-70.jpg",
+     "price": "48.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mieng-dan-mun-khang-khuan-acnes-hop-24-mieng.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán mụn ban ngày và đêm Derma Angel (12+6 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13513_1-thumbnail-255x255-70.jpg",
+     "price": "52.800 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mieng-dan-mun-ban-ngay-va-dem-derma-angel-1212-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán mụn ban đêm Derma Angel (12 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13511_1-thumbnail-255x255-70.jpg",
+     "price": "50.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mieng-dan-mun-ban-dem-derma-angel-12-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán mũi lột mụn Bioré hương hoa anh đào (4 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09552_1_l-thumbnail-255x255.webp",
+     "price": "17.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mieng-dan-mui-lot-mun-biore-huong-hoa-anh-dao-4-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán lột mụn không hương cho nữ Bioré (4 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07531_1_l-thumbnail-255x255.webp",
+     "price": "20.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mieng-dan-lot-mun-khong-huong-cho-nu-biore-4-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ tinh chất collagen Hyaluronate (23g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18409_1_l-thumbnail-255x255.webp",
+     "price": "15.000 đ/ Miếng",
+     "link": "https://www.pharmacity.vn/mat-na-tinh-chat-collagen-hyaluronate-23g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ giấy sữa chua Kiwi Vedette (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03591_3-thumbnail-255x255-70.jpg",
+     "price": "9.800 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mat-na-giay-sua-chua-kiwi-vedette-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ giấy sữa chua dâu tây Vedette (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03592_3-thumbnail-255x255-70.jpg",
+     "price": "9.800 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mat-na-giay-sua-chua-dau-tay-vedette-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ dưỡng trắng da ốc sên & collagen cao cấp M.pros (35g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13631_1_l-thumbnail-255x255.webp",
+     "price": "15.400 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mat-na-duong-trang-da-oc-sen-collagen-cao-cap-mpros-35g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ dưỡng da trắng hồng Senka Perfect Aqua Rich Extra White (25ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10885_1-thumbnail-255x255-70.jpg",
+     "price": "23.800 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mat-na-duong-da-trang-hong-senka-perfect-aqua-rich-extra-white-25ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ dưỡng da Rainbow L'affair Honey Mask (25ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21419_1_l-thumbnail-255x255.webp",
+     "price": "14.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mat-na-duong-da-rainbow-laffair-honey-25ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ dâu tằm sáng da Au Fairy Bliss Berries Mask (25ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13616_1-thumbnail-255x255-70.jpg",
+     "price": "19.600 đ/ Gói",
+     "link": "https://www.pharmacity.vn/mat-na-dau-tam-sang-da-au-fairy-brightening-mask-25ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "LOVE SKIN MICELLAR WATER MOISTURIZING",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17278_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/love-skin-micellar-water-moisturizing.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "LOVE SKIN MICELLAR WATER CLEANSING OIL",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17280_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/love-skin-micellar-water-cleansing-oil.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng kiềm dầu thoáng mịn L’Oréal Paris UV Defender SPF50+ PA++++ Matte & Fresh (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22501_7-thumbnail-255x255-70.jpg",
+     "price": "77.700 đ/ Chai",
+     "link": "https://www.pharmacity.vn/loreal-kcn-che-phu-deu-mau-da-uv-defender-spf50-pa-correct-protect-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel dưỡng làm mờ sẹo Cicaplast Gel B5 Epidermal Recovery Accelerator Skincare (Hộp 40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22575_1-thumbnail-255x255-70.jpg",
+     "price": "356.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/la-roche-posay-gel-duong-lam-mo-seo-cicaplast-gel-b5-40ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Khăn tẩy trang và lau mặt Acnes Make-up Remover Sheet (20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01445_1_l-thumbnail-255x255.webp",
+     "price": "59.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/khan-tay-trang-va-lau-mat-acnes-20-mieng.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem ngăn ngừa mụn, rôm sảy Yoosun Rau Má (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10876_4-thumbnail-255x255-70.jpg",
+     "price": "25.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-tri-rom-say-man-ngua-ngan-ngua-mun-yoosun-rau-ma-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem hỗ trợ giảm mụn La Roche-Posay Effaclar Duo+ (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09544_1-thumbnail-255x255-70.jpg",
+     "price": "356.250 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-tri-mun-la-roche-posay-effaclar-duo-40ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem hỗ trợ giảm mụn Lana Topal Ultra (10g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P15830_1_l-thumbnail-255x255.webp",
+     "price": "45.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-tri-mun-lana-topal-ultra-10g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem tẩy tế bào chết Sukin Signature Revitalising Facial Scrub (Chai 125ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17772_1-thumbnail-255x255-70.jpg",
+     "price": "289.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/kem-tay-te-bao-chet-diu-nhe-sukin-revitalising-facial-scrub-125ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng da Dottorprimo Emergency 400 (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16229_21-thumbnail-255x255-70.jpg",
+     "price": "350.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-tai-tao-da-ton-thuong-dottorprimo-emergency-400-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem rửa mặt Acnes Vitamin Cleanser (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01432_3-thumbnail-255x255-70.jpg",
+     "price": "55.250 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-rua-mat-vitamin-acnes-mentholatum-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem rửa mặt trắng da tối ưu Hadalabo Perfect White (80g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01460_1_l-thumbnail-255x255.webp",
+     "price": "85.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-rua-mat-trang-da-toi-uu-hadalabo-perfect-white-80g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem rửa mặt ngăn ngừa mụn Acnes Creamy Wash (Chai 100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00749_1-thumbnail-255x255-70.jpg",
+     "price": "52.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-rua-mat-ngan-ngua-mun-acnes-mentholatum-chai-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem rửa mặt dưỡng ẩm tối ưu Hada Labo Advanced Nourish Hyaluronic Acid Cleanser (80g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01450_1-thumbnail-255x255-70.jpg",
+     "price": "60.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-rua-mat-duong-am-toi-uu-hada-labo-advanced-nourish-80g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem làm lành và phục hồi da Bioderma Cicabio Creme (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07927_1_l-thumbnail-255x255.webp",
+     "price": "344.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-lam-lanh-va-phuc-hoi-da-bioderma-cicabio-creme-40ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng da Cicalfate Repair Cream (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03411_1_l-thumbnail-255x255.webp",
+     "price": "385.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-lam-lanh-da-chong-nhiem-khuan-avene-cicalfate-repair-cream-40ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem giúp làm mờ nếp nhăn trên da mắt Balance Active Formula Gold + Marine Collagen Rejuvenating Eye Serum (15ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21289_1-thumbnail-255x255-70.jpg",
+     "price": "210.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-ho-tro-tri-tham-mat-va-ho-tro-giam-nep-nhan-o-mat-balance-active-formula-gold-15ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem hỗ trợ làm giảm nám Fixderma Skarfix-TX (15g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21758_1-thumbnail-255x255-70.jpg",
+     "price": "279.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-ho-tro-tri-nam-fixderma-skarfix-tx-15g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem hỗ trợ sáng da, giảm tàn nhang Fixderma Skarfix Plus Cream (15g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22021_4-thumbnail-255x255-70.jpg",
+     "price": "246.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-ho-tro-sang-da-giam-tan-nhang-fixderma-skarfix-plus-cream-15g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng Hada Labo Perfect White Cream (Hộp 50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02542_1-thumbnail-255x255-70.jpg",
+     "price": "176.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-duong-trang-da-hoan-hao-hadalabo-perfect-white-arbutin-cream-50g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng giúp làm dịu da La Roche-Posay Cicaplast Baume B5 Soothing Repairing Balm (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09550_1-thumbnail-255x255-70.jpg",
+     "price": "292.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-duong-giup-lam-diu-lam-muot-lam-mat-phuc-hoi-da-la-roche-posay-cicaplast-baume-b5-40ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng ẩm Pharmacity Sensitive Skin (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13040_22-thumbnail-255x255.png",
+     "price": "155.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/kem-duong-am-pharmacity-sensitive-skin-cream-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng ẩm, làm dịu và bảo vệ chống bọng mắt Bioderma Sensibio Eye (15ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22260_1_l-thumbnail-255x255.webp",
+     "price": "136.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-duong-am-lam-diu-va-bao-ve-chong-bong-mat-bioderma-sensibio-eye-15ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem hỗ trợ giảm ngứa, viêm da Atopiclair (Tuýp 40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01742_1-thumbnail-255x255-70.jpg",
+     "price": "250.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-dac-tri-viem-da-atopiclair-40ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng dạng sữa lỏng nhẹ lâu trôi SPF 50 La Roche Posay (Tuýp 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09549_2-thumbnail-255x255-70.jpg",
+     "price": "495.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-chong-nang-la-roche-posay-anthelios-invisible-fluid-spf50-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng không màu La Roche-Posay Anthelios XL Anti-Shine Non-Perfumed Dry Touch Gel-Cream SPF50+ (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10678_1_l-thumbnail-255x255.webp",
+     "price": "515.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/kem-chong-nang-khong-mau-la-roche-posay-anthelios-xl-anti-shine-non-perfumed-dry-touch-gel-cream-spf50-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng Sunplay Skin Aqua Clear White (Tuýp 25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03809_1N-thumbnail-255x255-70.jpg",
+     "price": "92.650 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-chong-nang-duong-da-trang-muot-sunplay-skin-aqua-clear-white-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng Sunplay Skin Aqua Silky White Gel (Tuýp 25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03808_1N-thumbnail-255x255-70.jpg",
+     "price": "80.750 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-chong-nang-duong-da-trang-min-sunplay-skinaqua-silky-white-gel-25g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng không nhờn rít Ideal Soleil SPF50 Vichy (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07329_4-thumbnail-255x255-70.jpg",
+     "price": "404.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-chong-nang-duong-da-cho-da-dau-khong-nhon-rit-vichy-ideal-soleil-spf50-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng Sunplay Super Block (30g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00386_1_l-thumbnail-255x255.webp",
+     "price": "70.400 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-chong-nang-cuc-manh-sunplay-spf81-30g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng da Dottorprimo Skin Repair (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16232_21-thumbnail-255x255-70.jpg",
+     "price": "350.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-boi-viem-da-co-dia-dottorprimo-skin-repair-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông tẩy trang Jomi Cotton Pads (80 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08162_3-thumbnail-255x255-70.jpg",
+     "price": "27.000 đ/ Túi",
+     "link": "https://www.pharmacity.vn/jomi-bong-tay-trang-80mtui.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Giấy thấm dầu than hoạt tính Pharmacity (100 tờ/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13125_1_l-thumbnail-255x255.webp",
+     "price": "31.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/giay-tham-dau-than-hoat-tinh-pharmacity-100-togoi.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Giấy thấm dầu Pharmacity (100 tờ/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13124_1_l-thumbnail-255x255.webp",
+     "price": "17.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/giay-tham-dau-pharmacity-100-togoi.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi ngoài da Nacurgo Gel (20g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10886_1_l-thumbnail-255x255.webp",
+     "price": "220.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-tri-seo-va-tham-mun-nacurgo-20g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel làm mờ sẹo Dermatix Ultra (7g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02044_1_l-thumbnail-255x255.webp",
+     "price": "210.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-tri-seo-dermatix-ultra-7g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel hỗ trợ làm mờ sẹo Dermatix Ultra (15g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02387_1_l-thumbnail-255x255.webp",
+     "price": "310.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-tri-seo-dermatix-ultra-15g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel chăm sóc và ngăn ngừa sẹo Bepanthen Anti-Scar Gel (Hộp 20g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19687_1_l-thumbnail-255x255.webp",
+     "price": "300.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-tri-seo-bepanthen-anti-scar-gel-30g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel giảm mụn và vết thâm Megaduo (15g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02359_4_l-thumbnail-255x255.webp",
+     "price": "118.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-tri-mun-va-vet-tham-megaduo-15g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel sữa chống nắng Senka Perfect UV Gel SPF 50+/PA++++ (80ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09623_1-thumbnail-255x255-70.jpg",
+     "price": "215.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-sua-chong-nang-senka-spf-50pa-uv-80ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa mặt giúp kiểm soát dầu Eucerin Acne-Oil Control Pro Acne Solution Cleansing Gel (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10480-thumbnail-255x255-70.jpg",
+     "price": "369.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-mat-eucerin-pro-acne-giup-kiem-soat-dau-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa mặt cho da dầu nhạy cảm La Roche-Posay Effaclar Purifying Foaming Gel (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09546_1_l-thumbnail-255x255.webp",
+     "price": "190.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-rua-mat-cho-da-dau-nhay-cam-la-roche-posay-effaclar-purifying-foaming-gel-50ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa mặt cho da dầu nhạy cảm La Roche-Posay Effaclar Purifying Foaming Gel For Oily Sensitive Skin (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09671_1_l-thumbnail-255x255.webp",
+     "price": "385.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-mat-cho-da-dau-nhay-cam-la-roche-posay-effaclar-purifying-foaming-gel-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel ngừa sẹo và mờ vết thâm Decumar Pure Gel (15g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17267_1_l-thumbnail-255x255.webp",
+     "price": "48.600 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-ngua-seo-va-mo-vet-tham-decumar-pure-gel-15g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel ngừa mụn, kháng khuẩn Acnes Sealing Jell (18g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01441_3-thumbnail-255x255-70.jpg",
+     "price": "53.550 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-ngua-mun-khang-khuan-acnes-mentholatum-18g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel ngừa mụn Decumar Advanced (20g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18631_1_l-thumbnail-255x255.webp",
+     "price": "77.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-ngua-mun-decumar-advanced-20g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel làm mờ sẹo, vết thâm Acnes Scar Care (12g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01443_3-thumbnail-255x255-70.jpg",
+     "price": "62.050 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-lam-mo-seo-vet-tham-acnes-mentholatum-12g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel làm mờ sẹo Pharmacity Scar Gel (5g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16096_1-thumbnail-255x255-70.jpg",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-lam-mo-seo-scar-gel-pharmacity-5g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel hỗ trợ làm mờ sẹo Orlavi Scar Gel (Tuýp 35g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/Frame_7-thumbnail-255x255-70.jpg",
+     "price": "290.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-lam-mo-seo-orlavi-scargel-35g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel hỗ trợ mờ sẹo Fixderma Scar Gel (15ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22022_3_l-thumbnail-255x255.webp",
+     "price": "278.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-ho-tro-mo-seo-fixderma-scar-gel-15ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel dưỡng da hỗ trợ mờ sẹo Dottorprimo Scargel Plus (20ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16231_21-thumbnail-255x255-70.jpg",
+     "price": "380.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-ho-tro-dieu-tri-seo-dottorprimo-scargel-plus-20ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng dưỡng ẩm da Fixderma Shadow SPF 50+ Cream (75g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22025_4-thumbnail-255x255-70.jpg",
+     "price": "337.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-chong-nang-duong-am-da-fixderma-shadow-spf-50-gel-75g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel chống nắng Bioré UV Aqua Rich Watery Gel SPF 50+ PA++++ 90ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09557_1n-thumbnail-255x255-70.jpg",
+     "price": "138.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-chong-nang-biore-uv-aqua-rich-watery-gel-spf-50-pa-90ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lotion dưỡng ẩm toàn thân FCL Oat Silk Body Lotion Fixderma (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22719_1-thumbnail-255x255-70.jpg",
+     "price": "135.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/fixderma-lotion-duong-am-toan-than-fcl-oat-silk-body-lotion-200ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa dưỡng ẩm siêu phục hồi da EMBRYOLISSE Lait-Crème Concentré (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22970_1-thumbnail-255x255-70.jpg",
+     "price": "219.600 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/embryolisse-sua-duong-sieu-phuc-hoi-da-lait-creme-concentre-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch tạo bọt ngăn ngừa mụn Acnes Foaming Wash (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01435_1-thumbnail-255x255-70.jpg",
+     "price": "75.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-tao-bot-ngan-ngua-mun-acnes-foaming-wash-150ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch làm mờ sẹo và vết thâm Acnes C10 (Chai 15ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00570_1_l-thumbnail-255x255.webp",
+     "price": "301.750 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-dac-tri-mun-va-vet-tham-acnes-c10-chai-15ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ cho da nhạy cảm Eucerin PH5 Facial Cleanser Sensitive Skin (Chai 400ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22514_1_l-thumbnail-255x255.webp",
+     "price": "279.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/diu-nhe-cho-da-nhay-cam-eucerin-ph5-facial-cleanser-chai-400ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu dưỡng da ban đêm NNO Nourishing Night Oil (3 vỉ x 10 viên/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16822_1_l-thumbnail-255x255.webp",
+     "price": "150.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/dau-duong-da-ban-dem-nno-nourishing-night-oil-3-vi-x-10-vienhop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ cho mọi loại da Cetaphil Gentle Skin Cleanser (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22162_1-thumbnail-255x255-70.jpg",
+     "price": "233.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/cetaphil-sua-rua-mat-diu-nhe-cho-moi-loai-da-gentle-skin-cleanser-250ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt mụn lưng Caryophy Portulaca Body Mist (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22977_1-thumbnail-255x255-70.jpg",
+     "price": "165.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/caryophy-xit-mun-lung-portulaca-body-mist-150ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tẩy trang cho da nhạy cảm, da mụn Caryophy Smart Cleansing Water (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22978_1-thumbnail-255x255-70.jpg",
+     "price": "138.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/caryophy-tay-trang-cho-da-nhay-cam-da-mun-smart-cleansing-water-500ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông tẩy trang Jomi (Túi 120 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18118_3-thumbnail-255x255-70.jpg",
+     "price": "29.600 đ/ Túi",
+     "link": "https://www.pharmacity.vn/bong-tay-trang-jomi-tui-120-mieng.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông tẩy trang, đắp dưỡng miếng đôi Silcot (Hộp 40 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19397_1_l-thumbnail-255x255.webp",
+     "price": "57.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bong-tay-trang-dap-duong-mieng-doi-silcot-hop-40-mieng.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông tẩy trang đa dụng Pharmacity (80 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10340_1_l-thumbnail-255x255.webp",
+     "price": "21.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bong-tay-trang-da-dung-pharmacity-80-mieng-hop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông tẩy trang cao cấp Unicharm Silcot (82 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08282_1_l-thumbnail-255x255.webp",
+     "price": "43.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bong-tay-trang-cao-cap-unicharm-silcot-82-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông tẩy trang cao cấp Pharmacity (80 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10339_1_l-thumbnail-255x255.webp",
+     "price": "30.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bong-tay-trang-cao-cap-pharmacity-80-mienghop.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bông tẩy trang cao cấp dạng tròn Pharmacity (80 miếng/túi)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P14735_1_l-thumbnail-255x255.webp",
+     "price": "26.500 đ/ Túi",
+     "link": "https://www.pharmacity.vn/bong-tay-trang-cao-cap-dang-tron-pharmacity-80-miengtui.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt sạch nhờn và lỗ chân lông nhỏ mịn Biore (Tuýp 100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21245_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/biore-srm-sach-nhon-lo-chan-long-nho-min-100g.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel chống nắng màng nước mát lạnh Biore UV Aqua SPF50+ PA++++ (90ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22096_1n-thumbnail-255x255-70.jpg",
+     "price": "230.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/biore-gel-chong-nang-mang-nuoc-mat-lanh-uv-aqua-spf50-pa-90ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh dầu giảm rạn da mờ sẹo Bio Oil Skincare Oil Natural 60ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21243_2_l-thumbnail-255x255.webp",
+     "price": "220.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/bio-oil-tinh-dau-chong-ran-da-mo-seo-skincare-oil-natural-60ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh dầu giảm rạn da mờ sẹo Skincare Oil Natural Bio Oil 125ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21244_1_l-thumbnail-255x255.webp",
+     "price": "370.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/bio-oil-tinh-dau-chong-ran-da-mo-seo-skincare-oil-natural-125ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ dưỡng trắng và cấp ẩm Banobagi Vita Genic Jelly Mask Whitening & Moisture (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23438_1-thumbnail-255x255-70.jpg",
+     "price": "21.250 đ/ Miếng",
+     "link": "https://www.pharmacity.vn/banobagi-mat-na-vita-genic-jelly-mask-whitening-moisture.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Whitening & Acne (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23437_1-thumbnail-255x255-70.jpg",
+     "price": "21.250 đ/ Miếng",
+     "link": "https://www.pharmacity.vn/banobagi-mat-na-vita-genic-jelly-mask-whitening-acne.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Pore Tightening (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23431_1-thumbnail-255x255-70.jpg",
+     "price": "21.250 đ/ Miếng",
+     "link": "https://www.pharmacity.vn/banobagi-mat-na-vita-genic-jelly-mask-pore-tightening.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum giúp làm sáng da Balance Active Formula Niacinamide Blemish Recovery Serum (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22097_1-thumbnail-255x255-70.jpg",
+     "price": "250.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/balance-serum-khang-mun-mo-tham-active-formula-niacinamide-15-30ml.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ sản phẩm Balance Active Formula The Mighty Three Serum (3 chai x 30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23422_2-thumbnail-255x255-70.jpg",
+     "price": "360.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/balance-serum-bo-san-pham-balance-active-formula-the-mighty-three-vitamin-c-hyaluronic-gold-colagen.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế điện tử Omron MC - 246",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02171_1_l-thumbnail-255x255.webp",
+     "price": "68.600 đ/ Chiếc",
+     "link": "https://www.pharmacity.vn/nhiet-ke-dien-tu-omron-mc-246.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo đường huyết On-Call Extra",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18282_21-thumbnail-255x255-70.jpg",
+     "price": "1.550.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/may-do-duong-huyet-on-call-extra.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ cảm biến máy đo đường huyết nhanh FreeStyle Libre",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19822_1_l-thumbnail-255x255.webp",
+     "price": "1.600.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bo-cam-bien-may-do-duong-huyet-nhanh-freestyle-libre.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dụng dụ xét nghiệm nhanh Covid-19 Antigen Self-Test Abbott Panbio (Hộp 1 Test)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24976-thumbnail-255x255-70.jpg",
+     "price": "81.900 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/abbott-panbio-covid-19-antigen-self-test-hop-1-test.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Viên ngậm cai thuốc lá Acetium (3 vỉ x 10  viên)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17606_21-thumbnail-255x255-70.jpg",
+     "price": "204.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/vien-ngam-cai-thuoc-la-acetium-3-vi-x-10-vien.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế hồng ngoại Urgo",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22682_1-thumbnail-255x255-70.jpg",
+     "price": "658.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/urgo-nhiet-ke-hong-ngoai.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ xét nghiệm nhanh nước bọt Covid-19 Antigen Rapid Test Kit (Saliva)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23846-thumbnail-255x255-70.jpg",
+     "price": "69.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/test-nuoc-bot-covid-19-antigen-rapid-test-kit-saliva-hop-20-test.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ xét nghiệm nhanh kháng nguyên SARS-CoV-2 SureScreen Diagnostics Covid-19 Test Kit",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23862-thumbnail-255x255-70.jpg",
+     "price": "80.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/surescreen-diagnostics-covid-19-antigen-rapid-test-hop-25-test.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem bôi da Sodermix (15g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18258_1_l-thumbnail-255x255.webp",
+     "price": "310.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sodemix-cream-15gr.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Que thử đường huyết dùng cho máy đo đường huyết Ogcare (hộp 25 que)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09469_1_l-thumbnail-255x255.webp",
+     "price": "190.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/que-thu-duong-huyet-dung-cho-may-do-duong-huyet-ogcare-hop-25-que.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế hồng ngoại đo trán Microlife FR1MF1",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08456_1_l-thumbnail-255x255.webp",
+     "price": "1.000.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/nhiet-ke-hong-ngoai-do-tran-microlife-fr1mf1.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế đo trán Urgo Forehead Thermometer (Hộp 1 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17986_1_l-thumbnail-255x255.webp",
+     "price": "56.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/nhiet-ke-do-tran-urgo-forehead-thermometer-hop-1-cai.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế điện tử Pharmacity",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11902_1_l-thumbnail-255x255.webp",
+     "price": "67.800 đ/ Cái",
+     "link": "https://www.pharmacity.vn/nhiet-ke-dien-tu-pharmacity.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế điện tử MT-601A",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22042_1_l-thumbnail-255x255.webp",
+     "price": "34.500 đ/ Cái",
+     "link": "https://www.pharmacity.vn/nhiet-ke-dien-tu-mt-601a.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế điện tử Microlife MT550",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08458_1_l-thumbnail-255x255.webp",
+     "price": "210.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/nhiet-ke-dien-tu-microlife-mt550.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế điện tử Microlife MT500",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08457_1_l-thumbnail-255x255.webp",
+     "price": "95.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/nhiet-ke-dien-tu-microlife-mt500.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy xông mũi họng Microlife NEB 200",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12876_1_l-thumbnail-255x255.webp",
+     "price": "1.050.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/may-xong-mui-hong-microlife-neb-200.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo nồng độ oxy trong máu SpO2 và nhịp tim Jumper JDP-500E",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22174_1_l-thumbnail-255x255.webp",
+     "price": "149.700 đ/ Cái",
+     "link": "https://www.pharmacity.vn/may-do-nong-do-oxy-trong-mau-spo2-va-nhip-tim-jumper-jdp-500e.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo huyết áp Kachi MK167",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19794_1_l-thumbnail-255x255.webp",
+     "price": "790.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/may-do-huyet-ap-kachi-mk167.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo huyết áp cổ tay điện tử CK-W132",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22040_1_l-thumbnail-255x255.webp",
+     "price": "350.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/may-do-huyet-ap-co-tay-dien-tu-ck-w132.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo huyết áp bắp tay tự động Microlife BP A6 Basic",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08596_1_l-thumbnail-255x255.webp",
+     "price": "1.950.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/may-do-huyet-ap-bap-tay-tu-dong-microlife-bp-a6-basic.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo huyết áp bắp tay tự động Microlife BP 3NZ1-1P",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09292_1_l-thumbnail-255x255.webp",
+     "price": "800.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/may-do-huyet-ap-bap-tay-tu-dong-microlife-bp-3nz1-1p.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo huyết áp bắp tay Microlife B3 Basic",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16045_1_l-thumbnail-255x255.webp",
+     "price": "1.350.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/may-do-huyet-ap-bap-tay-microlife-b3-basic.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Máy đo đường huyết cá nhân OGCare",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09293_1-thumbnail-255x255-70.jpg",
+     "price": "1.150.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/may-do-duong-huyet-ca-nhan-ogcare.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kính bảo hộ cao cấp Asia Face Shield",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21716_1_l-thumbnail-255x255.webp",
+     "price": "70.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/kinh-bao-ho-cao-cap-asia-face-shield.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nhiệt kế hồng ngoại Kachi JXB-315",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21654_5-thumbnail-255x255-70.jpg",
+     "price": "790.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kachi-nhiet-ke-hong-ngoai-jxb-315.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Găng tay y tế không bột BKGloves Size S (100 Chiếc/Hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21937_1_l-thumbnail-255x255.webp",
+     "price": "160.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gang-tay-y-te-khong-bot-bkgloves-size-s-100-chiechop.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Găng tay y tế không bột BKGloves Size M (100 Chiếc/Hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21938_1_l-thumbnail-255x255.webp",
+     "price": "160.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gang-tay-y-te-khong-bot-bkgloves-size-m-100-chiechop.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Găng tay y tế không bột BKGloves Size L (100 Chiếc/Hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21939_1_l-thumbnail-255x255.webp",
+     "price": "160.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gang-tay-y-te-khong-bot-bkgloves-size-l-100-chiechop.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ xét nghiệm nhanh COVID-19 Humasis Test Kit",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21749-thumbnail-255x255-70.jpg",
+     "price": "89.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/dung-cu-xet-nghiem-nhanh-covid-19-humasis-hop-25-kit.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dụng cụ xét nghiệm nhanh COVID-19 COVICHEK COVID-19 Ag Test Kit (Hộp 5 bộ kit)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22039-thumbnail-255x255-70.jpg",
+     "price": "425.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/dung-cu-xet-nghiem-nhanh-covid-19-covichek-covid-19-ag-kit-hop-25-bo-kit.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ xét nghiệm nhanh COVID-19 tại nhà Humasis COVID-19 Ag Home Test Kit (Hộp 5 kit)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22588-thumbnail-255x255-70.jpg",
+     "price": "445.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bo-xet-nghiem-nhanh-covid-19-tai-nha-humasis-covid-19-ag-home-test-hop-5-kit.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ xét nghiệm nhanh COVID-19 tại nhà Humasis COVID-19 Ag Home Test Kit",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22589-thumbnail-255x255-70.jpg",
+     "price": "89.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/bo-xet-nghiem-nhanh-covid-19-tai-nha-humasis-covid-19-ag-home-test-hop-25-kit.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bình xịt oxy cầm tay chứa oxy tinh khiết 98% Oxy Blue (158g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21923_1_l-thumbnail-255x255.webp",
+     "price": "120.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/binh-xit-oxy-cam-tay-chua-oxy-tinh-khiet-98-oxy-blue-158g.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "AB-Intimus (Hộp 1 vỉ x 7 viên)",
+     "company": "AB-Biotics",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17422_1_l-thumbnail-255x255.webp",
+     "price": "350.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/ab-intimus-hop-1-vi-x-7-vien.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi dưỡng ẩm sinh lý cho nam giới BIX for Gentleman (Hộp 1 tuýp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22912_1-thumbnail-255x255-70.jpg",
+     "price": "280.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bix-gel-boi-duong-am-sinh-ly-cho-nam-gioi-30ml-hop-1-tuyp.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Pharmacity Ultra Performing (Hộp 3 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19385_1_l-thumbnail-255x255.webp",
+     "price": "25.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-pharmacity-ultra-performing-hop-3-cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Pharmacity Ultra Performing (Hộp 10 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19386_1_l-thumbnail-255x255.webp",
+     "price": "75.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-pharmacity-ultra-performing-hop-10-cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Que thử thai Pharmacity (Hộp 1 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24076_1_l-thumbnail-255x255.webp",
+     "price": "14.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/que-thu-thai-pharmacity-hop-1-cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Que thử thai nhanh Quickstick (1 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00107_1_l-thumbnail-255x255.webp",
+     "price": "22.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/que-thu-thai-nhanh-quickstick-1-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Que thử rụng trứng BioCheck Test (Hộp 7 test)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17347_1-thumbnail-255x255-70.jpg",
+     "price": "49.300 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/que-thu-rung-trung-biocheck-test-hop-7-test.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Condom Mystery Love Box Pharmacity (4 Hộp x 3 cái) - TẾT 2023",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P25141_1-thumbnail-255x255.png",
+     "price": "91.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/pmc-condom-mystery-love-box-4-hop-x-3-cai-tet-2023.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Pharmacity Ultra Performing N (Hộp 3 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P25056_22-thumbnail-255x255.png",
+     "price": "50.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/pmc-bao-cao-su-ultra-performing-n-h3cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Performa (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00439_1_l-thumbnail-255x255.webp",
+     "price": "68.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/oos-by-ncc-durex-perfoma-3c.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Fetherlite Ultima (12 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00437_1-thumbnail-255x255-70.jpg",
+     "price": "218.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/oos-by-ncc-durex-fetherlite-ultima-12c.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Okamoto Skinless Skin Purity (10 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07018_1_l-thumbnail-255x255.webp",
+     "price": "80.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/okamoto-bao-cao-su-skinless-skin-purity-hop10-cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Màng phim tránh thai VCF (3 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02241_1_l-thumbnail-255x255.webp",
+     "price": "125.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mang-phim-tranh-thai-vcf-3-mienghop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi trơn tạo cảm giác mát lạnh Durex KY Jelly (50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08797_1_l-thumbnail-255x255.webp",
+     "price": "85.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-boi-tron-tao-cam-giac-mat-lanh-durex-ky-jelly-50g.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi trơn hương tự nhiên Pharmacity Classic (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13058_1_l-thumbnail-255x255.webp",
+     "price": "63.900 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-boi-tron-huong-tu-nhien-pharmacity-classic-50ml.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi trơn hương dâu Pharmacity (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13059_1_l-thumbnail-255x255.webp",
+     "price": "63.900 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-boi-tron-huong-dau-pharmacity-50ml.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi trơn Durex Play Strawberry 100ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09316_1_l-thumbnail-255x255.webp",
+     "price": "185.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-boi-tron-durex-play-strawberry-100ml.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi trơn Durex Play Massage 2in1 (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01844_4-thumbnail-255x255-70.jpg",
+     "price": "290.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-boi-tron-durex-play-massage-2in1-200ml.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel bôi trơn Durex Play Classic (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01842_1_l-thumbnail-255x255.webp",
+     "price": "82.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-boi-tron-durex-play-classic-50ml.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bút thử thai Pharmacity (Hộp 1 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24077_1_l-thumbnail-255x255.webp",
+     "price": "35.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/but-thu-thai-pharmacity-hop-1-cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bút thử thai nhanh Phamatech Quickstick One-Step Midstream",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10744_1_l-thumbnail-255x255.webp",
+     "price": "78.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/but-thu-thai-nhanh-phamatech-quickstick-one-step-midstream.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bút thử thai nhanh Biocheck Early Detection",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08786_1-thumbnail-255x255-70.jpg",
+     "price": "31.200 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/but-thu-thai-nhanh-early-detection.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su siêu mỏng Pharmacity Ultra Invisible (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16289_22-thumbnail-255x255.png",
+     "price": "50.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-sieu-mong-pharmacity-ultra-invisible-3-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su siêu mỏng Pharmacity Ultra Invisible (10 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16290_22-thumbnail-255x255.png",
+     "price": "149.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-sieu-mong-pharmacity-ultra-invisible-10-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su siêu mỏng hương dâu Pharmacity Ultra Invisible Strawbery (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16291_22-thumbnail-255x255.png",
+     "price": "50.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-sieu-mong-huong-dau-pharmacity-ultra-invisible-strawbery-3-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su siêu mỏng hương bạc hà Pharmacity Ultra Invisible Peppermint (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16292_22-thumbnail-255x255.png",
+     "price": "50.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-sieu-mong-huong-bac-ha-pharmacity-ultra-invisible-peppermint-3-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Pharmacity Extra Thin (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10640_22-thumbnail-255x255.png",
+     "price": "47.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-pharmacity-extra-thin-3-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Pharmacity Extra Thin (10 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10641_22-thumbnail-255x255.png",
+     "price": "137.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-pharmacity-extra-thin-10-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Pharmacity Easy Fit (10 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09480_22-thumbnail-255x255.png",
+     "price": "87.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-pharmacity-easy-fit-10-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Okamoto Skinless Skin Vanilla (10 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07020_1_l-thumbnail-255x255.webp",
+     "price": "82.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-okamoto-skinless-skin-vanilla-10-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao Cao Su Okamoto 0.03 Real Fit (Hộp/3 Cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P06642_1_l-thumbnail-255x255.webp",
+     "price": "189.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-okamoto-003-real-fit-hop3-cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Okamoto 0.03 Platinum (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P06636_1_l-thumbnail-255x255.webp",
+     "price": "148.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-okamoto-0-03-platinum-3-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su kéo dài thời gian quan hệ Durex Performa (12 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00101_21-thumbnail-255x255-70.jpg",
+     "price": "225.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-keo-dai-thoi-gian-quan-he-durex-performa-12-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su hương socola Durex Naughty Chocolate (Hộp 3 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16800_1_l-thumbnail-255x255.webp",
+     "price": "45.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-huong-socola-durex-naughty-chocolate-3-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su hương dâu tây Durex Sensual Strawberry (Hộp 3 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16801_1_l-thumbnail-255x255.webp",
+     "price": "45.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-huong-dau-tay-durex-sensual-strawberry-3-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su gai lạnh Pharmacity Dot & Cool (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17046_22-thumbnail-255x255.png",
+     "price": "53.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-gai-lanh-pharmacity-dot-cool-3-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Pleasuremax (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00435_1-thumbnail-255x255-70.jpg",
+     "price": "60.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-pleasuremax-3-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Pleasuremax (12 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00438_1-thumbnail-255x255-70.jpg",
+     "price": "210.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-pleasuremax-12-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Kingtex (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00958_1_l-thumbnail-255x255.webp",
+     "price": "38.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-kingtex-3-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Kingtex (Hộp 12 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10157_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-kingtex-12-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao Cao Su Durex Jeans (Hộp 3 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20099_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-jeans-hop-3-cai.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Invisible Extra Thin (10 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09315_1_l-thumbnail-255x255.webp",
+     "price": "235.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-invisible-extra-thin-10-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Invisible Extra Lubricated (Hộp 10 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17605_21-thumbnail-255x255-70.jpg",
+     "price": "235.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-invisible-extra-lubricated-10-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Invisible (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08468_1_l-thumbnail-255x255.webp",
+     "price": "84.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-invisible-3-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Fetherlite Ultima (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00744_1-thumbnail-255x255-70.jpg",
+     "price": "60.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-fetherlite-ultima-3-caihop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Fetherlite (3 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00434_1-thumbnail-255x255-70.jpg",
+     "price": "60.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-fetherlite-3-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bao cao su Durex Fetherlite (12 cái/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00436_1_l-thumbnail-255x255.webp",
+     "price": "200.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bao-cao-su-durex-fetherlite-12-cai-hop.html",
+     "promo": { 
+          "name": "sinhsan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt thơm miệng Dentiplus hiệu quả gấp đôi không cồn (Chai 25ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10076_1_l-thumbnail-255x255.webp",
+     "price": "110.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-thom-mieng-dentiplus-hieu-qua-gap-doi-khong-con-25ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khử mùi toàn thân dành cho nam Axe Gold (135ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07583_4-thumbnail-255x255-70.jpg",
+     "price": "54.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khu-mui-toan-than-danh-cho-nam-axe-gold-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel gừng Wonmom (Chai 70g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P14693_1_l-thumbnail-255x255.webp",
+     "price": "330.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/wonmom-gel-gung-giam-mo-vung-eo-70g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả dưỡng tóc bóng mượt Tsubaki Premium Moist Conditioner (Chai 490ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23564_1_l-thumbnail-255x255-70.jpg",
+     "price": "199.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/tsubaki-dau-xa-premium-duong-toc-bong-muot-490ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm chỉ nha khoa Okamura (50 cây/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03927_1_l-thumbnail-255x255.webp",
+     "price": "11.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/tam-chi-nha-khoa-okamura-50-cay-goi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng chăm sóc toàn diện Splat (275ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23111_1-thumbnail-255x255-70.jpg",
+     "price": "115.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/splat-nsm-cham-soc-toan-dien-275ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum phục hồi tóc Cocoon Sachi (70ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21167_1_l-thumbnail-255x255.webp",
+     "price": "125.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/serum-phuc-hoi-toc-cocoon-sachi-70ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh nam Serenys (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23603_1-thumbnail-255x255-70.jpg",
+     "price": "129.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/serenys-dung-dich-ve-sinh-nam-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sáp khử mùi Old Spice Fiji With Palm Tree Anti-Perspirant & Deodorant (Chai 73g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12977-thumbnail-255x255-70.jpg",
+     "price": "109.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sap-khu-mui-cho-nam-old-spice-fiji-73g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng P/S lông tơ sạch hiệu quả",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07570_1_l-thumbnail-255x255.webp",
+     "price": "9.500 đ/ Cây",
+     "link": "https://www.pharmacity.vn/ps-bcdr-long-to-sach-hieu-qua.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng P/S lông tơ mềm mại",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07569_1_l-thumbnail-255x255.webp",
+     "price": "16.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/ps-bcdr-long-to-mem-mai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải điện công nghệ sóng âm P/S S100 Pro",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23011_1-thumbnail-255x255-70.jpg",
+     "price": "1.280.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/ps-ban-chai-dien-pro-cong-nghe-song-am.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm sạch sảng khoái Protex Fresh (500ml/450ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22269_1-thumbnail-255x255-70.jpg",
+     "price": "45.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/protex-sua-tam-sach-sang-khoai-fresh-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm chứa hạt Lilac & Mulbery Pharmacity (Chai 400g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22234_1_l-thumbnail-255x255-70.jpg",
+     "price": "39.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-sua-tam-chua-hat-lilac-mulberry-400g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn - Chăm sóc trọn vẹn Pharmacity Mickey go Việt Nam (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21907_1-thumbnail-255x255-70.jpg",
+     "price": "34.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-mickey-go-vn-nuoc-rua-tay-bao-ve-khoi-vi-khuan-cham-soc-tron-ven-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn - Bảo vệ tối đa Pharmcity Mickey go Viet Nam (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21906_1N-thumbnail-255x255-70.jpg",
+     "price": "34.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-mickey-go-vn-nuoc-rua-tay-bao-ve-khoi-vi-khuan-bao-ve-toi-da-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel tắm Táo và Kiwi Pharmacity (400g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10642_1_l-thumbnail-255x255.webp",
+     "price": "39.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-apple-kiwi-exfoliating-shower-gel.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm Táo & Kiwi Pharmacity  (750ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10657_1_l-thumbnail-255x255.webp",
+     "price": "44.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-apple-kiwi-body-wash.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm ngăn mùi nam bạc hà mát lạnh Men's Bioré (440ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20476_1-thumbnail-255x255-70.jpg",
+     "price": "55.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/mens-biore-sua-tam-khu-mui-nam-bac-ha-mat-lanh-440ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm Love Skin Goat's Milk Shower (1L)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17282_1_l-thumbnail-255x255.webp",
+     "price": "34.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/love-skin-goats-milk-shower-cream.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng than hoạt tính sạch hiệu quả Colgate (170g90g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P14243_1_l-thumbnail-255x255.webp",
+     "price": "24.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-than-hoat-tinh-colgate-190g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng Sensodyne Cool Gel mát lạnh (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00448_1N-thumbnail-255x255-70.jpg",
+     "price": "48.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-sensodyne-cool-gel-mat-lanh-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem chống nắng dành cho da nhạy cảm Cancer Council (110ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18815_3-thumbnail-255x255-70.jpg",
+     "price": "395.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/kem-chong-nang-danh-cho-da-nhay-cam-cancer-council-110ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn Chải Điện Làm Sạch Sâu Halio Sonic Smart Clean Electric Toothbrush",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23663_1-thumbnail-255x255-70.jpg",
+     "price": "850.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/halio-ban-chai-dien-sonic-smart-clean-electric-toothbrush.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gen nịt bụng WonMom",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18768_1_l-thumbnail-255x255.webp",
+     "price": "190.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/gen-nit-bung-wonmom.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel tắm Pharmacity Dragonfruit & Goji Berry (400g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10643_1_l-thumbnail-255x255.webp",
+     "price": "32.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-tam-pharmacity-dragonfruit-goji-berry-400g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel chăm sóc da khô Bio-Oil Dry Skin (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16824_1_l-thumbnail-255x255.webp",
+     "price": "57.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-cham-soc-da-kho-bio-oil-dry-skin-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Wax tạo kiểu tóc giữ nếp vững chắc Gatsby Ultimate & Shaggy (75g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03911_1_l-thumbnail-255x255.webp",
+     "price": "62.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gatsby-wax-tao-kieu-toc-ultimatte-shaggy-75g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel vuốt tóc Gatsby Water Gloss Hard (170g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P06943_1_l-thumbnail-255x255.webp",
+     "price": "23.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gatsby-gel-vuot-toc-gloss-hard-170g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem tẩy tế bào chết Felina Body Scrub Cream Arabica Coffee (220g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22677_1-thumbnail-255x255-70.jpg",
+     "price": "129.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/felina-kem-tay-te-bao-chet-hat-ca-phe-va-tinh-dau-dua220g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dao Cạo Dorco  Pace3+ (Set 8 Cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20516_1-thumbnail-255x255-70.jpg",
+     "price": "86.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/dorco-dao-cao-pace3-set-8-cai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm mát lạnh Dettol Dettol Instant Cool (Chai 950g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22502_1-thumbnail-255x255-70.jpg",
+     "price": "176.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dettol-sua-tam-mat-lanh-950g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng chăm sóc đặc biệt Dentaid (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23339_1-thumbnail-255x255-70.jpg",
+     "price": "68.750 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dentaid-nsm-cham-soc-dac-biet-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Sunsilk mềm mượt diệu kỳ (Chai 650g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07064_1-thumbnail-255x255-70.jpg",
+     "price": "141.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-mem-muot-dieu-ky-sunsilk-650g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội khô làm phồng tóc Girlz Only Dazzling Volume (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18998_1_l-thumbnail-255x255.webp",
+     "price": "108.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-kho-lam-phong-toc-girlz-only-dazzling-volume-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội giảm gãy rụng tóc tinh dầu bưởi Fresh (320g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19013_1_l-thumbnail-255x255.webp",
+     "price": "64.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-giam-gay-rung-toc-tinh-dau-buoi-fresh-320g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội bồ kết suôn mượt óng ả Fresh (650g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19010_1_l-thumbnail-255x255.webp",
+     "price": "108.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-bo-ket-suon-muot-ong-a-fresh-650g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả dưỡng chất tinh dầu bưởi Cocoon 310ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22887_1-thumbnail-255x255-70.jpg",
+     "price": "165.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/cooon-dau-xa-duong-chat-tinh-dau-buoi-310ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước Rửa Tay Khô Khuynh Diệp & Bạc Hà Cocoon (140ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22670_3-thumbnail-255x255-70.jpg",
+     "price": "75.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/cocoon-nuoc-rua-tay-kho-khuynh-diep-va-bac-ha-140ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban ngày Elis Fairy Wings 22.5 cm (Gói 8 Miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24420_1_l-thumbnail-255x255.webp",
+     "price": "9.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-ban-ngay-elis-fairy-wings-225-cm-goi-8-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ Laurier Fresh & Free siêu mỏng cánh siêu thấm tối đa (12 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11385_1_l-thumbnail-255x255.webp",
+     "price": "13.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-laurier-fresh-free-sieu-mong-canh-sieu-tham-toi-da-12-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng lót siêu thấm Abena Abri - Light Extra (Gói 10 miếng 33cm)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18772_1_l-thumbnail-255x255.webp",
+     "price": "88.400 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-lot-sieu-tham-abri-light-extra-goi-10-mieng-33cm.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn ngăn mùi giảm tiết mồ hôi cho nam Adidas 6 in 1 Cool & Dry (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20474_1-thumbnail-255x255-70.jpg",
+     "price": "34.750 đ/ Chai",
+     "link": "https://www.pharmacity.vn/adidas-lkm-nam-ngan-mo-hoi-6-in-1-cool-dry-40ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khử mùi X-men For Boss Legend Perfumed Deo Spray (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23034_1-thumbnail-255x255-70.jpg",
+     "price": "120.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/x-men-xkm-for-boss-legend-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt X-Men Go Refresh 100g",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23027_1-thumbnail-255x255-70.jpg",
+     "price": "55.300 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/x-men-srm-go-refresh-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi X-men For Boss Legend Perfumed Deo Roll-On (Chai 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23030_1-thumbnail-255x255-70.jpg",
+     "price": "79.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/x-men-lkm-for-boss-legend-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt thơm miệng Dentiplus Alcohol Free Breath Spray (Chai 25ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10075_1_l-thumbnail-255x255.webp",
+     "price": "110.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-thom-mieng-dentiplus-bac-ha-khong-con-khong-duong-25ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt rửa tay Pharmacity hương trà xanh",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13021_1_l-thumbnail-255x255.webp",
+     "price": "27.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/xit-rua-tay-huong-tra-xanh.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "XỊT RỬA TAY HƯƠNG HOA OẢI HƯƠNG",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17284_1_l-thumbnail-255x255.webp",
+     "price": "27.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-rua-tay-huong-hoa-oai-huong.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel xịt khuẩn bảo vệ khỏi 99.9% vi khuẩn Lifebuoy an toàn cho da (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18648_1-thumbnail-255x255-70.jpg",
+     "price": "29.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-rua-tay-bao-ve-vuot-troi-lifebuoy-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt ngăn mùi mồ hôi vượt trội Perspi-Guard Maximum Strength Antiperspirant (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21667_1_l-thumbnail-255x255.webp",
+     "price": "300.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-ngan-mui-mo-hoi-vuot-troi-perspi-guard-maximum-strength-antiperspirant-30ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khử mùi toàn thân X-men For Boss Intense Perfumed Deo Spray (Chai 150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07598_1_l-thumbnail-255x255.webp",
+     "price": "120.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khu-mui-toan-than-xmen-for-boss-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt ngăn mùi Nivea Anti-Perspirant Pearl & Beauty (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03829_1_l-thumbnail-255x255.webp",
+     "price": "101.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khu-mui-ngoc-trai-nivea-pearl-beauty-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khử mùi mát lạnh cho nam Nivea Men Cool Kick (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09121_1_l-thumbnail-255x255.webp",
+     "price": "115.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khu-mui-mat-lanh-cho-nam-nivea-men-cool-kick-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khử mùi Refre Whitening Perfume Deluxe | Hương sang trọng (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17499_1-thumbnail-255x255-70.jpg",
+     "price": "56.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khu-mui-huong-nuoc-hoa-refre-deluxe-huong-sang-trong-30ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt khử mùi Refre Natural Green tea Hương trà xanh (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20032_1-thumbnail-255x255-70.jpg",
+     "price": "59.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/xit-khu-mui-chiet-xuat-thien-nhien-refre-green-tea-huong-tra-xanh-30ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xà phòng giảm thâm nách Pelican Deitanseki Body Scrub Soap Bar (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21158_1_l-thumbnail-255x255.webp",
+     "price": "189.000 đ/ cục",
+     "link": "https://www.pharmacity.vn/xa-phong-tri-tham-nach-pelican-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xà phòng trái đào làm giảm thâm mông Pelican Hip Care Scrup Soap (80g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21159_1_l-thumbnail-255x255.webp",
+     "price": "170.000 đ/ cục",
+     "link": "https://www.pharmacity.vn/xa-phong-trai-dao-tri-tham-mong-pelican-80g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xà phòng tắm giảm mụn lưng Pelican For Back Soap Bar (135g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21157_1_l-thumbnail-255x255.webp",
+     "price": "126.650 đ/ cục",
+     "link": "https://www.pharmacity.vn/xa-phong-tam-tri-mun-lung-pelican-for-back-135g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xà phòng bảo vệ khỏi vi khuẩn Lifebuoy - Matcha và Khổ qua (Bánh 90g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17538_1_l-thumbnail-255x255.webp",
+     "price": "18.000 đ/ cục",
+     "link": "https://www.pharmacity.vn/xa-phong-lifebuoy-matcha-kho-qua-banh-90g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xà phòng bảo vệ khỏi vi khuẩn Dettol Original Antibacterial Soap (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21921_1_l-thumbnail-255x255.webp",
+     "price": "12.800 đ/ cục",
+     "link": "https://www.pharmacity.vn/xa-phong-diet-khuan-dettol-origin-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng cánh Whisper Ultra Clean (5 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03805_1-thumbnail-255x255-70.jpg",
+     "price": "20.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/whisper-bvs-sm-canh-ngay-5s.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất dưỡng thể Vaseline Healthy Bright Spf 50+ (Tuýp 300ml/320ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22183_3-thumbnail-255x255-70.jpg",
+     "price": "161.600 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/vaseline-tinh-chat-duong-the-sang-khoe-da-spf50-320ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội dưỡng tóc bóng mượt Tsubaki Premium Moist Shampoo (Chai 490ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23563_1_l-thumbnail-255x255-70.jpg",
+     "price": "199.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/tsubaki-dau-goi-premium-duong-toc-bong-muot-490ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất dưỡng thể dưỡng trắng giúp phục hồi & chống nắng Nivea Extra White Repair & Protect SPF50 (180ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10733_1_l-thumbnail-255x255.webp",
+     "price": "156.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/tinh-chat-duong-the-duong-trang-giup-phuc-hoi-chong-nang-nivea-extra-white-spf50-180ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội dược liệu Thái Dương 7 Plus (Chai 250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22880_1-thumbnail-255x255-70.jpg",
+     "price": "168.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/thai-duong-7-plus-dau-goi-duoc-lieu-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm chải kẻ răng Tepe EasyPick XS/S Pocket (12 cái/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23345_1-thumbnail-255x255-70.jpg",
+     "price": "40.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/tepe-tam-chai-ke-rang-easypick-xss-pocket-12caigoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Cà phê Đắk Lắk làm sạch da chết cơ thể Cocoon (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21165_1_l-thumbnail-255x255.webp",
+     "price": "115.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/tay-da-chet-body-tu-ca-phe-dak-lak-cocoon-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm chỉ kẽ răng Pharmacity (Gói 90 cây)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20692_1_l-thumbnail-255x255.webp",
+     "price": "40.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/tam-chi-ke-rang-pharmacity-goi-90-cay.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm chỉ kẽ răng Jomi (Gói 80 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22141_1_l-thumbnail-255x255.webp",
+     "price": "39.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/tam-chi-ke-rang-jomi-goi-80-cai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tã dán siêu thấm cho người lớn Caryn size XL (Gói 10 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12846_1n-thumbnail-255x255-70.jpg",
+     "price": "142.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/ta-dan-sieu-tham-cho-nguoi-lon-caryn-size-xl-goi-10-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm Reihaku Hatomugi Body Soap (Chai 800ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21162_1_l-thumbnail-255x255.webp",
+     "price": "140.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-trang-da-hatomugi-800ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm mật ong Dettol Onzen Nourishing (200g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21920_1_l-thumbnail-255x255.webp",
+     "price": "65.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-mat-ong-dettol-onzen-200g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm hoa anh đào Purité (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07423_1_l-thumbnail-255x255.webp",
+     "price": "107.100 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-hoa-anh-dao-purite-by-provence-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm gội Old Spice High Endurance Crisp Scent 2in1 Hair + Body Wash Shampooing (Chai 532ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18839_1N-thumbnail-255x255-70.jpg",
+     "price": "153.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-goi-2-trong-1-crisp-scent-old-spice-chai-532ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm bảo vệ khỏi khuẩn Dettol Original Antibacterial Body Wash (950g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21919_1_l-thumbnail-255x255.webp",
+     "price": "178.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-diet-khuan-dettol-origin-950g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm làm sạch, giúp kháng khuẩn Dettol Original Antibacterial Body Wash (250g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21918_1_l-thumbnail-255x255.webp",
+     "price": "65.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-diet-khuan-dettol-origin-250g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm hoa hồng Purité (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07424_1_l-thumbnail-255x255.webp",
+     "price": "153.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-chiet-xuat-hoa-hong-purite-by-provence-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm bảo vệ khỏi vi khuẩn Lifebuoy Bảo Vệ Vượt Trội 10 (Chai 800g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21161_1_l-thumbnail-255x255.webp",
+     "price": "157.470 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-tam-bao-ve-vuot-troi-lifebuoy-chai-850g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa rửa mặt than đen hoạt tính cho nam Nivea Men Deep White Oil Clear Mud Foam (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10969_1_l-thumbnail-255x255.webp",
+     "price": "99.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-than-den-hoat-tinh-cho-nam-giup-da-sach-nhon-sang-khoe-nivea-men-deep-white-oil-clear-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem rửa mặt Oxy Total Anti-Acne (Tuýp 100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11400_1-thumbnail-255x255-70.jpg",
+     "price": "66.300 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-rua-mat-cho-nam-ngan-ngua-mun-oxy-total-anti-acne-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa dưỡng thể dưỡng da sáng tức thì gấp 4 lần Vaseline Healthy Bright (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07056_1-thumbnail-255x255-70.jpg",
+     "price": "100.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-duong-the-duong-da-sang-tuc-thi-gap-4-lan-vaseline-healhy-white-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa dưỡng da tay Reihaku Hatomugi Hand Cream (Tuýp 65g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21664_1_l-thumbnail-255x255.webp",
+     "price": "68.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/sua-duong-da-tay-hatomugi-65g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa chống nắng cực mạnh Sunplay Super Block SPF 81/PA++++ (Chai 70g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11393_1_l-thumbnail-255x255.webp",
+     "price": "162.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sua-chong-nang-cuc-manh-sunplay-super-block-spf-81pa-70g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Serum dưỡng da ban đêm Nivea Extra White Night Nourish (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04078_1_l-thumbnail-255x255.webp",
+     "price": "109.200 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/serum-duong-trang-da-ban-dem-nivea-extra-white-night-nourish-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội chống gàu selsun 1% (Chai 250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24705_7-thumbnail-255x255-70.jpg",
+     "price": "166.400 đ/ Chai",
+     "link": "https://www.pharmacity.vn/selsun-dau-goi-chong-gau-1-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sáp khử mùi nam Old Spice Wild Collection Wolfthorn Anti-Perspirant & Deodorant (Chai 73g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09524_1-thumbnail-255x255-70.jpg",
+     "price": "116.800 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sap-khu-mui-nam-old-spice-wolfthorn-73g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sáp khử mùi cho nam Old Spice Bearglove (73g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09525_1-thumbnail-255x255-70.jpg",
+     "price": "146.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/sap-khu-mui-cho-nam-old-spice-bearglove-73g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sáp dưỡng ẩm Vaseline Pure Petroleum Jelly Original (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13420_1_l-thumbnail-255x255.webp",
+     "price": "57.500 đ/ Hũ",
+     "link": "https://www.pharmacity.vn/sap-duong-am-vaseline-original-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sáp dưỡng ẩm Vaseline Pure Petroleum Jelly Original (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13421_1_l-thumbnail-255x255.webp",
+     "price": "78.750 đ/ Hũ",
+     "link": "https://www.pharmacity.vn/sap-duong-am-vaseline-original-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm Safeguard Pure White Body Wash (Chai 720ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22185_1-thumbnail-255x255-70.jpg",
+     "price": "94.200 đ/ Chai",
+     "link": "https://www.pharmacity.vn/safeguard-sua-tam-trang-tinh-khiet-720ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm sạch khuẩn Romano Classic (Chai 180g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23017_1N-thumbnail-255x255-70.jpg",
+     "price": "42.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/romano-st-sach-khuan-classic-180g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi Romano Classic (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03720_1_l-thumbnail-255x255-70.jpg",
+     "price": "65.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/romano-lkm-classic-xanh-la-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi cao cấp Romano Vip Vision (Chai 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23019_1-thumbnail-255x255-70.jpg",
+     "price": "75.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/romano-lkm-cao-cap-vision-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng trà xanh P/S Fresh Naturals (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23965_2-thumbnail-255x255-70.jpg",
+     "price": "75.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/ps-nuoc-suc-mieng-tra-xanh-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt rửa tay khô hương trà xanh Pharmacity (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22249_22-thumbnail-255x255.png",
+     "price": "35.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-xit-rua-tay-kho-huong-tra-xanh-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Xịt rửa tay khô hương hoa oải hương Pharmacity (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22250_22-thumbnail-255x255.png",
+     "price": "35.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-xit-rua-tay-kho-huong-lavender-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm Lilac & Mulberry Pharmacity (Chai 750ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22232_1_l-thumbnail-255x255-70.jpg",
+     "price": "44.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-sua-tam-lilac-mulberry-750ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm chứa hạt Peach & Peony Pharmacity (Chai 400g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22235_1_l-thumbnail-255x255-70.jpg",
+     "price": "79.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-sua-tam-chua-hat-peach-peony-400g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay Peach & Peony Pharmacity (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22237_22-thumbnail-255x255.png",
+     "price": "69.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-nuoc-rua-tay-peach-peony-500m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm bảo vệ khỏi vi khuẩn - Chăm sóc trọn vẹn Pharmacity Mickey go Viet Nam (850ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21909_1-thumbnail-255x255-70.jpg",
+     "price": "69.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-mickey-go-vn-sua-tam-bao-ve-khoi-vi-khuan-cham-soc-tron-ven-850ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm bảo vệ khỏi vi khuẩn - Bảo vệ tối đa Pharmacity Mickey go Viet Nam (850ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21908_1-thumbnail-255x255-70.jpg",
+     "price": "69.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-mickey-go-vn-sua-tam-bao-ve-khoi-vi-khuan-bao-ve-toi-da-850ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel diệt khuẩn tay hương Rosy & Floral Pharmacity Mickey go Việt Nam (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21904_1-thumbnail-255x255-70.jpg",
+     "price": "27.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pmc-mickey-go-vn-gel-diet-khuan-tay-huong-rosy-floral-30ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Pharmacity Sữa tắm Mixed Berries 750ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10660_1_l-thumbnail-255x255.webp",
+     "price": "89.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-sua-tam-mixed-berries-750ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Pharmacity Olive Oil Shampoo (Chai 60ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13016_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-olive-oil-shampoo-60-ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Pharmacity Olive Oil Shampoo (Chai 490ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13012_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-olive-oil-shampoo-490-ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả Pharmacity Olive Oil Conditioner (Chai 60ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13018_21-thumbnail-255x255-70.jpg",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-olive-oil-conditioner-60ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả Pharmacity Olive Oil Conditioner (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13014_22-thumbnail-255x255.png",
+     "price": "79.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-olive-oil-conditioner-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tinh chất mật ong Manuka và chiết xuất lô hội Pharmacity Natural Care Body Wash (Chai 550g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20100_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-natural-care-body-wash-tinh-chat-mat-ong-manuka-va-chiet-xuat-lo-hoi-550g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm hương lựu đỏ và chiết xuất lô hội Pharmacity Natural Care Body Wash (Chai 550g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20102_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-natural-care-body-wash-huong-luu-do-va-chiet-xuat-lo-hoi-550g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay Pharmacity Mixed Berries 500ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10656_22-thumbnail-255x255.png",
+     "price": "69.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-mixed-berries-hand-wash.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel tắm Pharmacity Mixed Berries Exfoliating Shower Gel (Chai 400g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10645_1_l-thumbnail-255x255.webp",
+     "price": "79.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-mixed-berries-exfoliating-shower-gel.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Pharmacity Argan Oil (60 ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13015_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-argan-oil-shampoo-60-ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Pharmacity Argan Oil (490ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13011_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-argan-oil-shampoo-490ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả Pharmacity Argan Oil (60 ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13017_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-argan-oil-conditioner-60ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả Pharmacity  Argan Oil (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13013_22-thumbnail-255x255.png",
+     "price": "79.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-argan-oil-conditioner-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay Pharmacity Apple Kiwi Hand Wash (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10653_22-thumbnail-255x255.png",
+     "price": "69.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-apple-kiwi-hand-wash.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội ngăn rụng tóc Pharmacity Anti Hair Loss Shampoo (Chai 190ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13043_1_l-thumbnail-255x255.webp",
+     "price": "120.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/pharmacity-anti-hair-loss-shampoo.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả ngăn rụng tóc Pharmacity Anti-hair Loss Conditioner (150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13044_1_l-thumbnail-255x255.webp",
+     "price": "98.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/pharmacity-anti-hair-loss-conditioner.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội nước hoa Wood 12h thơm lâu sạch sâu X-men (180g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P05329_1_l-thumbnail-255x255.webp",
+     "price": "66.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/oos-by-ncc-x-men-dg-wood-sport-thom-lau-180g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng phục hồi răng nhạy cảm Sensodyne Repair & Protect (75ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08733_1-thumbnail-255x255-70.jpg",
+     "price": "97.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/oos-by-ncc-sensodyne-kdr-repair-protect-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng Listerine Mouthwash Tartar Protection (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08888_1N-thumbnail-255x255-70.jpg",
+     "price": "66.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/oos-by-ncc-listerine-tartar-protection-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Tăm chỉ nha khoa Okamura (90 cây/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03926_1_l-thumbnail-255x255.webp",
+     "price": "42.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/okamura-tam-chi-nha-khoa-90-cay-goi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng vị gừng thảo mộc Listerine Gum Care Mouthwash (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20107_1_l-thumbnail-255x255.webp",
+     "price": "59.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-vi-gung-thao-moc-listerine-gum-care-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng Thái Dương Mouthwash Valentine (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P14296_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-thai-duong-valentine-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng P/S Pro Complete (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20106_3-thumbnail-255x255-70.jpg",
+     "price": "75.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-ps-pro-complete-500-ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng P/S Active Defense (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19832_3-thumbnail-255x255-70.jpg",
+     "price": "105.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-ps-active-defense-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng ngăn ngừa vôi răng Listerine Mouthwash Tartar Protection (750ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17555_1-thumbnail-255x255-70.jpg",
+     "price": "155.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-ngan-ngua-voi-rang-listerine-tartar-protection-750ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng hương bạc hà sảng khoái Colgate Mouthwash Plax Peppermint Fresh (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11360_1_l-thumbnail-255x255.webp",
+     "price": "79.200 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-huong-bac-ha-sang-khoai-colgate-plax-peppermint-fresh-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng chăm sóc nướu, sạch vi khuẩn, ngừa sâu răng Kin Gingival Mouthwash Gums Gencives 250ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02389_1_l_1-thumbnail-255x255-70.jpg",
+     "price": "120.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-dieu-tri-nha-chu-viem-nuou-kin-gingival-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng diệt khuẩn Listerine Mouthwash Cool Mint Zero Alcohol (750ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17556_1_l-thumbnail-255x255.webp",
+     "price": "146.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-diet-khuan-listerine-750ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng Listerine Coolmint (750ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P02439-thumbnail-255x255-70.jpg",
+     "price": "146.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-diet-khuan-huong-bac-ha-mat-lanh-listerine-750ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng diệt khuẩn hương bạc hà mát lạnh Listerine Cool Mint (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00429_1_l-thumbnail-255x255.webp",
+     "price": "43.050 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-diet-khuan-huong-bac-ha-mat-lanh-listerine-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng cho trẻ em Listerine Kids Mouthwash hương berry (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18080_1_l-thumbnail-255x255.webp",
+     "price": "49.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-suc-mieng-cho-tre-em-listerine-kids-mouthwash-huong-berry-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay Safeguard Pure White Liquid Hand Soap (Chai 450g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21164_1_l-thumbnail-255x255.webp",
+     "price": "44.100 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-rua-tay-safeguard-chai-450g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn Lifebuoy - Matcha và Lô Hội (Chai 450g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17550_1_l-thumbnail-255x255.webp",
+     "price": "89.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-rua-tay-lifebuoy-matcha-va-nha-dam-chai-500g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn Lifebuoy Bảo Vệ Vượt Trội 10 (Túi 400g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17551_1-thumbnail-255x255-70.jpg",
+     "price": "52.510 đ/ Túi",
+     "link": "https://www.pharmacity.vn/nuoc-rua-tay-lifebuoy-bao-ve-vuot-troi-10-450g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn chăm sóc toàn diện Pharmacity (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17430_18-thumbnail-255x255-70.jpg",
+     "price": "67.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-rua-tay-bao-ve-khoi-vi-khuan-cham-soc-toan-dien-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn chăm sóc toàn diện Pharmacity (Chai 200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P15960_1_l-thumbnail-255x255.webp",
+     "price": "17.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-rua-tay-bao-ve-khoi-vi-khuan-cham-soc-toan-dien-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn bảo vệ tối ưu Pharmacity (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17429_18-thumbnail-255x255-70.jpg",
+     "price": "33.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-rua-tay-bao-ve-khoi-vi-khuan-bao-ve-toi-uu-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay bảo vệ khỏi vi khuẩn bảo vệ tối ưu Pharmacity (Chai 200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P15959_1_l-thumbnail-255x255.webp",
+     "price": "34.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-rua-tay-bao-ve-khoi-vi-khuan-bao-ve-toi-uu-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước muối sinh lý Vĩnh Phúc Natriclorid 0.9% (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10766_1_l-thumbnail-255x255.webp",
+     "price": "9.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-muoi-sinh-ly-vinh-phuc-natriclorid-0-9-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Natri Clorid 0,9% Pharmacity (500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18393_1_l-thumbnail-255x255-70.jpg",
+     "price": "10.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-muoi-pharmacity-09-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa Feliz Premium – Romantic girl (25ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18412_1_l-thumbnail-255x255.webp",
+     "price": "29.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-hoa-feliz-premium-romantic-girl-25ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước dưỡng tóc tinh dầu bưởi Cocoon (140ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21166_1_l-thumbnail-255x255.webp",
+     "price": "145.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nuoc-duong-toc-tinh-dau-buoi-cocoon-140ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa dưỡng thể Nivea Extra White C&A Vitamin Lotion (180ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22182_1-thumbnail-255x255-70.jpg",
+     "price": "90.300 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/nivea-sua-duong-the-extra-white-ca-vitamin-180ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi ngọc trai sáng mịn Nivea Pearl & Beauty (25ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07609_1_l-thumbnail-255x255.webp",
+     "price": "43.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nivea-lkm-nu-ngoc-trai-25ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội dược liệu Nguyên Xuân bồng bềnh (Chai 250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22888_1-thumbnail-255x255-70.jpg",
+     "price": "88.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/nguyen-xuan-dau-goi-duoc-lieu-bong-benh-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả bưởi Milaganics (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22885_2-thumbnail-255x255-70.jpg",
+     "price": "92.400 đ/ Chai",
+     "link": "https://www.pharmacity.vn/milaganics-dau-xa-buoi-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội bưởi Milaganics 250ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22884_2-thumbnail-255x255-70.jpg",
+     "price": "169.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/milaganics-dau-goi-buoi-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán mũi lột mụn Bioré cho nam (4 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09553_1_l-thumbnail-255x255.webp",
+     "price": "16.200 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mieng-dan-mui-lot-mun-biore-cho-nam-4-mienghop.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Miếng dán lột mụn mũi cho nam Men's Bioré than hoạt tính (Hộp 4 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20489_1-thumbnail-255x255-70.jpg",
+     "price": "13.500 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/mens-biore-mieng-dan-mui-lot-mun-mui-nam-than-hoat-tinh-ho.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm đàn hương và dầu eladi Medimix (300ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22274_1-thumbnail-255x255-70.jpg",
+     "price": "95.400 đ/ Chai",
+     "link": "https://www.pharmacity.vn/medimix-sua-tam-nghe-300ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng giúp trắng răng Median Dental IQ 93% (120g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23350_1-thumbnail-255x255-70.jpg",
+     "price": "58.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/median-kdr-trang-rang-120g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem Đánh Răng Cho Hơi Thở Thơm Mát Median Dental Tartar Breath Toothpaste 120G",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23351_1-thumbnail-255x255-70.jpg",
+     "price": "58.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/median-kdr-giup-hoi-tho-thom-mat-120g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bọt cạo lông vùng kín Loli & The Wolf (120ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23788_1-thumbnail-255x255-70.jpg",
+     "price": "143.650 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/loli-the-wolf-bot-cao-long-vung-kin-120ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm bảo vệ khỏi vi khuẩn Lifebuoy - Chăm sóc da (Túi 800g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22276_1-thumbnail-255x255-70.jpg",
+     "price": "152.000 đ/ Túi",
+     "link": "https://www.pharmacity.vn/lifebuoy-sua-tam-cham-soc-da-850g-tui.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn ngăn mùi than đen hoạt tính cho nam Nivea Men Deep Dry & Clean Feel (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10970_1_l-thumbnail-255x255.webp",
+     "price": "96.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/lan-ngan-mui-than-den-hoat-tinh-cho-nam-nivea-men-deep-dry-clean-feel-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi cơ thể và giảm tiết mồ hôi vượt trội Perspi-Guard Maximum Strength Antiperspirant (30ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21668_1_l-thumbnail-255x255.webp",
+     "price": "300.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/lan-ngan-mui-mo-hoi-vuot-troi-perspi-guard-maximum-strength-antiperspirant-30ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi Refre Whitening Perfume Sweetie - Hương ngọt ngào (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20031_1_l-thumbnail-255x255.webp",
+     "price": "56.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/lan-khu-mui-huong-nuoc-hoa-refre-sweetie-huong-ngot-ngao-40ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng cánh Kotex Style (8 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P05585_21-thumbnail-255x255-70.jpg",
+     "price": "21.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/kotex-style-sm-canh-8m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng cánh ban đêm Kotex Style (3 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08754_1_l-thumbnail-255x255.webp",
+     "price": "19.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/kotex-style-lst-sieu-mong-canh-ban-dem-35cm-3m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng cánh ban đêm Kotex Style (4 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08378_21-thumbnail-255x255-70.jpg",
+     "price": "17.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/kotex-style-ban-dem-moi-smc-28cm-4m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh Kotex Max Cool  siêu mỏng có cánh 23cm (20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23803_1-thumbnail-255x255-70.jpg",
+     "price": "39.200 đ/ Gói",
+     "link": "https://www.pharmacity.vn/kotex-max-cool-bang-ve-sinh-sieu-mong-co-canh-23cm-20m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban ngày siêu mỏng không cánh Kotex Gardenia Deo+ 23cm (8 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P25084_1-thumbnail-255x255-70.jpg",
+     "price": "22.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/kotex-gardenia-deo-bvs-ban-ngay-khong-canh-23cm-8m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban ngày siêu mỏng cánh Kotex Gardenia Deo+ 23cm (8 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P25083_1-thumbnail-255x255-70.jpg",
+     "price": "23.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/kotex-gardenia-deo-bvs-ban-ngay-co-canh-23cm-8m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban ngày siêu mỏng có cánh Kotex Gardenia Deo+ 23cm (20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P25085_1-thumbnail-255x255-70.jpg",
+     "price": "49.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/kotex-gardenia-deo-bvs-ban-ngay-co-canh-23cm-20m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem tẩy lông cho da thường Cléo (25g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11334_1_l-thumbnail-255x255.webp",
+     "price": "44.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-tay-long-cho-da-thuong-cleo-25g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem rửa mặt tác động sâu Oxy Deep Wash (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00387_1-thumbnail-255x255-70.jpg",
+     "price": "71.400 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-rua-mat-tac-dong-sau-oxy-deep-wash-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem rửa mặt ngăn ngừa mụn Oxy Perfect Wash (100g/chai)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01433_1-thumbnail-255x255-70.jpg",
+     "price": "61.500 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-rua-mat-ngan-ngua-mun-perfect-wash-oxy-100gchai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem giảm thâm nách và khử mùi chiết xuất lá lộc đề Cléo (Tuýp 35g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18167_1_l-thumbnail-255x255.webp",
+     "price": "126.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-giam-tham-nach-chiet-xuat-la-loc-de-cleo-35g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem dưỡng Nivea Soft (Hộp 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03880_1_l-thumbnail-255x255.webp",
+     "price": "70.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-duong-lam-mem-da-nivea-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng hỗ trợ làm giảm ê buốt P/S Sensitive Mineral Expert Pro-Action (105g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20091_22-thumbnail-255x255.png",
+     "price": "81.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-tri-e-buot-ps-sensitive-mineral-expert-pro-action-105g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng tẩy trắng vị bạc hà Eucryl (62g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19172_22-thumbnail-255x255-70.jpg",
+     "price": "55.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-tay-trang-vi-bac-ha-eucryl-62g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng Sensodyne Repair & Protect Extra Fresh/Whitening (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08734_1_N-thumbnail-255x255-70.jpg",
+     "price": "97.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-phuc-hoi-rang-nhay-cam-sensodyne-repair-protect-extra-fresh-75ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng P/S Sensitive giảm ê buốt và trắng răng (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18303_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-giam-e-buot-ps-sensitive-expert-whitening-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng giảm ê buốt bạc hà Sensodyne Sensitive Fresh Mint (160g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18077_1N-thumbnail-255x255-70.jpg",
+     "price": "86.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-giam-e-buot-bac-ha-sensodyne-sensitive-fresh-mint-160g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng Gentle Whitening Sensodyne (160g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17527_1-thumbnail-255x255-70.jpg",
+     "price": "98.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-gentle-whitening-sensodyne-160g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng Colgate Max Fresh hương trà xanh (230g/225g) + Bàn chải đánh răng Slim Soft",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18069_1_l-thumbnail-255x255.webp",
+     "price": "50.500 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-colgate-max-fresh-huong-tra-xanh-230g-tang-01-ban-chai-danh-rang-slim-soft.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng chống ê buốt Sensodyne Gentle Whitening (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01144_2-thumbnail-255x255-70.jpg",
+     "price": "69.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-chong-e-buot-sensodyne-gentle-whitening-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng bạc hà tinh khiết Colgate (170g90g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11361_1_l-thumbnail-255x255.webp",
+     "price": "38.400 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/kem-danh-rang-bac-ha-tinh-khiet-colgate-total-190g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh Its me Pure&fit có cánh size vừa 25cm (12 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22455_1-thumbnail-255x255-70.jpg",
+     "price": "49.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/its-me-purefit-bang-ve-sinh-co-canh-size-vua-25cm-12m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lưỡi dao cạo râu Vector Gillette (2 lưỡi/vỉ)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03308_1_l-thumbnail-255x255.webp",
+     "price": "30.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/gillette-luoi-dcao-gl-vector-2-1csx480x2x12x400413sbd.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel khử mùi Gillette Arctic Ice Clear + Dri-Tech Anti-Perspirant/Deodorant (107ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22703_1_N-thumbnail-255x255-70.jpg",
+     "price": "125.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gillette-gel-khu-mui-clear-arctic-ice-107-ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dao cạo râu Gillette Vector Plus Razor 1Up (1 cái/vỉ)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03307_1N-thumbnail-255x255-70.jpg",
+     "price": "34.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/gillette-dao-cao-vector-plus-razor-1upx121012sbd.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel vuốt tóc X-Men Strong Hold 5 (150g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03244_1_l-thumbnail-255x255.webp",
+     "price": "57.500 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-vuot-toc-x-men-strong-hold-5-150g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa tay hương trà xanh (90ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10984_1_l-thumbnail-255x255.webp",
+     "price": "23.800 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-tay-huong-tra-xanh-90ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa tay Pharmacity hương trà xanh (320ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13020_1-thumbnail-255x255-70.jpg",
+     "price": "59.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-tay-huong-tra-xanh-320ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa tay hương trà xanh (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17371_1_l-thumbnail-255x255.webp",
+     "price": "5.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-tay-huong-tra-xanh-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "GEL RỬA TAY HƯƠNG HOA OẢI HƯƠNG (320ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17283_1-thumbnail-255x255-70.jpg",
+     "price": "59.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-tay-huong-hoa-oai-huong-320ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa tay hương hoa oải hương (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17370_1_l-thumbnail-255x255.webp",
+     "price": "5.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-tay-huong-hoa-oai-huong-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel rửa tay khô Lifebuoy - Bảo vệ vượt trội 10 (Chai 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18649_1_l-thumbnail-255x255.webp",
+     "price": "24.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-tay-diet-khuan-lifebuoy-total-10-chai-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel vệ sinh Saforelle Intensive Moisturizing Cleansing Care (Chai 250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00890_1_l-thumbnail-255x255.webp",
+     "price": "236.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-phu-khoa-saforelle-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel vệ sinh Saforelle Soin Lavant Doux / Saforelle Gentle Cleansing Care (Chai 100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00044_1_l-thumbnail-255x255.webp",
+     "price": "133.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gel-rua-phu-khoa-saforelle-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel dịu da sau tẩy lông Cléo Soothing Hair Minimizing Gel (50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11332_1_l-thumbnail-255x255.webp",
+     "price": "69.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gel-diu-da-sau-tay-long-giup-cham-moc-long-cleo-50g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel chăm sóc da khô Bio-Oil Dry Skin (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16823_1_l-thumbnail-255x255.webp",
+     "price": "100.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/gel-cham-soc-da-kho-bio-oil-dry-skin-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa nam Gatsby Urban Cologne Secret Style (60ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20499_1-thumbnail-255x255-70.jpg",
+     "price": "31.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/gatsby-nuoc-hoa-nam-secret-style-60ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel vuốt tóc Gatsby Super Hard Styling Gel (200g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20483_1-thumbnail-255x255-70.jpg",
+     "price": "60.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/gatsby-gel-vuot-toc-super-hard-200g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ cao cấp Femfresh Soothing Wash (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21581_3-thumbnail-255x255-70.jpg",
+     "price": "198.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/femfresh-dung-dich-ve-sinh-phu-nu-dac-tri-cao-cap-soothing-wash-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ cao cấp hằng ngày Femfresh Daily Intimate Wash (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21582_3-thumbnail-255x255-70.jpg",
+     "price": "168.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/femfresh-dung-dich-ve-sinh-phu-nu-cao-cap-hang-ngay-daily-intimate-wash-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa Feliz Perfume Provence (Màu trắng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16879_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-perfume-provence-mau-trang.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa Feliz Perfume Provence (Màu tím)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16883_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-perfume-provence-mau-tim.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa Feliz Perfume Provence (Màu hồng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P16878_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-perfume-provence-mau-hong.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay hương hoa oải hương Feliz Hand Wash Lavender Scent (Chai 500ML)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18623_1_l-thumbnail-255x255.webp",
+     "price": "24.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-hand-wash-lavender-scent-chai-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay hương trà xanh Feliz Hand Wash Green Tea Scent (Chai 500ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18622_1_l-thumbnail-255x255.webp",
+     "price": "49.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-hand-wash-green-tea-scent-chai-500ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "FELIZ BODY WASH VANILLA SCENT (1L)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18621_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-body-wash-vanilla-scent-1l.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "FELIZ BODY WASH ROSE SCENT (1L)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18620_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-body-wash-rose-scent-1l.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm chiết xuất sữa dê Feliz Body Wash Goat’s Milk (Chai 1 lít)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18619_1_l-thumbnail-255x255.webp",
+     "price": "119.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/feliz-body-wash-goats-milk-1l.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Muối tắm Felina Salt Glow Avocado (Hộp 500g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22676_1-thumbnail-255x255-70.jpg",
+     "price": "109.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/felina-tay-te-bao-chet-dang-muoi-chiet-xuat-bo-500g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi dành cho da rất nhạy cảm Etiaxil DÉTRANSPIRANT Traitement transpiration excessive Aisselles Peaux sensibles (15ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17959_1-thumbnail-255x255-70.jpg",
+     "price": "236.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/etiaxil-lan-khu-mui-dac-tri-danh-cho-da-rat-nhay-cam-aisselles-confort-15ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi dành cho da nhạy cảm Etiaxil DÉTRANSPIRANT Traitement transpiration forte CONFORT + Aisselles Peaux sensibles (15ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17958_1-thumbnail-255x255-70.jpg",
+     "price": "236.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/etiaxil-lan-khu-mui-dac-tri-danh-cho-da-nhay-cam-aisselles-sensibles-15ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sữa tắm hương nước hoa Enchantuer Deluxe Charming (180g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03708_1_l-thumbnail-255x255-70.jpg",
+     "price": "63.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/enchantuer-st-charming-vang-180g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Sáp khử mùi Enchantuer Charming Enchantuer Deluxe Stick Deodorant Anti-Perspirant Charming (Chai 40g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03677_1_l-thumbnail-255x255.webp",
+     "price": "89.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/enchantuer-sap-km-charming-vang-40g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ ngày dài tươi mát Lactacyd Odor Fresh 250ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18126_1_l-thumbnail-255x255-70.jpg",
+     "price": "73.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-ve-sinh-phu-nu-lactacyd-ngay-dai-tuoi-mat-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ kháng khuẩn và giảm ngứa Lactacyd Pro Sensitive (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04450_1-thumbnail-255x255-70.jpg",
+     "price": "81.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-ve-sinh-phu-nu-lactacyd-feminine-hygiene-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ ngày dài tươi mát Lactacyd Odor Fresh 150ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09608_1_l-thumbnail-255x255-70.jpg",
+     "price": "49.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-ve-sinh-phu-nu-lactacyd-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ dạng gel Pharmacity (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13220_1_l-thumbnail-255x255.webp",
+     "price": "32.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-ve-sinh-phu-nu-dang-gel-pharmacity.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ dạng bọt Pharmacity (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13221_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-ve-sinh-phu-nu-dang-bot-pharmacity.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch sát khuẩn tay nhanh On1 (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19806_1_l-thumbnail-255x255.webp",
+     "price": "22.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dung-dich-sat-khuan-tay-nhanh-on1-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dụng cụ vệ sinh lưỡi Beauty Formulas",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12662_1_l-thumbnail-255x255.webp",
+     "price": "60.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/dung-cu-ve-sinh-luoi-beauty-formulas.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dụng cụ cạo lưỡi Okamura",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03925_1_l-thumbnail-255x255.webp",
+     "price": "26.600 đ/ vỉ",
+     "link": "https://www.pharmacity.vn/dung-cu-cao-luoi-okamura.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng Dr. Muối hương vỏ chanh (Chai 1000ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23467_1-thumbnail-255x255-70.jpg",
+     "price": "32.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/drmuoi-nsm-huong-vo-chanh-1000ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng hương gừng Dr. Muối (Chai 1000ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23468_1-thumbnail-255x255-70.jpg",
+     "price": "25.600 đ/ Chai",
+     "link": "https://www.pharmacity.vn/drmuoi-nsm-huong-gung-1000ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Lăn khử mùi Dove Go Fresh (40ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07044_1_l-thumbnail-255x255.webp",
+     "price": "50.400 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dove-lkm-cucumber-40ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem khử mùi Collagen & Vitamin B3 sáng mịn đều màu Dove (Tuýp 50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22614_1-thumbnail-255x255-70.jpg",
+     "price": "63.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/dove-kem-khu-mui-collagen-vitamin-b3-sang-min-deu-mau-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dao cạo Dorco TD708DB (Set 5 Cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20509_1-thumbnail-255x255-70.jpg",
+     "price": "25.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/dorco-dao-cao-td708n-set-5-cai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh mát dịu siêu mỏng có cánh Diana SenSi Cool Fresh (8 Miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23142_1-thumbnail-255x255-70.jpg",
+     "price": "23.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/diana-bvs-sensi-cool-fresh-mat-diu-sieu-mong-canh-8m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước rửa tay kháng khuẩn Dettol Skincare Antibacterial Handwash (250g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22245_1-thumbnail-255x255-70.jpg",
+     "price": "46.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dettol-nuoc-rua-tay-diet-khuan-skincare-250g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước súc miệng kiểm soát mảng bám Perio-aid Active Control (Chai 150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23340_1-thumbnail-255x255-70.jpg",
+     "price": "68.750 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dentaid-nsm-kiem-soat-mang-bam-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả phục hồi ngăn gãy rụng Tsubaki Premium (490ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18993_1_l-thumbnail-255x255.webp",
+     "price": "159.200 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-xa-phuc-hoi-ngan-gay-rung-tsubaki-premium-490ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả chăm sóc tóc chắc khỏe OGX thick & full + biotin & collagen conditioner (385ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21169_1_l-thumbnail-255x255.webp",
+     "price": "221.250 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-xa-lam-day-toc-biotin-collagen-ogx-385ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu xả dành cho tóc gàu Selsun Anti-Dandruff Conditioner (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03819_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/dau-xa-danh-cho-toc-gau-selsun-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội sạch gàu sạch sâu cho nam Clear Men Deep Cleanse (170g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07036_1_l-thumbnail-255x255.webp",
+     "price": "30.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-tri-gau-sach-sau-cho-nam-clear-men-deep-cleanse-170g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội làm sạch gàu Head & Shoulders Ultra Men Cool Menthol Anti Dandruff Shampoo (350ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03287_1_l-thumbnail-255x255.webp",
+     "price": "105.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-tri-gau-head-shoulders-bac-ha-mat-lanh-350ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Head & Shoulders Anti-Dandruff Shampoo Sub Zero Sensation (Chai 800ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17519_1_l-thumbnail-255x255.webp",
+     "price": "213.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-sach-gau-sieu-mat-lanh-head-shoulders-800ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội sạch gàu, hết ngứa da đầu Selsun Anti Dandruff Shampoo (50ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P01267_1_l-thumbnail-255x255.webp",
+     "price": "56.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-sach-gau-het-ngua-da-dau-selsun-50ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội sạch gàu, hết ngứa da đầu Selsun Anti Dandruff Shampoo (100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00596_1_l-thumbnail-255x255.webp",
+     "price": "77.350 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-sach-gau-het-ngua-da-dau-selsun-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội sạch gàu Hainia (Hộp 50 gói x 5ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17623_1_l-thumbnail-255x255.webp",
+     "price": "210.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/dau-goi-sach-gau-hainia-hop-50-goi-x-5ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội phục hồi giảm gãy rụng Tsubaki Premium (490ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18994_1_l-thumbnail-255x255.webp",
+     "price": "159.200 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-phuc-hoi-ngan-gay-rung-tsubaki-premium-490ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội 50 Megumi Hair Fall Control Shampoo (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18995_1_l-thumbnail-255x255.webp",
+     "price": "127.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-ngan-rung-toc-megumi-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Dove ngăn gãy rụng tóc (Chai 640g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19006_1_l-thumbnail-255x255.webp",
+     "price": "150.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-ngan-gay-rung-toc-dove-640g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Matrix Gội Là Đen (10 gói x 25ml/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P15467_1_l-thumbnail-255x255.webp",
+     "price": "270.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/dau-goi-matrix-goi-la-den-10-goi-x-25ml-hop.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội chăm sóc tóc chắc khỏe OGX thick & full + Biotin & Collagen Shampoo (385ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21168_4-thumbnail-255x255-70.jpg",
+     "price": "221.250 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-lam-day-toc-biotin-collagen-ogx-385ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Head & Shoulders Ultra Men Cool Menthol Anti Dandruff Shampoo (Chai 850ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17520_1_l-thumbnail-255x255.webp",
+     "price": "159.600 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-head-shoulders-bac-ha-mat-lanh-chai-850ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội dược liệu Thái Dương 7 (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00997_1_l-thumbnail-255x255.webp",
+     "price": "105.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-duoc-lieu-thai-duong-7-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội dược liệu sạch gàu suôn mềm hương hoa Thái Dương 3 (200ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00248_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-duoc-lieu-sach-gau-suon-mem-huong-hoa-thai-duong-3-200ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội dược liệu Nguyên Xuân Xanh (250ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17618_1_l-thumbnail-255x255.webp",
+     "price": "80.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-duoc-lieu-nguyen-xuan-xanh-250ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Tresemmé Keratin Smooth (640g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07168_1-thumbnail-255x255-70.jpg",
+     "price": "220.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-danh-cho-toc-kho-xo-va-khong-vao-nep-tresemme-keratin-smooth-640g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội sạch gàu Clear Botanique 3 hạt siêu dưỡng (Chai 630g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18563_1_l-thumbnail-255x255.webp",
+     "price": "198.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-botanique-3-hat-sieu-duong-clear-chai-630g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội sạch gàu Clear Botanique 9 thảo dược quý (Chai 630g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17533_1-thumbnail-255x255-70.jpg",
+     "price": "198.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/dau-goi-9-loai-thao-duoc-clear-chai-650g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dao cạo March3+ Gillette (Hộp 1 cán dao + 2 lưỡi dao)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18975_2N-thumbnail-255x255-70.jpg",
+     "price": "193.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/dao-cao-march3-gillette-hop-1-can-dao-2-luoi-dao.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Dạ Hương (120ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04087_1_l-thumbnail-255x255.webp",
+     "price": "43.500 đ/ Chai",
+     "link": "https://www.pharmacity.vn/da-huong-nuoc-rua-phu-khoa-co-voi-bom-120ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội dưỡng chất tinh dầu bưởi Cocoon (Chai 310ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22886_1_l-thumbnail-255x255-70.jpg",
+     "price": "225.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/cooon-dau-goi-duong-chat-tinh-dau-buoi-310ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng than tre Hàn Quốc & bạc hà Colgate (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21873_1-thumbnail-255x255-70.jpg",
+     "price": "15.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/colgate-kdr-than-tre-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng Colgate Optic White O2 (Tuýp 85g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24703_1-thumbnail-255x255-70.jpg",
+     "price": "99.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/colgate-kdr-optic-white-o2-85g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Cốc nguyệt san siêu mềm BeU Cup",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17786_1_l-thumbnail-255x255.webp",
+     "price": "349.300 đ/ Cái",
+     "link": "https://www.pharmacity.vn/coc-nguyet-san-sieu-mem-beu-cup.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Cốc nguyệt san Lincup size 1",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12660_1n-thumbnail-255x255-70.jpg",
+     "price": "449.250 đ/ Cái",
+     "link": "https://www.pharmacity.vn/coc-nguyet-san-lincup.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Gel vệ sinh phụ nữ X2 Nano nghệ Cocayhoala (Chai 150ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23129_1-thumbnail-255x255-70.jpg",
+     "price": "246.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/co-cay-hoa-la-gel-ve-sinh-phu-nu-x2-nano-nghe-150ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng dạng gel Closeup White Attraction Diamond (100g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07555_1_l-thumbnail-255x255.webp",
+     "price": "31.600 đ/ Cây",
+     "link": "https://www.pharmacity.vn/close-up-kdr-kim-cuong-100g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem giảm thâm nách và khử mùi Cleo (35g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P24161_1-thumbnail-255x255-70.jpg",
+     "price": "101.400 đ/ Tuýp",
+     "link": "https://www.pharmacity.vn/cleo-kem-giam-tham-nach-va-khu-mui-35g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Dầu gội Clear bạc hà mát lạnh sạch gàu (630g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P07038_1-thumbnail-255x255-70.jpg",
+     "price": "175.000 đ/ Chai",
+     "link": "https://www.pharmacity.vn/clear-dg-mat-lanh-bac-ha-650g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Chỉ nha khoa Pharmacity (cuộn 50m/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13009_1_l-thumbnail-255x255.webp",
+     "price": "34.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/chi-nha-khoa-pharmacity-cuon-50m-hop.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Chỉ nha khoa Oral-B Satin Floss (Cuộn 50m)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13457_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/chi-nha-khoa-oral-b-satin-floss-cuon-50m.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Chỉ nha khoa Oral-B Essential Floss (50m/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P00989_22-thumbnail-255x255-70.jpg",
+     "price": "65.000 đ/ Cái",
+     "link": "https://www.pharmacity.vn/chi-nha-khoa-oral-b-essential-floss-50m-hop.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "BVS Laurier hàng ngày không hương (20 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P06631_1_l-thumbnail-255x255.webp",
+     "price": "18.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bvs-laurier-hang-ngay-khong-huong-20-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bột làm trắng răng vị bạc hà Eucryl (50g)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19173_1_l-thumbnail-255x255.webp",
+     "price": "41.250 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bot-lam-trang-rang-vi-bac-ha-eucryl-50g.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ sản phẩm kem đánh răng Colgate Maxfresh Peppermint Ice (230g/225g) + Bàn chải đánh răng cao cấp",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17298_1_l-thumbnail-255x255.webp",
+     "price": "50.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bo-san-pham-kem-danh-rang-huong-bac-ha-colgate-maxfresh-peppermint-ice-230g-ban-chai-danh-rang-cao-cap.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ bàn chải đánh răng Colgate 360 Charcoal Spiral (Vỉ 2 cây)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18072_1_l-thumbnail-255x255.webp",
+     "price": "72.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/bo-ban-chai-danh-rang-colgate-360-charcoal-spiral-vi-2-cay.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ 3 bàn chải đánh răng Slim Soft Pharmacity (3 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17015_1_l-thumbnail-255x255.webp",
+     "price": "10.000 đ/ Lọ",
+     "link": "https://www.pharmacity.vn/bo-3-ban-chai-danh-rang-slim-soft-pharmacity-3-cai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem vệ sinh phụ nữ kháng khuẩn và dưỡng ẩm BeUCare Ferminine Hygiene Cream - Antibac terial & moisturizing (Chai 100ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21699_1-thumbnail-255x255-70.jpg",
+     "price": "69.300 đ/ Chai",
+     "link": "https://www.pharmacity.vn/beucare-kem-ve-sinh-phu-nu-khang-khuan-va-duong-am-100ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Kem đánh răng than hoạt tính Beauty Formulas 125ml",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23092_3-thumbnail-255x255-70.jpg",
+     "price": "48.300 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/beauty-formulas-kdr-than-hoat-tinh-125ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải kẽ răng Beauty Formulas Active Interdental Brushes 0.45mm (6 cái/vỉ )",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P22580_1-thumbnail-255x255-70.jpg",
+     "price": "69.300 đ/ vỉ",
+     "link": "https://www.pharmacity.vn/beauty-formulas-ban-chai-ke-rang-active-interdental-brushes-045mm-6-caivi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh Whisper ban đêm siêu mỏng cánh 28cm Whisper (8 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13537_1n-thumbnail-255x255-70.jpg",
+     "price": "32.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-whisper-ban-dem-mem-mong-co-canh-28cm-8-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh Sofy Soft Tampon mềm mại (9 miếng/hộp)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P09749_1_l-thumbnail-255x255.webp",
+     "price": "55.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sofy-soft-tampon-mem-mai-9-mieng-hop.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu thấm không hương Active Fit Laurier 16.5cm (Gói  20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18202_1_l-thumbnail-255x255.webp",
+     "price": "22.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sieu-tham-khong-huong-active-fit-laurier-165cm-goi-20-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng mát lạnh Diana Sensi Cool Fresh (Gói 20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P14041_1_l-thumbnail-255x255.webp",
+     "price": "49.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sieu-mong-mat-lanh-diana-sensi-cool-fresh-goi-20-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng cánh Sofy Skin Comfort Ultra Thin 26cm (Gói 17 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18193_1_l-thumbnail-255x255.webp",
+     "price": "75.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sieu-mong-canh-sofy-skin-comfort-ultra-thin-26cm-goi-17-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng cánh Sofy Skin Comfort Ultra Thin 25cm (8 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10956_1_l-thumbnail-255x255.webp",
+     "price": "28.400 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sieu-mong-canh-sofy-skin-comfort-ultra-thin-25cm-8-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu mỏng cánh mát lạnh Diana Sensi Cool Fresh (8 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08879_1-thumbnail-255x255-70.jpg",
+     "price": "23.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sieu-mong-canh-mat-lanh-diana-sensi-cool-fresh-8-mieng-goi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu bảo vệ hằng ngày Kotex (8 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08159_1_l-thumbnail-255x255.webp",
+     "price": "8.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sieu-bao-ve-hang-ngay-kotex-8-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh siêu ban đêm có cánh 35cm Kotex (8 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13640_1_l-thumbnail-255x255.webp",
+     "price": "32.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-sieu-ban-dem-co-canh-35cm-kotex-8-mieng-goi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh mỏng cánh Sofy Sports 26cm (Gói 8 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P19805_1_l-thumbnail-255x255.webp",
+     "price": "43.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-mong-canh-sofy-sports-26cm-goi-8-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh mát lạnh hàng ngày Diana Sensi Cool Fresh (40 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12637_1-thumbnail-255x255-70.jpg",
+     "price": "40.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-mat-lanh-hang-ngay-diana-sensi-cool-fresh-40-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh Kotex Luxe Tampons (Hộp 16 Tampons loại vừa)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04708_1N-thumbnail-255x255-70.jpg",
+     "price": "72.000 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-kotex-luxe-tampons-16-tampons-loai-vua-hop.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh hàng ngày kháng khuẩn Diana Sensi 15.5cm (Gói 40 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18205_1-thumbnail-255x255-70.jpg",
+     "price": "29.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-hang-ngay-khang-khuan-diana-sensi-155cm-goi-40-4-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh hằng ngày Kotex (40 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P08756_1_l-thumbnail-255x255.webp",
+     "price": "30.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-hang-ngay-huong-tu-nhien-kotex-40-mieng-goi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh hàng ngày Diana Sensi Compact (Gói 40 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21703_1_l-thumbnail-255x255.webp",
+     "price": "31.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-hang-ngay-diana-sensi-compact-goi-40-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh hàng ngày Diana Sensi Compact (20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P21702_1_l-thumbnail-255x255.webp",
+     "price": "17.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-hang-ngay-diana-sensi-compact-20-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh Diana siêu thấm siêu mỏng cánh (Gói 20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11374-thumbnail-255x255-70.jpg",
+     "price": "44.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-diana-sieu-tham-sieu-mong-canh-goi-20-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh dạng quần chống tràn 360 độ Diana Sensi (Gói 5 cái - Size M-L)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18774_1_l-thumbnail-255x255.webp",
+     "price": "66.400 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-dang-quan-chong-tran-360-do-diana-sensi-goi-5-cai-size-m-l.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh cánh thường Whisper Wings (10 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03807_1-thumbnail-255x255-70.jpg",
+     "price": "22.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-canh-thuong-whisper-wings-10-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban ngày mềm mỏng có cánh 24cm Whisper (18 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13540_1-thumbnail-255x255-70.jpg",
+     "price": "41.600 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-ban-ngay-mem-mong-co-canh-24cm-whisper-18-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban đêm siêu thoáng Diana Sensi Cool Fresh 35cm (3 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P12638_21-thumbnail-255x255-70.jpg",
+     "price": "22.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-ban-dem-sieu-thoang-diana-sensi-cool-fresh-35cm-3-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban đêm siêu thấm hút có cánh Laurier 35cm (Gói 4 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18198_1_l-thumbnail-255x255.webp",
+     "price": "24.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-ban-dem-sieu-tham-hut-co-canh-laurier-35cm-goi-4-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban đêm siêu thấm có cánh Laurier 30cm (Gói 4 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18197_1_l-thumbnail-255x255.webp",
+     "price": "18.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-ban-dem-sieu-tham-co-canh-laurier-30cm-goi-4-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban đêm Diana Super Night 35cm (3 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P03253_1-thumbnail-255x255-70.jpg",
+     "price": "19.500 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-ban-dem-diana-super-night-35cm-3-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ sinh ban đêm Diana Sensi Night 29cm (4 miếng/gói)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P04695_22-thumbnail-255x255-70.jpg",
+     "price": "18.000 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-sinh-ban-dem-diana-sensi-night-29cm-4-mienggoi.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Băng vệ Laurier Fresh & Free siêu mỏng cánh siêu thấm tối đa (Gói 20 miếng)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P17506_1_l-thumbnail-255x255.webp",
+     "price": "31.200 đ/ Gói",
+     "link": "https://www.pharmacity.vn/bang-ve-laurier-fresh-free-sieu-mong-canh-sieu-tham-toi-da-goi-20-mieng.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng trẻ em Pharmacity",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P13777_1_l-thumbnail-255x255.webp",
+     "price": "15.800 đ/ Cái",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-tre-em-pharmacity.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng tinh chất trà đen Oral-B",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10495_1_l-thumbnail-255x255.webp",
+     "price": "36.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-tinh-chat-tra-den-oral-b.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng siêu mảnh Pharmacity Slim Soft",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11351_1_l-thumbnail-255x255.webp",
+     "price": "11.800 đ/ Cái",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-sieu-manh-pharmacity-slim-soft.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bộ 2 bàn chải đánh răng P/S than bạc kháng khuẩn 99,9%",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P10411_1-thumbnail-255x255-70.jpg",
+     "price": "57.000 đ/ Cây",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-ps-than-bac-khang-khuan-vi-2-cai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng Colgate siêu mềm Slim Soft Charcoal (Vỉ 2 cây)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11365_1_l-thumbnail-255x255.webp",
+     "price": "61.200 đ/ Cây",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-colgate-sieu-mem-slim-soft-charcoal-vi-2-cay.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng Colgate Cushion Clean (Vỉ 2 cái)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P20093_1_l-thumbnail-255x255.webp",
+     "price": "87.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-colgate-cushion-clean-vi-2-cai.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng cho răng siêu nhạy cảm Pharmacity Extra Sensitive",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11349_1_l-thumbnail-255x255.webp",
+     "price": "29.500 đ/ Cái",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-cho-rang-sieu-nhay-cam-pharmacity-extra-sensitive.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng cho răng nhạy cảm Pharmacity Sensitive",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P11350_1_l-thumbnail-255x255.webp",
+     "price": "23.600 đ/ Cái",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-cho-rang-nhay-cam-pharmacity-sensitive.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Bàn chải đánh răng cho răng ê buốt Sensodyne (Vỉ 2 cây)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P18076_1_l-thumbnail-255x255.webp",
+     "price": "39.000 đ/ Bộ",
+     "link": "https://www.pharmacity.vn/ban-chai-danh-rang-cho-rang-e-buot-sensodyne-vi-2-cay.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+},
+{
+     "name": "Nước hoa vùng kín Secret Glamour Amelie (5ml)",
+     "company": "null",
+     "img": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/__sized__/products/P23799_1-thumbnail-255x255-70.jpg",
+     "price": "118.300 đ/ Hộp",
+     "link": "https://www.pharmacity.vn/amelia-serect-glamour-nuoc-hoa-vung-kin-5ml.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "pharmacity"
+     }
+}
 ]
