@@ -18819,5 +18819,6671 @@ var list_products = [
           "name": "canhan",
           "value": "pharmacity"
      }
+},
+{
+     "name": "Dung dịch sát khuẩn đa năng BNP Bio Nano PLus hương cam dạng xịt (100ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500350-dung-dich-sat-khuan-da-nang-bnp-huong-cam-chai-xit-100ml-7140-6296_large.jpg",
+     "price": "155.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-dich-sat-khuan-da-nang-bnp-huong-cam-chai-xit-100ml-34466.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay y tế có bột Super Care Latex Powdered Examination Gloves size S (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00031611-gang-tay-y-te-co-bot-super-care-latex-powdered-examination-gloves-size-s-hop-100-cai-9732-6102_large.jpg",
+     "price": "100.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-y-te-co-bot-super-care-latex-powdered-examination-gloves-size-s-hop-100-cai-31750.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ trang phục phòng dịch Bảo Thạch 7 món màu xanh",
+     "company": "BẢO THẠCH",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00028720-bo-trang-phuc-phong-dich-7-mon-bao-thach-xanh-4599-6128_large.jpg",
+     "price": "70.000đ / Bộ",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bo-trang-phuc-phong-dich-7-mon-bao-thach-xanh-29017.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy hút mũi điện tử trẻ em Co-Clean Duck vịt vàng Codk-100",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500689-may-hut-mui-dien-tu-tre-em-co-clean-duck-vit-vang-codk-100-4048-62b2_large.jpg",
+     "price": "750.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-hut-mui-dien-tu-tre-em-co-clean-duck-vit-vang-codk-100-34827.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy hút mũi điện tử trẻ em Co-Clean Bear gấu xanh COBR-100",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500690-may-hut-mui-dien-tu-tre-em-co-clean-bear-gau-xanh-cobr-100-9392-62b2_large.jpg",
+     "price": "750.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-hut-mui-dien-tu-tre-em-co-clean-bear-gau-xanh-cobr-100-34826.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước muối sinh lý Biduphar Natri Clorid 0.9% dùng để súc miệng hằng ngày (500ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033445-natri-clorid-09-biduphar-500ml-nuoc-muoi-sinh-ly-9876-6215_large.jpg",
+     "price": "7.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/natri-clorid-09-biduphar-500ml-nuoc-muoi-sinh-ly-33555.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay y tế có bột PA Gloves size S (100 Cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029224-gang-tay-y-te-co-bot-pa-size-s-hop-100-cai-9204-62ad_large.jpg",
+     "price": "900đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-y-te-co-bot-pa-size-s-hop-100-cai-29490.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kit test Covid-19 Ag Home Test Humasis - xét nghiệm Sars-Cov-2 lấy dịch mũi, que ngắn",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00033493-kit-test-covid-humasis-covid-19-ag-home-test-korea-thiet-bi-chan-doan-in-vitro-xet-nghiem-vi-rut-6027-6228_large.jpg",
+     "price": "70.000đ / Kít",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kit-test-covid-humasis-covid-19-ag-home-test-korea-thiet-bi-chan-doan-in-vitro-xet-nghiem-vi-rut-33598.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung Dịch Nhỏ Mắt Taurine Solopharm 4% Điều Trị Loạn Dưỡng Giác Mạc (20 Tuýp X 1Ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00017633-taurine-solopharm-4-20-tuyp-x-1ml-1562-5b30_large.JPG",
+     "price": "240.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/taurine-solopharm-4-20-tuyp-x-1ml-18990.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kính Bảo Hộ Chống Giọt Bắn Face Shield Phòng, Chống Dịch",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00031949-kinh-bao-ho-chong-giot-ban-face-shield-1941-6128_large.jpg",
+     "price": "15.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kinh-bao-ho-chong-giot-ban-face-shield-32085.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kính chắn giọt bắn Mica mềm",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00031678-kinh-chan-giot-ban-mica-mem-2528-61cd_large.jpg",
+     "price": "11.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kinh-chan-giot-ban-mica-mem-31829.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dây nhựa đeo khẩu trang chống rơi, chống đau tai",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032597-day-nhua-deo-khau-trang-chong-dau-tai-9678-62b6_large.JPG",
+     "price": "2.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/day-nhua-deo-khau-trang-chong-roi-chong-dau-tai-32716.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp mắt cá chân trái Bonbone Dragon Fly Ankle Brace size S hỗ trợ vùng cơ yếu tại khớp cổ chân",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030700-dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-trai-size-s-8031-6093_large.jpg",
+     "price": "530.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-trai-size-s-30853.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp cổ thoáng khí Bonbone Breathable Neck Supporter Size M hỗ trợ cố định cổ",
+     "company": "bonbone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030689-dai-nep-co-thoang-khi-bonbone-breathable-neck-supporter-size-m-5102-6093_large.jpg",
+     "price": "600.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-co-thoang-khi-bonbone-breathable-neck-supporter-size-m-30842.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai lưng hỗ trợ cột sống Bonbone Pro Hard Slim size S hỗ trợ điều trị đau thắc lưng (58-73cm)",
+     "company": "bonbone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030691-dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-s-58-73cm-4374-6093_large.jpg",
+     "price": "1.100.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-s-58-73cm-30844.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp khuỷu tay Bonbone Elbow Support Free hỗ trợ khuỷu tay nhưng không cản trở cử động",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030694-dai-nep-khuyu-tay-bonbone-elbow-support-free-size-4311-6093_large.jpg",
+     "price": "550.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-khuyu-tay-bonbone-elbow-support-free-size-30847.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp mắt cá chân phải Bonbone Dragon Fly Ankle Brace size S hỗ trợ vùng cơ yếu tại khớp cổ chân",
+     "company": "bonbone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030698-dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-phai-size-s-8525-6093_large.jpg",
+     "price": "530.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-phai-size-s-30851.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp cổ thoáng khí Bonbone Breathable Neck Supporter Size L hỗ trợ cố định cổ",
+     "company": "bonbone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030690-dai-nep-co-thoang-khi-bonbone-breathable-neck-supporter-size-l-5322-6093_large.jpg",
+     "price": "600.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-co-thoang-khi-bonbone-breathable-neck-supporter-size-l-30843.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel Hiruscar Silicone Pro Medinova làm phẳng, mềm, mờ sẹo (4g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00018080-hiruscar-silicone-pro-medinova-4g-7834-5b67_large.JPG",
+     "price": "62.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/hiruscar-silicone-pro-medinova-4g-19402.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay phẫu thuật Surgical Gloves 7.5 Merufa sử dụng trong y tế, nha khoa, thẩm mỹ (1 đôi)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00016235-gang-tay-phau-thuat-75-vglove-2827-60c8_large.jpg",
+     "price": "6.000đ / Đôi",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-phau-thuat-75-vglove-14461.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ vệ sinh mũi Rohto NoseWash hỗ trợ rửa sạch chất nhầy trong mũi (400ml)",
+     "company": "ROHTO",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016467-rohto-nose-wash-400ml-9324-62ae_large.jpg",
+     "price": "58.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/rohto-nose-wash-400ml-14236.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy xông khí dung Omron NE-C106 phòng và điều trị bệnh về đường hô hấp",
+     "company": "OMRON",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501374-may-xong-khi-dung-omron-ne-c106-9887-62e7_large.jpg",
+     "price": "799.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-xong-khi-dung-omron-ne-c106-35522.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Que đè lưỡi gỗ Lạc Việt Balac Wood Stick (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00006217-que-de-luoi-9114-62ad_large.jpg",
+     "price": "20.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/que-de-luoi-16923.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Túi chườm lạnh y tế Greetmed hỗ trợ giảm đau (1 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010701-tui-chuom-lanh-1979-62ad_large.jpg",
+     "price": "25.500đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/tui-chuom-lanh-16361.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai hỗ trợ cố định đầu gối Bonbone Free Knee Supporter KI Free Size hỗ trợ điều trị chấn thương nhẹ xương bánh chè",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030696-dai-ho-tro-co-dinh-dau-goi-bonbone-free-knee-supporter-kl-free-size-9435-6093_large.jpg",
+     "price": "650.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-ho-tro-co-dinh-dau-goi-bonbone-free-knee-supporter-kl-free-size-30849.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm MPV 5ml/cc sử dụng 1 lần (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00032411-bom-tiem-mpv-5mlcc-100-cai-8297-6333_large.jpg",
+     "price": "66.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-mpv-5mlcc-100-cai-32530.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Pen gắp cong không mấu dùng kẹp bông băng, rửa vết thương (1 cái x 18cm)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501122-pen-gap-vet-thuong-cong-khong-mau-size-18cm-5077-62d4_large.jpg",
+     "price": "28.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/pen-gap-vet-thuong-cong-khong-mau-size-18cm-35277.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp cổ tay Wrist Supporter Free Size Bonbone hỗ trợ cố định cổ tay",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030695-dai-nep-co-tay-bonbone-wrist-supporter-free-size-7939-6093_large.jpg",
+     "price": "380.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-co-tay-bonbone-wrist-supporter-free-size-30848.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp mắt cá chân phải Bonbone Dragon Fly Ankle Brace size M hỗ trợ vùng cơ yếu tại khớp cổ chân",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030699-dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-phai-size-m-8574-6093_large.jpg",
+     "price": "530.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-phai-size-m-30852.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay cao su y tế VGlove có bột size M (100 chiếc)",
+     "company": "VGLOVE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00003250-gang-tay-vglove-m-3091-6198_large.jpg",
+     "price": "80.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-vglove-m-17268.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay y tế có bột Super Care Latex Powdered Examination Gloves Size M (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00031612-gang-tay-y-te-co-bot-super-care-latex-powdered-examination-gloves-size-m-hop-100-cai-5067-6102_large.jpg",
+     "price": "100.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-y-te-co-bot-super-care-latex-powdered-examination-gloves-size-m-hop-100-cai-31749.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kéo cong 2 đầu nhọn Electro Bismed dùng trong y tế, sản khoa, gia đình (16cm)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00015051-keo-cong-1813-62d4_large.jpg",
+     "price": "21.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/keo-cong-15139.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Neilmed NasoGel For Dry Noses chống khô mũi (30ml)",
+     "company": "Neilmed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00013677-neilmed-nasogel-for-dry-noses-30ml-5430-6123_large.jpg",
+     "price": "280.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/neilmed-nasogel-for-dry-noses-30ml-15902.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Miếng dán hạ sốt Bye Bye Fever Hisamitsu hỗ trợ hạ nhiệt nhanh cho trẻ (16 miếng)",
+     "company": "Hisamitsu",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00001455-bye-bye-fever-16-mieng-9078-6123_large.jpg",
+     "price": "120.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bye-bye-fever-16-mieng-17480.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước muối ưu trương Buona Nebianax 3% giữ ẩm và làm sạch mũi (20 ống)",
+     "company": "Buona",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502544-nuoc-muoi-uu-truong-buona-nebianax-3-hop-20-ong-7062-6373_large.jpg",
+     "price": "225.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/nuoc-muoi-uu-truong-buona-nebianax-3-hop-20-ong-36809.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Miếng dán hạ sốt Bye Bye-Fever Hisamitsu làm mát lạnh nhanh và mạnh (6 miếng)",
+     "company": "Hisamitsu",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00016009-bye-bye-fever-em-be-6-mieng-7957-609c_large.jpg",
+     "price": "52.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bye-bye-fever-em-be-6-mieng-14684.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch nhỏ mắt V.Rohto Mineral Tear hỗ trợ dưỡng ẩm, bổ sung khoáng chất (13ml)",
+     "company": "Rohto",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502450-dung-dich-nho-mat-vrohto-mineral-tear-13ml-duong-am-bo-sung-khoang-chat-2798-634e_large.jpg",
+     "price": "44.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-dich-nho-mat-vrohto-mineral-tear-13ml-duong-am-bo-sung-khoang-chat-36710.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy xông khí dung BioHealth Neb Pro giúp khuếch tán thuốc theo dạng sương mù",
+     "company": "Biohealth",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00500948-may-xong-khi-dung-biohealth-neb-pro-8067-62ce_large.jpg",
+     "price": "960.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-xong-khi-dung-biohealth-neb-pro-35114.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Túi y tế 1life thiết kế nhỏ gọn mang theo hàng ngày mọi lúc, mọi nơi (1 cái)",
+     "company": "1LIFE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501173-tui-y-te-1life-100g-4239-62d8_large.jpg",
+     "price": "89.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/tui-y-te-1life-100g-35329.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai nẹp mắt cá chân trái Bonbone Dragon Fly Ankle Brace size M hỗ trợ vùng cơ yếu tại khớp cổ chân",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030701-dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-trai-size-m-2274-6093_large.jpg",
+     "price": "530.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-trai-size-m-30854.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh mũi Humer Urgo cho trẻ em và trẻ sơ sinh (18 ống x 5ml)",
+     "company": "Urgo",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00008366-humer-185ml-2000-5fff_large.JPG",
+     "price": "110.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/humer-185ml-16700.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Túi hậu môn Proxima Drainable B.Braun (30 túi)",
+     "company": "Brawn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00018680-proxima-drainable-bbraun-30-tui-tui-hau-mon-1-manh-loai-xa-7747-60c8_large.jpg",
+     "price": "45.900đ / Gói",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/proxima-drainable-bbraun-30-tui-tui-hau-mon-1-manh-loai-xa-19984.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim luồn 22g/25mm Primaflon Lamed dẫn truyền dịch, nước hoặc thuốc vào tĩnh mạch (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00004166-kim-luon-22-truyen-dich-nuoc-hoac-thuoc-vao-tinh-mach-9779-6319_large.jpg",
+     "price": "3.000đ / Cây",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-luon-22-17176.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Rơ lưỡi 3 Con Nai Đông FA vệ sinh làm sạch lưỡi, răng miệng em bé (5 cái)",
+     "company": "ĐÔNG PHA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00003224-gac-ro-luoi-dong-pha-4540-62ae_large.jpg",
+     "price": "2.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gac-ro-luoi-dong-pha-17277.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước biển xịt mũi Humer 150 Hygiene Du Nez hỗ trợ loại bỏ các chất nhầy và chống sung huyết mũi  (150ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00003833-humer-nez-bouche-enfant-150ml-8032-60c8_large.jpg",
+     "price": "119.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/humer-nez-bouche-enfant-150ml-3451.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ đùi y khoa Medical Compression Stocking Model Classis I Biohealth size S",
+     "company": "Biohealth",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030702-vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-s-9771-6093_large.jpg",
+     "price": "580.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-s-30855.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ gối y khoa Medical Compression Stocking Model Classic I Biohealth màu da size L",
+     "company": "BioHealth",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00030707-vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-l-1350-6327_large.jpg",
+     "price": "400.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-l-30860.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm sử dụng 1 lần 50ml/cc Vinahankook (25 cái)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00010217-bom-tiem-50-9767-6358_large.jpg",
+     "price": "5.620đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-50-16491.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt vệ sinh tai cho bé Sinomarin Children Ear Care hỗ trợ rửa sạch bụi bẩn, ráy tai (30ml)",
+     "company": "sinomarin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00015071-sinomarin-children-ear-care-30ml-1553-5b61_large.JPG",
+     "price": "85.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sinomarin-children-ear-care-30ml-15119.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy xông khí dung Microlife NEB Pro khuếch tán thuốc theo dạng sương siêu mịn",
+     "company": "Microlife",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00500753-may-xong-khi-dung-microlife-neb-pro-5845-62ce_large.jpg",
+     "price": "1.600.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-xong-khi-dung-microlife-neb-pro-34880.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ Kim Cánh Bướm Tanako Tanaphar 100 Bộ",
+     "company": "Tanaphar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00032979-bo-kim-canh-buom-tanako-tanaphar-100-bo-8628-6336_large.jpg",
+     "price": "150.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bo-kim-canh-buom-tanako-tanaphar-100-bo-33095.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đầu kim 23 Vinahankook (100 cây)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00013703-dau-kim-23-2528-60c8_large.jpg",
+     "price": "35.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dau-kim-23-15886.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gói muối biển Entclear Packets Hyphens hỗ trợ rửa sạch hốc mũi (20 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00008332-entclearpackets-20-goi-2114-5b4d_large.JPG",
+     "price": "92.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/entclearpackets-20-goi-16713.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kéo thẳng 2 đầu nhọn Electro Bismed dùng trong y tế, sản khoa, gia đình (1 cái x 18cm)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00004096-keo-thang-9901-60b0_large.jpg",
+     "price": "25.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/keo-thang-17191.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim luồn 24 (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00013748-kim-luon-24-2125-6322_large.jpg",
+     "price": "3.000đ / Cây",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-luon-24-15868.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ gối y khoa Medical Compression Stocking Model Classic I Biohealth màu da size M",
+     "company": "Biohealth",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030706-vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-m-9185-6093_large.jpg",
+     "price": "400.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-m-30859.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ đùi y khoa Medical Compression Stocking Model Classis I Biohealth size M",
+     "company": "Biohealth",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030703-vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-m-2683-6093_large.jpg",
+     "price": "580.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-m-30856.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm 3 Vinahankook (100 cái)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00011384-bom-tiem-3-3057-60bd_large.jpg",
+     "price": "750đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-3-16048.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đầu kim Vinahankook dùng tiêm chích, lấy máu, pha thuốc (100 cái)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00009991-dau-kim-18-2889-62d6_large.jpg",
+     "price": "35.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dau-kim-18-16550.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt mũi Sinomarin Mini Spray Nose Care rửa xoang mũi, nghẹt mũi, sung huyết mũi (30ml)",
+     "company": "sinomarin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/09/6745-sinomarin-ho-tro-dieu-tri-viem-mui-nghet-mui-3037-59a9_large.jpg",
+     "price": "81.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sinomarin-ho-tro-dieu-tri-viem-mui-nghet-mui-865.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Túi đựng nước tiểu Urine Bag An Phú có van khoá (10 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/09/00007572-tui-dung-nuoc-tieu-5382-5f73_large.JPG",
+     "price": "6.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/tui-dung-nuoc-tieu-16800.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ gối y khoa Duomed size L hỗ trợ điều trị suy tĩnh mạch",
+     "company": "duomed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00008062-duomed-vo-goi-l-2623-62bb_large.jpg",
+     "price": "650.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/duomed-vo-goi-l-16737.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Oralmedic Mouth Ulcer Gel EPIEN Medical điều trị nhiệt miệng, viêm loét miệng (0.3ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00017474-oralmedic-mouth-ulcer-gel-hop-1-vi-03ml-6612-5b63_large.JPG",
+     "price": "96.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/oralmedic-mouth-ulcer-gel-hop-1-vi-03ml-18831.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm Tiêm Vô Trùng Sử Dụng 1 Lần 20Ml/Cc Vinahankook",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00010216-bom-tiem-20-5619-60c8_large.jpg",
+     "price": "2.700đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-20-16492.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Muối rửa mũi Neilmed Sinus Rinse Kids giảm và ngừa viêm mũi dị ứng (120 gói)",
+     "company": "Neilmed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/10/00009510-neilmed-sinus-rinse-kids-120-goi-9334-9d45_large.jpg",
+     "price": "5.183đ / Gói",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/nellmed-sinus-rinse-kids-120-goi-1579.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai cố định đầu gối Thin PF Cross Belts Free Size Bonbone hỗ trợ cố định khớp gối",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030697-dai-co-dinh-dau-goi-bonbone-thin-pf-cross-belts-free-size-4839-6093_large.jpg",
+     "price": "750.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-co-dinh-dau-goi-bonbone-thin-pf-cross-belts-free-size-30850.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay cao su y tế không bột phủ Polymer Latex Asap Powder Free Examination Gloves size M (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032475-gang-tay-cao-su-y-te-khong-bot-phu-polymer-latex-asap-powder-free-examination-gloves-size-m-hop-10-9123-6198_large.jpg",
+     "price": "90.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-khong-bot-phu-polymer-latex-asap-powder-free-examination-gloves-size-m-hop-10-32594.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đè lưỡi gỗ tiệt trùng Balac Wood Sticks Lạc Việt xanh lá, thớ mịn, đồng nhất, không lõi (100 cây)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00017645-de-luoi-go-tiet-trung-lac-viet-100s-xanh-la-balac-wood-sticks-2821-6123_large.jpg",
+     "price": "35.700đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/de-luoi-go-tiet-trung-lac-viet-100s-xanh-la-balac-wood-sticks-19018.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Ống thở Oxy Nasal Oxygen Cannula Greetmed size L an toàn, mềm mại, dễ sử dụng",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/10/00021044-nasal-oxygen-cannula-greetmed-size-l-ong-tho-oxy-7306-616f_large.jpg",
+     "price": "5.500đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/nasal-oxygen-cannula-greetmed-size-l-ong-tho-oxy-21388.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai lưng hỗ trợ cột sống Bonbone Pro Hard Slim size M hỗ trợ điều trị đau thắc lưng (68-85cm)",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030692-dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-m-68-85cm-4922-6093_large.jpg",
+     "price": "1.100.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-m-68-85cm-30845.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim tiêm tiểu đường B.Braun Omnican 1ml/40 IU đỏ (100 cái)",
+     "company": "B.BRAUN",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/08/00009856-kim-omnican-1ml40iu-do-8906-5f30_large.JPG",
+     "price": "306.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-omnican-1ml40iu-do-16577.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột pha hỗn dịch nhuận tràng PEGinpol Buona cải thiện tình trạng táo bón cho trẻ (20 gói x 5g)",
+     "company": "Buona",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00029878-buona-peginpol-san-pham-cai-thien-tinh-trang-tao-bon-cho-tre-8678-6329_large.jpg",
+     "price": "255.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/buona-peginpol-san-pham-cai-thien-tinh-trang-tao-bon-cho-tre-30145.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim truyền tĩnh mạch cánh bướm 23 Vinahankook (50 cây)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00004162-kim-buom-23-1475-60c8_large.jpg",
+     "price": "70.300đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-buom-23-17178.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Đai lưng hỗ trợ cột sống Pro Hard Slim Bonbone size L hỗ trợ điều trị đau thắc lưng (80-100cm)",
+     "company": "BonBone",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030693-dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-l-80-100cm-2123-6093_large.jpg",
+     "price": "1.100.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-l-80-100cm-30846.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch nhỏ mũi Buona Nebial 3% giữ ẩm và làm sạch mũi (20 ống)",
+     "company": "Buona",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00029529-nebial-3-ong-1813-6374_large.jpg",
+     "price": "225.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/nebial-3-ong-29793.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim lấy máu Linkfar Lancets 28g (100 Cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/09/00015875-bloob-lancets-100pcs-30g-9842-5f73_large.JPG",
+     "price": "30.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bloob-lancets-100pcs-30g-14816.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh mũi Rohto NoseWash hỗ trợ làm sạch sâu và kháng khuẩn (400ml)",
+     "company": "ROHTO",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016767-rohto-nose-wash-400ml-khong-bao-gom-binh-ve-sinh-mui-7533-62ae_large.jpg",
+     "price": "48.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/rohto-nose-wash-400ml-khong-bao-gom-binh-ve-sinh-mui-18098.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt mũi Bảo Tín Xoang Vesta hỗ trợ làm sạch, kháng viêm (15ml)",
+     "company": "Bảo Tín Dương",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500724-chai-xit-mui-bao-tin-xoang-15ml-8434-62b3_large.jpg",
+     "price": "150.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/chai-xit-mui-bao-tin-xoang-15ml-34860.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt mũi Humer 150 Nose Hygiene Urgo hỗ trợ vệ sinh khoang mũi hàng ngày (150ml)",
+     "company": "Urgo",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00003830-humer-adulte-150ml-2792-5b61_large.JPG",
+     "price": "139.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/humer-adulte-150ml-3454.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay phẫu thuật Surgical Gloves 6.5 VGlove sử dụng trong quá trình khám, chẩn đoán điều trị và phẫu thuật (1 đôi)",
+     "company": "VGLOVE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00017447-gang-phau-thuat-65-vglove-2293-60c8_large.jpg",
+     "price": "6.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-phau-thuat-65-vglove-18813.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước biển xịt mũi cho trẻ em Humer 150 Nasal Hygiene điều trị hoặc phòng ngừa các bệnh tai mũi họng (150ml)",
+     "company": "Urgo",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/02/00029648-humer-nasal-hygiene-children-150ml-5320-601a_large.JPG",
+     "price": "140.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/humer-nasal-hygiene-children-150ml-29914.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Phun sương vệ sinh tai Raystan Đại Bắc sạch ráy, hết ngứa (12ml)",
+     "company": "Đại Bắc",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00022742-xit-phun-suong-ve-sinh-tai-raystan-dai-bac-12ml-3362-5e8c_large.JPG",
+     "price": "60.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/xit-phun-suong-ve-sinh-tai-raystan-dai-bac-12ml-23065.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ gối y khoa Medi Duomed size S hỗ trợ điều trị suy tĩnh mạch",
+     "company": "duomed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00008063-duomed-vo-goi-s-1918-62e8_large.jpg",
+     "price": "650.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/duomed-vo-goi-s-16736.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim lấy máu thử đường huyết Accu-Check FastClik (24 kim)",
+     "company": "ACCU-CHEK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010651-accucheck-fastclik-24-5908-62b9_large.JPG",
+     "price": "81.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/accucheck-fastclik-24-16375.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ đùi y khoa Medi Duomed size M hỗ trợ điều trị suy tĩnh mạch",
+     "company": "duomed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00008059-duomed-vo-dui-m-9962-62b9_large.jpg",
+     "price": "970.000đ / Đôi",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/duomed-vo-dui-m-16740.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ đùi y khoa Duomed size S hỗ trợ điều trị suy tĩnh mạch",
+     "company": "duomed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00009558-duomed-vo-dui-s-1616-5c98_large.JPG",
+     "price": "990.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/duomed-vo-dui-s-16648.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dây truyền Braun dùng để truyền dịch, truyền thuốc cho người bệnh (10 dây)",
+     "company": "Braun",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00002290-day-truyen-braun-2113-6128_large.jpg",
+     "price": "13.500đ / Dây",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/day-truyen-braun-17396.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Vớ gối y khoa Medi Doumed điều trị suy tĩnh mạch size M",
+     "company": "duomed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00009557-duomed-vo-goi-m-3863-62e8_large.jpg",
+     "price": "650.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/duomed-vo-goi-m-16649.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt mũi Sinomarin Adults Nose Care rửa xoang mũi, nghẹt mũi, sung huyết mũi (125ml)",
+     "company": "sinomarin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/05/00006742-sinomarin-125ml-3785-5b0f_large.JPG",
+     "price": "143.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sinomarin-125ml-16874.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Túi chườm đa năng Thiên Thanh loại nhỏ hỗ trợ chườm nóng, sưởi ấm, chườm lạnh",
+     "company": "Thiên Thanh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00029207-tui-chuom-da-nang-thien-thanh-loai-nho-6403-633b_large.jpg",
+     "price": "130.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/tui-chuom-da-nang-thien-thanh-loai-nho-29473.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy xông Omron Compressor Nebulizer Ne-C801 hỗ trợ điều trị bệnh về đường hô hấp",
+     "company": "OMRON",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010488-may-xong-omron-ne-c801-7496-62ae_large.jpg",
+     "price": "1.150.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-xong-omron-ne-c801-16430.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm 3 Vinahankook (100 cái)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00018203-bom-tiem-3-23g-vinahankook-100-cai-4206-60c8_large.jpg",
+     "price": "760đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-3-23g-vinahankook-100-cai-19529.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim lấy máu Accu-Chek Softclix Roche hỗ trợ lấy máu trở nên đơn giản, nhẹ nhàng (25 cái)",
+     "company": "ACCU-CHEK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00004160-accu-chek-softclix-25-lancets-kim-lay-mau-9276-62b9_large.JPG",
+     "price": "71.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/accu-chek-softclix-25-lancets-kim-lay-mau-17179.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm 50CC Vinahankook phù hợp trong việc cho ăn (25 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/04/00014772-bom-tiem-cho-an-50cc-6194-6267_large.jpg",
+     "price": "5.300đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-cho-an-50cc-15402.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt họng Afree Thái Minh điều trị ho, nhiễm khuẩn, viêm đường hô hấp (30ml)",
+     "company": "Thái Minh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00032797-xit-hong-afree-thai-minh-pharma-30ml-5716-6228_large.jpg",
+     "price": "125.000đ / Lọ",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/xit-hong-afree-thai-minh-pharma-30ml-32913.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch nhãn khoa Taurine-Solopharm 4% dưỡng mắt, phòng ngừa cận thị (20 tuýp x 0.4ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501441-taurine-solopharm-4-20-tuyp-x-04ml-dung-dich-nhan-khoa-6363-62eb_large.jpg",
+     "price": "205.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/taurine-solopharm-4-20-tuyp-x-04ml-dung-dich-nhan-khoa-35587.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim luồn Braun 22 hỗ trợ truyền dịch, nước hoặc thuốc vào tĩnh mạch",
+     "company": "Braun",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00016007-kim-luon-22-braun-3277-623d_large.jpg",
+     "price": "17.500đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-luon-22-braun-14686.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Stérimar Allergic Nose hỗ trợ điều trị viêm mũi dị ứng (50ml)",
+     "company": "Stérimar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00009553-sterimar-mn-9819-5fff_large.JPG",
+     "price": "101.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sterimar-mn-1568.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ Giác Hơi Không Dùng Lửa Duy Thành",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00010259-giac-hoi-khong-dung-lua-6710-6328_large.jpg",
+     "price": "377.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/giac-hoi-khong-dung-lua-16484.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel Relactagel Lactate Vaginal Gel Kora Healthcare điều trị viêm âm đạo (7 tuýp x 5ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00017596-relactagel-hop-7-tuyp-x-5ml-lactate-vaginal-gel-2736-62ba_large.jpg",
+     "price": "429.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/relactagel-hop-7-tuyp-x-5ml-lactate-vaginal-gel-18945.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ vệ sinh mũi NeilMed Sinus Rinse Kids Starter Kit cho trẻ 4 -10 tuổi (1 bình + 30 gói)",
+     "company": "Neilmed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00009732-neilmed-pediatric-starter-kit-1-binh-30-goi-bo-rua-mui-xoang-cho-tre-4-10-tuoi-3193-6368_large.jpg",
+     "price": "399.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/neilmed-pediatric-starter-kit-1-binh-30-goi-bo-rua-mui-xoang-cho-tre-4-10-tuoi-1511.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Hộp Phân Liều Thuốc Uống chứa thuốc uống trong 1 tuần (1 cái)",
+     "company": "Công ty CP trang thiết bị Kỹ thuật y tế TP.HCM",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/09/00001837-chia-lieu-tuan-6646-5f71_large.JPG",
+     "price": "38.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/chia-lieu-tuan-17445.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Pen gắp thẳng có mấu dùng kẹp bông băng, băng gạc, rửa vết thương (1 cái x 16cm)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501121-pen-gap-thang-co-mau-size-16cm-9113-62d4_large.jpg",
+     "price": "23.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/pen-gap-thang-co-mau-size-16cm-35278.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt Stérimar Nez Bouché Blocked Nose hỗ trợ thông mũi, tránh ngạt mũi (50ml)",
+     "company": "Stérimar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00009555-sterimar-cuivre-5011-5fff_large.JPG",
+     "price": "92.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sterimar-cuivre-1566.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim bút BD Ultra - Fine Pro (4mm x 32g - 100 cái)",
+     "company": "BD",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029797-bd-ultra-fine-pro-4mmx32g-100-cai-kim-but-7089-62ad_large.jpg",
+     "price": "2.750đ / Cây",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bd-ultra-fine-pro-4mmx32g-100-cai-kim-but-30062.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel đặt giữ ẩm âm đạo Regelle Kora Healthcare cải thiện khô âm đạo (6 tuýp x 6.5g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00016719-gel-dat-giu-am-am-dao-regelle-hop-6-tuyp-5966-6327_large.jpg",
+     "price": "367.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gel-dat-giu-am-am-dao-regelle-hop-6-tuyp-17976.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dây truyền dịch kim cánh bướm (1 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/09/00021727-day-truyen-dich-kim-canh-buom-7010-6151_large.jpg",
+     "price": "5.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/day-truyen-dich-kim-canh-buom-22079.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm 10 Vinahankook (100 cái)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00011383-bom-tiem-10-6340-6123_large.jpg",
+     "price": "1.170đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-10-16049.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Hỗn hợp rửa mũi NeilMed Sinus Rinse hỗ trợ giảm và ngừa viêm mũi (120 gói)",
+     "company": "NeilMed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00009733-hon-hop-rua-mui-neilmed120-sachets-3964-62b5_large.jpg",
+     "price": "622.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/neilmed-sinus-rinse-all-natural-relief-120-goi-muoi-rua-mui-xoang-cho-tre-tu-10-tuoi-1510.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kéo thẳng 2 đầu nhọn Electro Bismed dùng trong y tế, sản khoa, gia đình (1 cái x 16cm)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00028095-keo-thang-nho-5500-62d4_large.jpg",
+     "price": "21.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/keo-thang-nho-28236.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bình rửa mũi NeilMed Sinus Rinse ngừa và giảm viêm mũi dị ứng (1 bình + 60 gói bột)",
+     "company": "NeilMed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00015295-neilmed-nguoi-lon-1-binh-60-goi-5626-62ad_large.jpg",
+     "price": "497.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/neilmed-nguoi-lon-1-binh-60-goi-14903.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dụng cụ cắt thuốc viên nén Medicine Cutter",
+     "company": "Công ty CP trang thiết bị Kỹ thuật y tế TP.HCM",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00013523-dung-cu-cat-thuoc-2575-628c_large.jpg",
+     "price": "20.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-cu-cat-thuoc-15993.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kéo thẳng 1 tù 1 nhọn dùng trong y tế, sản khoa, gia đình (1 cái x 16cm)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501118-keo-thang-1-tu-1-nhon-size-16cm-5890-62d4_large.jpg",
+     "price": "21.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/keo-thang-1-tu-1-nhon-size-16cm-35279.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt Stérimar Nez Bouché bébé điều trị bệnh lý về mũi cho bé (50ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00013747-sterimar-baby-block-nose-50ml-hypertonic-9917-62b9_large.JPG",
+     "price": "103.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sterimar-baby-block-nose-50ml-hypertonic-15869.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Pen gắp cong không mấu dùng kẹp bông băng, rửa vết thương (1 cái x 16cm)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00022595-pen-gap-vet-thuong-cong-2925-62d4_large.jpg",
+     "price": "22.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/pen-gap-vet-thuong-cong-22921.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt mũi NeilMed Nasa Mist hỗ trợ vệ sinh mũi xoang êm dịu (75ml)",
+     "company": "NeilMed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010556-neilmed-nasamist-5193-62b5_large.jpg",
+     "price": "116.500đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/neilmed-nasamist-1247.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim tiêm tiểu đường B.Braun Omnican 1ml/40 IU cam (100 cái)",
+     "company": "B.BRAUN",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/08/00009857-kim-omnican-100iu1ml-vang-6305-5f30_large.JPG",
+     "price": "306.200đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-omnican-100iu1ml-vang-16576.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt mũi Betadine Kids 1+ Nasal Spray giúp ngăn chặn các virus trên niêm mạc mũi (20ml)",
+     "company": "Betadine",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/12/00018269-betadine-kids-1-nasal-spray-20ml-5133-5c16_large.JPG",
+     "price": "165.500đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/betadine-kids-1-nasal-spray-20ml-19594.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ xông khí dung Nebulizer Mask (1 cái)",
+     "company": "DEMO MEDICAL",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501318-mat-na-xong-khi-dung-nebulizer-mask-9878-62e3_large.jpg",
+     "price": "21.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/mat-na-xong-khi-dung-nebulizer-mask-35465.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Pen gắp thẳng không mấu dùng để kẹp bông rửa vết thương (16cm x 1 cái)",
+     "company": "Electro Bismed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00010548-pen-gap-vet-thuong-thang-5458-62d4_large.jpg",
+     "price": "22.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/pen-gap-vet-thuong-thang-16415.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Stérimar Nose Prone To Colds hỗ trợ giảm sung huyết mũi (50ml)",
+     "company": "Stérimar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/02/00009552-sterimar-blocked-nose-cu-8675-6033_large.JPG",
+     "price": "103.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sterimar-blocked-nose-cu-1569.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel bôi trĩ Hemoclin điều trị các khó chịu ở hậu môn (37g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00008407-hemoclin-2438-6327_large.jpg",
+     "price": "357.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/hemoclin-1611.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim luồn 18 PRIMAFLON LAMED sắc, siêu mỏng, dễ dàng tiêm qua da, thành mạch",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00016077-kim-luon-18-5650-60bd_large.jpg",
+     "price": "3.000đ / Cây",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-luon-18-14619.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay cao su y tế có bột Latex Powdered Examination Gloves Asap size S (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00029584-gang-tay-cao-su-y-te-co-bot-latex-asap-malaysia-size-s-hop-100-cai-1305-600a_large.JPG",
+     "price": "90.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-latex-asap-malaysia-size-s-hop-100-cai-29848.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm 5 Vinahankook (100 cái)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010215-bom-tiem-5-8589-62ae_large.jpg",
+     "price": "750đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-5-16493.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bình rửa mũi NeilMed Sinus Rinse ngừa và giảm viêm mũi dị ứng (1 bình + 10 gói bột)",
+     "company": "Neilmed",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00009509-dung-cu-rua-mui-neilmed-kid10-5553-6327_large.jpg",
+     "price": "306.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-cu-rua-mui-neilmed-kid10-1580.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch nhỏ mắt Cationorm dưỡng ẩm, bảo vệ mắt (30 ống x 0.4ml)",
+     "company": "Santen",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00001631-cationorm-8171-62b5_large.jpg",
+     "price": "245.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/cationorm-4371.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ xông khí dung Aerosol Mask Greetmed size M (1 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016410-mat-na-xong-khi-dung-aerrosol-mask-size-m-5233-62b9_large.JPG",
+     "price": "21.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/mat-na-xong-khi-dung-aerrosol-mask-size-m-14291.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ rửa mũi xoang Rinorin hỗ trợ chăm sóc mũi xoang (1 bình + 30 gói)",
+     "company": "RINORIN",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016666-bo-rua-mui-xoang-rinorin-1-binh-30-goi-9939-62b9_large.JPG",
+     "price": "194.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bo-rua-mui-xoang-rinorin-1-binh-30-goi-17848.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay cao su y tế có bột Latex Powdered Examination Gloves Asap size M (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029585-gang-tay-cao-su-y-te-co-bot-latex-asap-malaysia-size-m-hop-100-cai-6809-62ad_large.jpg",
+     "price": "90.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-latex-asap-malaysia-size-m-hop-100-cai-29849.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch nhỏ mắt Gilan Comfort Solopharm điều trị bệnh lý khô mắt (30 ống x 0.4ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00017998-gilan-comfort-solopharm-30-ong-x-04ml-dd-nho-mat-boi-tron-bao-ve-mat-8307-62b5_large.jpg",
+     "price": "320.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gilan-comfort-solopharm-30-ong-x-04ml-dd-nho-mat-boi-tron-bao-ve-mat-19345.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bơm tiêm sử dụng 1 lần 1ml/cc Vinahankook (100 chiếc)",
+     "company": "VINAHANKOOK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010218-bom-tiem-1-7970-62ae_large.jpg",
+     "price": "750đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bom-tiem-1-vinahankook-100-cai-16490.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Hỗn hợp rửa mũi Rinorin chăm sóc và bảo vệ mũi xoang (30 gói)",
+     "company": "RINORIN",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016264-rinorin-30-goi-7968-62ad_large.jpg",
+     "price": "4.500đ / Gói",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/rinorin-30-goi-14432.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay phẫu thuật 7 VGlove sử dụng trong y tế, nha khoa, thẩm mỹ (1 đôi)",
+     "company": "VGLOVE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00017537-gang-tay-phau-thuat-7-vglove-8699-6123_large.jpg",
+     "price": "6.000đ / Đôi",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-phau-thuat-7-vglove-18898.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Găng tay cao su y tế không bột phủ Polymer Latex Asap Powder Free Examination Gloves size S (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032474-gang-tay-cao-su-y-te-khong-bot-phu-polymer-latex-asap-powder-free-examination-gloves-size-s-hop-10-9730-6198_large.jpg",
+     "price": "90.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-khong-bot-phu-polymer-latex-asap-powder-free-examination-gloves-size-s-hop-10-32602.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ dây truyền dịch AF/C Great World (10 dây)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00002291-day-truyen-long-an-4525-62b9_large.JPG",
+     "price": "5.800đ / Dây",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/day-truyen-long-an-17395.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Hộp phân liều thuốc 1 ngày 4 ngăn lớn",
+     "company": "Công ty CP trang thiết bị Kỹ thuật y tế TP.HCM",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/09/00010182-chia-lieu-ngay-4-vuong-ngan-lon-3631-5f71_large.JPG",
+     "price": "16.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/chia-lieu-ngay-4-vuong-ngan-lon-16502.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Dr.muối Vesta ngừa vi khuẩn, virus, viêm mũi, viêm xoang (100ml)",
+     "company": "Vesta",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00031677-dung-dich-xit-mui-drmuoi-100ml-4895-6110_large.jpg",
+     "price": "24.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-dich-xit-mui-drmuoi-100ml-31828.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên đạn đặt hậu môn Healit Rectan Vhphamara điều trị vết thương cấp tính và mạn tính (10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00020467-healit-rectan-10-vien-vien-dat-hau-mon-truc-trang-7762-6327_large.jpg",
+     "price": "358.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/healit-rectan-10-vien-vien-dat-hau-mon-truc-trang-20626.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Hộp đựng thuốc HPG41 Hofaco 4 ngăn dài, nhỏ gọn, tiện dụng (1 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00001836-chia-lieu-ngay-4-ngan-dai-nho-6872-62b6_large.JPG",
+     "price": "10.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/chia-lieu-ngay-4-ngan-dai-nho-17446.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Stérimar Nose Hygiene Baby hỗ trợ giảm nghẹt mũi cho trẻ em (50ml)",
+     "company": "Stérimar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/02/00006901-sterimar-baby-50ml-7979-6033_large.JPG",
+     "price": "105.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sterimar-baby-50ml-2173.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Túi chườm nóng y tế VGlove giúp chườm nóng lên các vùng đau trên cơ thể (1 cái)",
+     "company": "VGlove",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010192-tui-chuom-nong-6787-62ae_large.jpg",
+     "price": "32.000đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/tui-chuom-nong-16498.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Màng phim tránh thai VCF Botania hỗ trợ trong việc phòng tránh thai",
+     "company": "Botania",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00007805-vcf-6485-62af_large.JPG",
+     "price": "125.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/vcf-danapha-3-films-mang-films-tranh-thai-16766.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Xypenat Merap hỗ trợ thông mũi, giảm nghẹt mũi (75ml)",
+     "company": "Merap",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00008158-xypenat-75ml-9710-5b5e_large.JPG",
+     "price": "36.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/xypenat-75ml-1716.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim lấy máu MediUSA MM3300 dùng cho máy đo đường huyết (25 Cái)",
+     "company": "MediUSA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028634-kim-lay-mau-mediusa-mm3300-25-cai-3128-62ad_large.jpg",
+     "price": "1.200đ / Cái",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-lay-mau-mediusa-mm3300-25-cai-28939.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Stérimar Nose Hygiene And Comfor hỗ trợ giảm nghẹt mũi (50ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/02/00009554-sterimar-trace-element-5817-6033_large.JPG",
+     "price": "92.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sterimar-trace-element-1567.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Muối y tế Ích Nhân dùng pha nước rửa mũi, hỗ trợ làm sạch dịch mũi, mủ (50 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032492-muoi-y-te-ich-nhan-50v-45g-6115-62b4_large.JPG",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/muoi-y-te-ich-nhan-50v-45g-32614.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước muối Vĩnh Phúc Natri Clorid 0.9% làm sạch răng, khử mùi hôi khoang miệng (500ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00005150-natriclorid-suc-mieng-500ml-vinh-phuc-8073-62ad_large.jpg",
+     "price": "10.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/natriclorid-suc-mieng-500ml-vinh-phuc-17049.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gạc răng miệng Dr. Care Quang Xanh làm sạch và bảo vệ răng miệng cho bé (30 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/01/00033294-gac-rang-mieng-dr-care-quang-xanh-30-goi-9420-61ee_large.jpg",
+     "price": "103.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gac-rang-mieng-dr-care-quang-xanh-30-goi-33413.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel Hoàng Cầm bảo vệ dịu nhẹ Baifem K Herbapol hỗ trợ giảm kích ứng, ngứa (15g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00021179-baifem-k-herbapol-15g-gel-hoang-cam-bao-ve-diu-nhe-6592-5e99_large.JPG",
+     "price": "169.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/baifem-k-herbapol-15g-gel-hoang-cam-bao-ve-diu-nhe-21513.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem bôi dạng gel Dermatix Ultra hỗ trợ làm mờ sẹo hiệu quả (15g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00002343-dermatix-15g-6038-6327_large.jpg",
+     "price": "315.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dermatix-ultra-15g-gel-tri-seo-17388.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem bôi Sodermix Cream hỗ trợ điều trị viêm da cơ địa, chàm sữa (15g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00029759-sodermix-cream-15g-6286-6328_large.jpg",
+     "price": "310.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/sodermix-cream-15g-30024.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Miếng dán hạ sốt Sakura Tanaphar hiệu quả đến 10h",
+     "company": "Tanaphar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00009794-ha-sot-sakura-4323-5b5e_large.JPG",
+     "price": "45.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/ha-sot-sakura-16591.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem bôi dạng gel Dermatix Ultra Hanson điều trị sẹo  lồi và sẹo phì đại (7g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/09/00002344-dermatix-ultra-gel-7g-9676-5f64_large.png",
+     "price": "212.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dermatix-ultra-gel-7g-4042.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước biển sâu sạch thông mũi điều trị viêm mũi Xisat (75ml)",
+     "company": "XISAT",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00009680-xisat-viem-mui-1735-62b5_large.jpg",
+     "price": "31.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/xisat-viem-mui-1533.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước biển sâu sạch thông mũi dành cho trẻ em Xisat (75ml)",
+     "company": "XISAT",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/11/00008138-xisat-kid-75ml-8547-5bf4_large.JPG",
+     "price": "30.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/xisat-kid-75ml-1722.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc xịt mũi XISAT hỗ trợ làm sạch, thông mũi cho người lớn (75ml)",
+     "company": "XISAT",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/11/00009712-xisat-75ml-3188-5bf4_large.JPG",
+     "price": "29.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/xisat-nguoi-lon-75ml-nuoc-bien-sau-sach-thong-mui-cho-nguoi-lon-1520.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy xông khí dung Yuwell M103 cầm tay hỗ trợ điều trị các bệnh đường hô hấp",
+     "company": "Yuwell",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502265-may-xong-khi-dung-cam-tay-yuwell-m103-8873-633b_large.jpg",
+     "price": "1.127.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-xong-khi-dung-cam-tay-yuwell-m103-36502.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel Hyalo4 Skin điều trị các kích ứng và tổn thương trên da (30g)",
+     "company": "Fidia",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502307-gel-dac-tri-bong-vet-thuong-ho-loet-ti-de-hyalo4-skin-gel-30g-7219-633e_large.jpg",
+     "price": "439.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gel-dac-tri-bong-vet-thuong-ho-loet-ti-de-hyalo4-skin-gel-30g-36529.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem Hyalo4 Plus điều trị các tổn thương, nhiễm trùng da (25g)",
+     "company": "Fidia",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502308-kem-dac-tri-bong-vet-thuong-ho-loet-ti-de-nguy-co-nhiem-trung-cao-hyalo4-plus-cream-25g-9876-633e_large.jpg",
+     "price": "425.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kem-dac-tri-bong-vet-thuong-ho-loet-ti-de-nguy-co-nhiem-trung-cao-hyalo4-plus-cream-25g-36528.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Muối rửa xoang mũi Otosan Nasal Wash dành cho trẻ từ 1 tuổi trở lên (30 gói)",
+     "company": "Otosan",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502611-muoi-rua-mui-xoang-otosan-nasal-wash-30-goi-danh-cho-tre-tu-1-tuoi-tro-len-2129-6368_large.jpg",
+     "price": "260.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/muoi-rua-mui-xoang-otosan-nasal-wash-30-goi---danh-cho-tre-tu-1-tuoi-tro-len-36874.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel bôi trị sẹo Bepanthen Anti-Scar (20g)",
+     "company": "Bayer",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501453-gel-boi-tri-seo-bepanthen-anti-scar-20g-9631-62ec_large.jpg",
+     "price": "275.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gel-boi-tri-seo-bepanthen-anti-scar-20g-35614.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bộ rửa xoang mũi Otosan Nasal Wash dành cho trẻ trên 6 tuổi (1 kit + 30 gói)",
+     "company": "Otosan",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502610-bo-rua-xoang-mui-otosan-nasal-wash-kit-30-goi-danh-cho-tre-tren-6-tuoi-1449-6368_large.jpg",
+     "price": "360.000đ / Kít",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/bo-rua-xoang-mui-otosan-nasal-wash-kit-30-goi-danh-cho-tre-tren-6-tuoi-36875.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch nhỏ mắt V.Rohto Dryeye hỗ trợ bôi trơn mắt, bổ sung nước mắt nhân tạo (13ml)",
+     "company": "Rohto",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502674-dung-dich-nho-mat-vrohto-dryeye-13ml-ho-tro-boi-tron-mat-bo-sung-nuoc-mat-nhan-tao-4281-6385_large.jpg",
+     "price": "49.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-dich-nho-mat-vrohto-dryeye-13ml---ho-tro-boi-tron-mat,-bo-sung-nuoc-mat-nhan-tao-36979.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Khăn hạ sốt Dr.Papie 3mo+ hỗ trợ hạ nhiệt, giảm sốt an toàn cho bé (5 túi x 5 khăn)",
+     "company": "DR. PAPIE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00031947-khan-ha-sot-drpapie-5-tui-x-5-khan-8074-62fb_large.jpg",
+     "price": "130.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/khan-ha-sot-drpapie-5x5-32087.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Khăn hạ sốt Dr.Papie Starmed giúp giảm nhiệt an toàn cho bé (5 túi x 5 khăn)",
+     "company": "DR. PAPIE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501416-khan-ha-sot-drpapie-0-starmed-hop-5-tui-x-5-khan-6751-62fb_large.jpg",
+     "price": "130.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/khan-ha-sot-drpapie-0-starmed-hop-5-tui-x-5-khan-35581.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gạc răng miệng Dr.Papie làm sạch và bảo vệ răng miệng cho bé (30 gói)",
+     "company": "DR. PAPIE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00033346-gac-rang-mieng-drpapie-30-goihop-starmed-2422-6303_large.jpg",
+     "price": "100.800đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/gac-rang-mieng-drpapie-30-goihop-starmed-33453.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro ho Fortuss Otosan Cough Syrup làm dịu cơn ho, bảo vệ niêm mạc (180g)",
+     "company": "Otosan",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00031572-siro-ho-otosan-fortuss-cough-syrup-180g-8532-633e_large.jpg",
+     "price": "260.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/siro-ho-otosan-fortuss-cough-syrup-180g-31706.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước muối sinh lý Fysoline Septinasal Gifrer hỗ trợ vệ sinh mũi cho bé (20 ống x 5ml)",
+     "company": "Fysoline",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00022624-fysoline-khang-khuan-gifrer-20-ong-x-5ml-new-hop-vang-8181-5f84_large.JPG",
+     "price": "168.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/fysoline-khang-khuan-gifrer-20-ong-x-5ml-new-hop-vang-22949.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Chai lăn làm nóng Starbalm giúp tăng tuần hoàn máu qua các cơ (75ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028924-chai-lan-lam-nong-starbalm-75ml-5053-62af_large.jpg",
+     "price": "175.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/chai-lan-lam-nong-starbalm-75ml-29218.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột nhuận tràng Constipass Wellcare chỉ định trong trường hợp táo bón mãn tính (20 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00030968-constipass-wellcare-20-goi-7312-633e_large.jpg",
+     "price": "396.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/constipass-wellcare-20-goi-31108.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Cao Starbalm đỏ hỗ trợ giảm mỏi cơ, tăng tuần hoàn máu qua các cơ (25g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028935-cao-starbalm-do-25g-9238-62af_large.jpg",
+     "price": "90.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/cao-starbalm-do-25g-29229.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kim lấy máu Blood Lancets Greetmed dùng cho máy tiểu đường Easy Max Greetmed (100 cái)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/01/00033288-kim-lay-mau-dung-cho-may-tieu-duong-greetmed-30g-hop-100-cai-3636-61e9_large.jpg",
+     "price": "32.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/kim-lay-mau-dung-cho-may-tieu-duong-greetmed-30g-hop-100-cai-33398.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Máy xông khí dung Microlife NEB200 hỗ trợ các bệnh viêm mũi, viêm xoang",
+     "company": "microlife",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500441-may-xong-khi-dung-microlife-neb200-5181-629d_large.jpg",
+     "price": "1.050.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/may-xong-khi-dung-microlife-neb200-34561.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Muối rửa mũi xoang SinuFresh Cát Linh phòng ngừa và điều trị các triệu chứng ở mũi do cảm lạnh (30 gói + chai 180ml)",
+     "company": "CÁT LINH",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00022491-muoi-rua-mui-xoang-sinufresh-cat-linh-30-goi-1-chai-180ml-7990-62ae_large.jpg",
+     "price": "170.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/muoi-rua-mui-xoang-sinufresh-cat-linh-30-goi-1-chai-180ml-22817.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi Nasodren Hartington hỗ trợ điều trị viêm xoang (50mg)",
+     "company": "HARTINGTON",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00500271-dung-dich-dieu-tri-viem-xoang-mui-nasodren-50mg-9160-628b_large.jpg",
+     "price": "495.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-dich-dieu-tri-viem-xoang-mui-nasodren-50mg-34387.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Muối rửa mũi xoang Sinufresh Cát Linh vệ sinh, bảo vệ khoang mũi (50 gói)",
+     "company": "CÁT LINH",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00022492-cham-soc-mui-xoang-sinufresh-cat-linh-50-goi-5019-62ad_large.jpg",
+     "price": "170.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/cham-soc-mui-xoang-sinufresh-cat-linh-50-goi-22818.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Cốc nguyệt san siêu mềm BeU Cup (45mm x 65mm)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00029913-coc-nguyet-san-sieu-mem-beu-cup-45mmx65mm-8717-6335_large.jpg",
+     "price": "349.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/coc-nguyet-san-sieu-mem-beu-cup-45mmx65mm-30180.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Fysoline Gifrer làm sạch mắt, mũi hàng ngày cho trẻ (40 ống)",
+     "company": "fysoline",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00018413-fysoline-dang-truong-gifrer-40-ong-dung-dich-lam-sach-mat-mui-8514-62b4_large.JPG",
+     "price": "142.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/fysoline-dang-truong-gifrer-40-ong-dung-dich-lam-sach-mat-mui-19734.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel bôi Proctocare Bimex điều trị trĩ nội, trĩ ngoại, nứt kẻ hậu môn, co búi trĩ (25g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029197-proctocare-bimex-gel-boi-tri-25g-9009-62b5_large.jpg",
+     "price": "79.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/proctocare-bimex-gel-boi-tri-25g-29463.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Phun sương vệ sinh tai Spray-C Nano Bạc Aero Chemie hỗ trợ làm sạch ráy tai (15ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029203-spray-c-nano-bac-xit-ve-sinh-tai-15ml-7536-62b5_large.jpg",
+     "price": "55.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/spray-c-nano-bac-xit-ve-sinh-tai-15ml-29469.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Chai xịt mũi Viraleze giảm phơi nhiễm với mầm bệnh do virus (10ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/01/00033220-binh-xit-mui-khang-virus-viraleze-10ml-8693-61df_large.jpg",
+     "price": "350.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/binh-xit-mui-khang-virus-viraleze-10ml-33337.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Chai hít Starbalm Sports Inhaler giúp thông mũi, hít thở sâu (1.1g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028536-chai-hit-starbalm-sports-inhaler-novum-11g-4716-62b5_large.jpg",
+     "price": "35.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/chai-hit-starbalm-sports-inhaler-novum-11g-28837.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh mũi ION Muối Fujiwa phòng ngừa sổ mũi, nghẹt mũi, viêm xoang (90ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032201-dung-dich-xit-mui-i-on-muoi-90ml-1199-62b5_large.jpg",
+     "price": "31.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-dich-xit-mui-i-on-muoi-90ml-32342.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bình xịt họng sinh học Bdferm Bio Spray hỗ trợ diệt khuẩn, trị hôi miệng (30ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032359-xit-hong-sinh-hoc-bdferm-bio-spray-30ml-8392-62b5_large.jpg",
+     "price": "390.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/xit-hong-sinh-hoc-bdferm-bio-spray-30ml-32485.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dầu gội Nazorel Shampoo Ketoconazol điều trị gàu và nấm trên da đầu (50 gói x 6ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00032496-dau-goi-tri-gau-nazorel-shampoo-ketoconazol-hop-50-goi-x-6ml-9256-6361_large.jpg",
+     "price": "5.600đ / Gói",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dau-goi-tri-gau-nazorel-shampoo-ketoconazol-hop-50-goi-x-6ml-32620.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt mũi xoang Hải Đằng giúp sạch sâu, rửa trôi dịch nhầy, bụi bẩn (15ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501325-dung-dich-xit-mui-xoang-hai-dang-15ml-7174-62f6_large.jpg",
+     "price": "53.100đ / Hộp",
+     "link": "https://nhathuoclongchau.com/trang-thiet-bi-y-te/dung-dich-xit-mui-xoang-hai-dang-15ml-35492.html",
+     "promo": { 
+          "name": "thietbi",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông trẻ em Merigo Bạch Tuyết hỗ trợ vệ sinh tai, mũi, vết thương (330 que)",
+     "company": "Bạch Tuyết",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00017204-tam-bong-merigo-330-que-tron-7335-5c8f_large.JPG",
+     "price": "20.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-merigo-330-que-tron-18561.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông trẻ em Kotton Care For Kid Bạch Tuyết túi zipper mềm mại, không xơ bông (57 que)",
+     "company": "Bạch Tuyết",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00031866-tam-bong-tre-em-kotton-care-for-kid-goi-55-que-3644-6123_large.jpg",
+     "price": "36.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-tre-em-kotton-care-for-kid-goi-55-que-32003.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông người lớn Kotton Care Bạch Tuyết hỗ trợ vệ sinh tai, mũi, vết thương (42 que)",
+     "company": "Bạch Tuyết",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00031863-tam-bong-nguoi-lon-kotton-care-goi-42-que-4300-6123_large.jpg",
+     "price": "32.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-nguoi-lon-kotton-care-goi-42-que-32005.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông người lớn Meriday Bạch Tuyết hỗ trợ vệ sinh tai, mũi, vết thương (200 que)",
+     "company": "Bạch Tuyết",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00014015-tam-bong-meriday-200quelo-3438-5c90_large.JPG",
+     "price": "18.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-meriday-200quelo-15782.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Meriday Bạch Tuyết hỗ trợ vệ sinh tai, mũi (80 que)",
+     "company": "Bạch Tuyết",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00015845-tam-bong-meriday-80-que-2866-5c91_large.JPG",
+     "price": "9.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-meriday-80-que-14846.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tã quần người lớn Caryn mỏng nhẹ vòng bụng 60 x 85cm, size M8 (8 miếng)",
+     "company": "Caryn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00031049-ta-quan-cho-nguoi-lon-caryn-mong-nhe-size-m8-goi-8-mieng-vong-bung-60-85cm-2626-60c1_large.jpg",
+     "price": "85.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/ta-quan-cho-nguoi-lon-caryn-mong-nhe-size-m8-goi-8-mieng-vong-bung-60-85cm-31198.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tã quần người lớn Caryn mỏng nhẹ vòng bụng 75 x 100cm, size L7 (7 miếng)",
+     "company": "Caryn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00031051-ta-quan-nguoi-lon-caryn-mong-nhe-size-l7-goi-7-mieng-vong-bung-75-100cm-4539-60c1_large.jpg",
+     "price": "85.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/ta-quan-nguoi-lon-caryn-mong-nhe-size-l7-goi-7-mieng-vong-bung-75-100cm-31185.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông trẻ em Kotton Care For Kid Bạch Tuyết hộp tròn mềm mại, không xơ bông (120 que)",
+     "company": "Bạch Tuyết",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00031864-tam-bong-tre-em-kotton-care-for-kid-hop-tron-120-que-7322-6123_large.jpg",
+     "price": "13.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-tre-em-kotton-care-for-kid-hop-tron-120-que-32001.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tã quần người lớn Caryn mỏng nhẹ size L14 vòng bụng 75 x 100cm (14 miếng)",
+     "company": "Caryn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00031052-ta-quan-cho-nguoi-lon-caryn-mong-nhe-size-l14-goi-14-mieng-vong-bung-75-100cm-3304-6384_large.jpg",
+     "price": "166.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/ta-quan-cho-nguoi-lon-caryn-mong-nhe-size-l14-goi-14-mieng-vong-bung-75-100cm-31190.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh Sofy Cooling Fresh Unicharm siêu mỏng cánh 23cm (8 miếng)",
+     "company": "unicharm",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/09/00028485-bvs-sofy-cooling-fresh-sieu-mong-canh-25cm-goi-8-mieng-1153-6148_large.jpg",
+     "price": "38.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-sofy-cooling-fresh-sieu-mong-canh-25cm-goi-8-mieng-28787.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh Saforelle Miss Soin Intime et Corporel Intimate and Body Care (100ml)",
+     "company": "Saforelle",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/02/00029047-dung-dich-ve-sinh-saforelle-miss-100ml-danh-cho-be-gai-5680-6039_large.JPG",
+     "price": "170.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-ve-sinh-saforelle-miss-100ml-danh-cho-be-gai-29314.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tấm đệm lót người lớn Caryn siêu thấm size L10, 42 x 72cm (10 miếng)",
+     "company": "Caryn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00031053-tam-diem-lot-cho-nguoi-lon-caryn-loai-sieu-tham-size-l10-goi-10-mieng-42x72cm-1742-60c1_large.jpg",
+     "price": "52.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-diem-lot-cho-nguoi-lon-caryn-loai-sieu-tham-size-l10-goi-10-mieng-42x72cm-31183.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch rửa tay Green Cross hương trà xanh hỗ trợ làm sạch tay, kháng khuẩn, khử mùi (100ml)",
+     "company": "Green Cross",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/06/00013696-dung-dich-rt-green-cross-100ml-huong-tra-xanh-1175-5d14_large.JPG",
+     "price": "24.500đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-rt-green-cross-100ml-huong-tra-xanh-15891.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Cotton Buds Bạch Tuyết tiện dụng cho trang điểm, tẩy trang (200 que)",
+     "company": "Bạch Tuyết",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032844-tam-bong-nguoi-lon-bong-bach-tuyet-hop-tron-200-que-2879-619d_large.JPG",
+     "price": "20.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-nguoi-lon-bong-bach-tuyet-hop-tron-200-que-32958.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tã dán người lớn Caryn siêu thấm size L20, vòng hông 68 x 122cm (20 miếng)",
+     "company": "Caryn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00031048-ta-dan-cho-nguoi-lon-caryn-sieu-tham-size-m-l20-goi-20-mieng-vong-hong-68-122cm-9093-6384_large.jpg",
+     "price": "188.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/ta-dan-cho-nguoi-lon-caryn-sieu-tham-size-m-l20-goi-20-mieng-vong-hong-68-122cm-31182.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bọt vệ sinh phụ nữ Ladysofts Premium hỗ trợ ngăn ngừa vi khuẩn có hại (250ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/08/4298-bot-ve-sinh-phu-nu-ladysoft-premium-7812-599f_large.jpg",
+     "price": "85.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bot-ve-sinh-phu-nu-ladysoft-premium-593.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dược liệu xông vùng kín Xongbame Herbe hỗ trợ khử khuẩn, diệt vi nấm cho phụ nữ sau sinh (10ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00022541-xongbame-herbe-10ml-7399-5f84_large.JPG",
+     "price": "107.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/xongbame-herbe-10ml-22867.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Smoovy Gia Nguyễn nuôi dưỡng và trẻ hóa vùng kín (150ml)",
+     "company": "GIA NGUYỄN",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00020792-smoovy-gia-nguyen-150ml-dd-ve-sinh-phu-nu-3669-5e88_large.png",
+     "price": "99.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/smoovy-gia-nguyen-150ml-dd-ve-sinh-phu-nu-21149.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Lactacyd Extra Nouris tinh chất sữa giúp dưỡng ẩm, ngăn mùi (150 ml)",
+     "company": "Lactacyd",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500393-lactacyd-extra-nourish-150ml-dung-dich-ve-sinh-phu-nu-giup-cang-min-9315-629d_large.jpg",
+     "price": "61.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/lactacyd-extra-nourish-150ml-dung-dich-ve-sinh-phu-nu-giup-cang-min-34508.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tã dán người lớn Caryn siêu thấm size L10, vòng hông 68 x 122cm (10 miếng)",
+     "company": "Caryn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00031047-ta-dan-cho-nguoi-lon-caryn-sieu-tham-size-m-l10-goi-10-mieng-vong-hong-68-122cm-9731-6384_large.jpg",
+     "price": "95.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/ta-dan-cho-nguoi-lon-caryn-sieu-tham-size-m-l10-goi-10-mieng-vong-hong-68-122cm-31197.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Perfecta Pharmacy Femina SOS làm sạch, khử mùi hôi (150ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00020739-perfecta-pharmacy-femina-sos-150ml-dung-dich-vspn-5497-5e8b_large.JPG",
+     "price": "199.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/perfecta-pharmacy-femina-sos-150ml-dung-dich-vspn-21096.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh ngày Laurier Super Slimguard Cool Kao siêu mỏng mát lạnh 1mm (8 miếng)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033400-bvs-laurier-super-slimguard-cool-sieu-mong-mat-lanh-1mm-8-mieng-5617-620c_large.jpg",
+     "price": "37.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-laurier-super-slimguard-cool-sieu-mong-mat-lanh-1mm-8-mieng-33508.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tấm đệm lót người lớn Caryn siêu thấm size L20, 42 x 72cm (20 miếng)",
+     "company": "Caryn",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00031054-tam-diem-lot-cho-nguoi-lon-caryn-loai-sieu-tham-size-l20-goi-20-mieng-42x72cm-8706-60c1_large.jpg",
+     "price": "98.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-diem-lot-cho-nguoi-lon-caryn-loai-sieu-tham-size-l20-goi-20-mieng-42x72cm-31188.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh Kotex siêu ban đêm, siêu mỏng cánh 35cm (3 miếng)",
+     "company": "Kotex",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028491-bvs-kotex-sieu-ban-dem-35cm-goi-8-mieng-7776-62af_large.jpg",
+     "price": "15.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-kotex-sieu-ban-dem-35cm-goi-3-mieng-28793.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh ngày Laurier Super Slimguard Kao cao cấp siêu thấm, mỏng 1mm (10 miếng)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033399-bvs-laurier-super-slimguard-sieu-mong-1mm-10-mieng-7980-620c_large.jpg",
+     "price": "37.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-laurier-super-slimguard-sieu-mong-1mm-10-mieng-33511.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh Laurier Super Slimguard Kao kháng khuẩn siêu mỏng 1mm (8 miếng)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033401-bvs-laurier-super-slimguard-khang-khuan-sieu-mong-1mm-8-mieng-7721-620c_large.jpg",
+     "price": "37.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-laurier-super-slimguard-khang-khuan-sieu-mong-1mm-8-mieng-33506.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông kháng khuẩn trẻ em Jomi dùng hỗ trợ vệ sinh tai, mũi (160 que)",
+     "company": "Jomi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/07/00028365-tam-bong-khang-khuan-tre-em-jomi-hop-160-que-9204-5f1f_large.JPG",
+     "price": "29.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-khang-khuan-tre-em-jomi-hop-160-que-28670.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông kháng khuẩn Jomi 100% cotton hỗ trợ vệ sinh tai, mũi (200 que)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028364-tam-bong-khang-khuan-jomi-hop-200-que-5581-62bd_large.jpg",
+     "price": "29.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-khang-khuan-jomi-hop-200-que-28669.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh hàng ngày Laurier Active Fit Quick Dry & Fresh Kao không mùi (20 miếng)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033402-bvs-laurier-hang-ngay-active-fit-quick-dry-and-fresh-khong-mui-20-mieng-9944-620c_large.jpg",
+     "price": "15.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-laurier-hang-ngay-active-fit-quick-dry-and-fresh-khong-mui-20-mieng-33503.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Lactacyd Pro Sensitive kháng khuẩn, giảm ngứa (150ml)",
+     "company": "Lactacyd",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500391-lactacyd-pro-sensitive-150ml-dung-dich-ve-sinh-phu-nu-khang-khuan-va-giam-ngua-6385-629d_large.jpg",
+     "price": "55.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/lactacyd-pro-sensitive-150ml-dung-dich-ve-sinh-phu-nu-khang-khuan-va-giam-ngua-34510.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh ban đêm Laurier Safety Night Kao hỗ trợ thấm hút nhanh 35cm (4 miếng)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033398-bvs-laurier-safety-night-ban-dem-sieu-bao-ve-35cm-4-mieng-1508-620c_large.jpg",
+     "price": "21.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-laurier-safety-night-ban-dem-sieu-bao-ve-35cm-4-mieng-33504.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Shema Lá Đôi hỗ trợ làm sạch vùng kín, ngăn ngừa vi khuẩn (100ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00022683-shema-la-doi-mau-xanh-100ml-huong-diu-mat-2161-5f84_large.JPG",
+     "price": "26.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/shema-la-doi-mau-xanh-100ml-huong-diu-mat-23006.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sát khuẩn tay nhanh Clincare S.H Opodis Pharma tiêu diệt 99,99% vi khuẩn (70ml)",
+     "company": "OPODIS PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00027934-clincare-sh-opodis-70ml-xit-sat-khuan-tay-2512-5e99_large.JPG",
+     "price": "65.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/clincare-sh-opodis-70ml-xit-sat-khuan-tay-28439.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Shema Lá Đôi hỗ trợ làm sạch vùng kín, ngăn ngừa vi khuẩn (100ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00022682-shema-la-doi-mau-hong-100ml-huong-nong-nan-7262-62b5_large.jpg",
+     "price": "28.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/shema-la-doi-mau-hong-100ml-huong-nong-nan-23005.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh ban đêm Diana Siêu Thấm Super Night 29cm thấm hút siêu nhanh (4 miếng)",
+     "company": "Diana",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/08/00028487-bvs-ban-dem-diana-sieu-tham-super-night-29cm-goi-4-mieng-9042-5f27_large.JPG",
+     "price": "16.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-ban-dem-diana-sieu-tham-super-night-29cm-goi-4-mieng-28789.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông tẩy trang Jomi siêu thấm, siêu mịn hỗ trợ tẩy trang hiệu quả (80 miếng)",
+     "company": "Jomi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028363-bong-tay-trang-jomi-80-mieng-7258-62b9_large.jpg",
+     "price": "27.500đ / Bịch",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-tay-trang-jomi-80-mieng-28668.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Lactacyd Soft & Silky bảo vệ dịu nhẹ, giảm khô, ngứa (150ml)",
+     "company": "Lactacyd",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00015125-lactacyd-soft-silky-150ml-9134-62bd_large.jpg",
+     "price": "60.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/lactacyd-soft-silky-150ml-15065.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Băng vệ sinh ngày Laurier Fresh & Free Kao siêu thấm siêu mỏng cánh (8 miếng)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033403-bvs-laurier-fresh-and-free-sieu-tham-sieu-mong-canh-8-mieng-5350-620c_large.jpg",
+     "price": "15.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bvs-laurier-fresh-and-free-sieu-tham-sieu-mong-canh-8-mieng-33510.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Lactacyd Pro Sensitive kháng khuẩn, giảm ngứa (250ml)",
+     "company": "Lactacyd",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500392-lactacyd-pro-sensitive-250ml-dung-dich-ve-sinh-phu-nu-khang-khuan-va-giam-ngua-5063-629d_large.jpg",
+     "price": "80.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/lactacyd-pro-sensitive-250ml-dung-dich-ve-sinh-phu-nu-khang-khuan-va-giam-ngua-34511.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông trang điểm cao cấp Silcot Unicharm mềm xốp, êm ái, dịu nhẹ với da (66 miếng)",
+     "company": "unicharm",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00014050-bong-trang-diem-silcot-66m-7015-62ae_large.jpg",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-trang-diem-silcot-66m-15772.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Saforelle Soin Lavant Doux Gentle Cleansing Care (250ml)",
+     "company": "Saforelle",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00006480-saforelle-gentle-cleansing-care-250ml-9517-62ae_large.jpg",
+     "price": "235.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/saforelle-gentle-cleansing-care-250ml-16908.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Saforelle Soin Lavant Doux Gentle Cleansing Care (100ml)",
+     "company": "Saforelle",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00006482-saforelle-phu-khoa-100ml-2432-62b1_large.jpg",
+     "price": "120.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/saforelle-phu-khoa-100ml-16907.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch sát khuẩn tay Clincare Opodis Pharma hỗ trợ sát khuẩn tay nhanh (500ml)",
+     "company": "OPODIS PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00015108-sat-khuan-tay-clincare-500ml-opodis-8212-62af_large.JPG",
+     "price": "120.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/sat-khuan-tay-clincare-500ml-opodis-15082.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh Lactacyd Soft & Silky bảo vệ, chăm sóc vùng kín phái nữ (250ml)",
+     "company": "Lactacyd",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00004283-lactacyd-softsilky-250ml-9689-62af_large.jpg",
+     "price": "75.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/lactacyd-softsilky-250ml-17153.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Dạ Hương Hoa Linh giúp sáng mịn da và giảm tác động của lão hóa (120ml)",
+     "company": "HOA LINH",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/06/00002166-da-huong-120ml-9942-5cff_large.JPG",
+     "price": "42.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/da-huong-120ml-4117.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Lactacyd Odor Fresh cho ngày dài tươi mát (150ml)",
+     "company": "Lactacyd",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00015054-lactacyd-ngay-dai-tuoi-mat-150ml-2543-6232_large.jpg",
+     "price": "45.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/lactacyd-ngay-dai-tuoi-mat-150ml-15136.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Dạ Hương Hoa Linh hương lavender giúp sáng mịn da và giảm tác động của lão hóa (100ml)",
+     "company": "HOA LINH",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/06/00002167-da-huong-lavender-100ml-8636-5cfd_large.JPG",
+     "price": "33.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/da-huong-lavender-100ml-17416.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông tẩy trang Jomi siêu thấm, siêu mịn (120 miếng)",
+     "company": "Jomi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00022051-bong-tay-trang-jomi-120-mieng-8493-62b3_large.jpg",
+     "price": "29.000đ / Bịch",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-tay-trang-jomi-120-mieng-22393.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Dạ Hương Hoa Linh giúp sáng mịn da và giảm tác động của lão hóa (100ml)",
+     "company": "HOA LINH",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/08/00002165-da-huong-100ml-khong-voi-6439-5d63_large.png",
+     "price": "33.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/da-huong-100ml-khong-voi-17417.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Femfresh Intimate Skin Care Active Wash Church & Dwight (250ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501595-dung-dich-ve-sinh-phu-nu-femfresh-intima-skin-care-active-wash-250ml-4822-62f9_large.jpg",
+     "price": "168.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-ve-sinh-phu-nu-femfresh-intima-skin-care-active-wash-250ml-35758.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông tẩy trang đa dụng Niva mềm mại, không xổ lông, an toàn cho da (50 miếng)",
+     "company": "Niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00029573-bong-tay-trang-da-dung-niva-hop-50-mieng-7525-604f_large.JPG",
+     "price": "23.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-tay-trang-da-dung-niva-hop-50-mieng-29837.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông tẩy trang đa dụng Niva túi zipper mềm mại, an toàn cho da (100 miếng)",
+     "company": "Niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00029575-bong-tay-trang-da-dung-niva-tui-zipper-100-mieng-5019-6009_large.JPG",
+     "price": "35.500đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-tay-trang-da-dung-niva-tui-zipper-100-mieng-29839.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông tẩy trang đa dụng Niva mềm mại, không xổ lông, an toàn cho da (80 miếng)",
+     "company": "Niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00029574-bong-tay-trang-da-dung-niva-hop-80-mieng-3734-6009_large.JPG",
+     "price": "36.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-tay-trang-da-dung-niva-hop-80-mieng-29838.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva Baby BH1 hũ xoay hỗ trợ vệ sinh tai, mũi, vết thương cho trẻ (150 que nhựa)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029566-tam-bong-niva-hu-xoay-150-que-nhua-bh1-6262-62b5_large.jpg",
+     "price": "19.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-hu-xoay-150-que-nhua-bh1-29830.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh Sensure' Detergente Intimo hỗ trợ làm sạch và giảm mùi hôi (100ml)",
+     "company": "SENSURE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00018991-intimo-sensure-100ml-nuoc-rua-phu-khoa-6096-5c80_large.png",
+     "price": "140.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/intimo-sensure-100ml-nuoc-rua-phu-khoa-20288.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva Baby Bhp2 hũ xoay mềm mại, không xơ bông cho bé (400 que giấy)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029572-tam-bong-niva-hu-xoay-400-que-giay-bhp2-6566-62b9_large.jpg",
+     "price": "48.400đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-hu-xoay-400-que-giay-bhp2-29836.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Femfresh Daily Wash giúp kháng khuẩn, khử mùi (250ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501073-dung-dich-ve-sinh-phu-nu-femfresh-intima-skin-care-daily-wash-250ml-1804-62d9_large.jpg",
+     "price": "168.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-ve-sinh-phu-nu-femfresh-intima-skin-care-daily-wash-250ml-35226.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Femfresh Soothing Wash (250ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501076-dung-dich-ve-sinh-phu-nu-femfresh-intima-skin-care-soothing-wash-250ml-4367-62d9_large.jpg",
+     "price": "198.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-ve-sinh-phu-nu-femfresh-intima-skin-care-soothing-wash-250ml-35225.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva AH2 hũ xoay hỗ trợ vệ sinh tai, mũi, vết thương (200 que nhựa)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029565-tam-bong-niva-hu-xoay-200-que-nhua-ah2-4494-62b5_large.jpg",
+     "price": "26.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-hu-xoay-200-que-nhua-ah2-29829.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông viên Niva Yb1 dùng làm sạch viết thương, thấm máu, thấm thuốc (50 viên)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029576-bong-vien-niva-50-vien-3081-62b9_large.jpg",
+     "price": "17.000đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-vien-niva-50-vien-29840.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva Baby BHP1 hũ xoay hỗ trợ vệ sinh tai, mũi, vết thương cho bé (200 que giấy)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029571-tam-bong-niva-hu-xoay-200-que-giay-bhp1-9264-62bd_large.jpg",
+     "price": "29.200đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-hu-xoay-200-que-giay-bhp1-29835.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva AJ2 hũ xoay hỗ trợ vệ sinh tai, mũi, vết thương (200 que giấy)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029567-tam-bong-niva-hu-xoay-200-que-giay-aj2-6522-62b3_large.jpg",
+     "price": "23.200đ / Hộp",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-hu-xoay-200-que-giay-aj2-29831.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva AZP3 túi zipper hỗ trợ vệ sinh tai, mũi, vết thương (200 que giấy)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029569-tam-bong-niva-tui-zipper-200-que-giay-azp3-6177-62bd_large.jpg",
+     "price": "23.500đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-tui-zipper-200-que-giay-azp3-29833.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva AZ3 túi zipper hỗ trợ vệ sinh tai, mũi, vết thương (200 que nhựa)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029564-tam-bong-niva-tui-zipper-200-que-nhua-az3-9065-62af_large.JPG",
+     "price": "15.000đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-tui-zipper-200-que-nhua-az3-29828.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Crevil Intim Waschlotion hỗ trợ cân bằng độ pH (100ml)",
+     "company": "Crevil",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/08/00345425-crevil-100ml-7253-5d5b_large.JPG",
+     "price": "120.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/crevil-100ml-14163.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva AZP2 túi zipper mềm mại, không xơ bông (100 que giấy)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029568-tam-bong-niva-tui-zipper-100-que-giay-azp2-7798-62b3_large.jpg",
+     "price": "16.000đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-tui-zipper-100-que-giay-azp2-29832.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva Baby BZP1 túi zipper hỗ trợ vệ sinh tai, mũi, vết thương cho trẻ (200 que giấy)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029570-tam-bong-niva-tui-zipper-200-que-giay-bzp1-1312-62b9_large.jpg",
+     "price": "28.500đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-tui-zipper-200-que-giay-bzp1-29834.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tăm bông Niva AZ2 túi zipper hỗ trợ vệ sinh tai, mũi, vết thương (100 que nhựa)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029563-tam-bong-niva-tui-zipper-100-que-nhua-az2-9911-62bd_large.jpg",
+     "price": "9.000đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/tam-bong-niva-tui-zipper-100-que-nhua-az2-29827.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bông tẩy trang Niva dạng tròn làm sạch da mặt, không gây kích ứng da (100 miếng)",
+     "company": "niva",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00031599-bong-tay-trang-niva-dang-tron-tui-100-mieng-7674-62ad_large.jpg",
+     "price": "35.000đ / Túi",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/bong-tay-trang-niva-dang-tron-tui-100-mieng-31741.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch sát khuẩn tay nhanh Touchhand Opodis Pharma hỗ trợ sát khuẩn (30ml)",
+     "company": "OPODIS PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00033397-dung-dich-sat-khuan-tay-nhanh-touchhand-30ml-6233-620c_large.jpg",
+     "price": "25.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-sat-khuan-tay-nhanh-touchhand-30ml-33505.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa tay khô Natural Hand Sanitizer làm sạch tay, khử mùi, dưỡng ẩm (250ml)",
+     "company": "La Beauté",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00031658-gel-rua-tay-kho-natural-hand-sanitizer-250ml-1998-62bd_large.jpg",
+     "price": "44.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/gel-rua-tay-kho-natural-hand-sanitizer-250ml-31797.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa tay khô Natural Hand Sanitizer giúp làm sạch khuẩn, bụi bẩn trên tay (100ml)",
+     "company": "La Beauté",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028294-gel-rua-tay-kho-natural-hand-sanitizer-100ml-1334-62ae_large.jpg",
+     "price": "24.500đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/gel-rua-tay-kho-natural-hand-sanitizer-100ml-28603.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa tay khô Natural Hand Sanitizer hỗ trợ làm sạch tay, khử mùi, dưỡng ẩm (120ml)",
+     "company": "La Beauté",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028200-gel-rua-tay-kho-natural-hand-sanitizer-la-beaute-120ml-5244-62ba_large.jpg",
+     "price": "27.300đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/gel-rua-tay-kho-natural-hand-sanitizer-la-beaute-120ml-28511.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vệ sinh phụ nữ Natural Feminine Curcumin Wash hỗ trợ làm sạch và dưỡng ẩm (100ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/11/00022042-dung-dich-ve-sinh-phu-nu-natural-feminine-curcumin-wash-100ml-9537-5dca_large.JPG",
+     "price": "59.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-ve-sinh-phu-nu-natural-feminine-curcumin-wash-100ml-22384.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước xịt khuẩn Natural Hand Sanitizer giúp diệt khuẩn, làm sạch da tay, vật dụng (500ml)",
+     "company": "LaBeauté",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032957-dung-dich-rua-tay-kho-natural-hand-sanitizer-500ml-8726-62af_large.jpg",
+     "price": "55.200đ / Chai",
+     "link": "https://nhathuoclongchau.com/cham-soc-ca-nhan/dung-dich-rua-tay-kho-natural-hand-sanitizer-500ml-33069.html",
+     "promo": { 
+          "name": "canhan",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Dầu Tỏi Tuệ Linh Garlic Oil giúp giảm mỡ máu, giảm nguy cơ xơ vữa động mạch vành (100 viên)",
+     "company": "Tuệ Linh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00009996-dau-toi-tue-linh-kiem-soat-mo-mau-tang-suc-de-khang-3466-5fdc_large.jpg",
+     "price": "70.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dau-toi-tue-linh-kiem-soat-mo-mau-tang-suc-de-khang-366.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Xích Linh Chi Mikei giúp tăng cường hệ miễn dịch (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/03/00008134-xich-linh-chi-ho-tro-chuc-nang-gan-he-tieu-hoa-6300-5e5c_large.JPG",
+     "price": "1.680.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/xich-linh-chi-ho-tro-chuc-nang-gan-he-tieu-hoa-158.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột thảo mộc Thanh Thiệt ADC hỗ trợ thanh nhiệt, mát huyết, lợi tiểu (10 gói)",
+     "company": "ADC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/02/00017844-bot-thao-moc-thanh-nhiet-cho-nguoi-an-kieng-10-goi-adc-3239-5c6e_large.jpg",
+     "price": "39.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bot-thao-moc-thanh-nhiet-cho-nguoi-an-kieng-adc-10-goi-19191.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Exodrink Pro Mebiphar-Austrapharm ngăn ngừa lão hóa (30 viên)",
+     "company": "MEBIPHAR-AUSTRAPHARM",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00009900-exodrink-vien-uong-ngan-ngua-lao-hoa-2215-6343_large.jpg",
+     "price": "160.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/exodrink-vien-uong-ngan-ngua-lao-hoa-315.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống BoniKiddy Botania kích thích hệ thống miễn dịch, bồi bổ cơ thể trẻ em (60 viên)",
+     "company": "Botania",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00001396-bonikiddy-giup-tre-het-bieng-an-tang-suc-de-khang-2593-6327_large.jpg",
+     "price": "405.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bonikiddy-giup-tre-het-bieng-an-tang-suc-de-khang-142.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tảo viên Spirulina vùng biển nước sâu Algae hỗ trợ tăng cường sức đề kháng (1500 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00007173-vien-tao-spirulina-6190-5fa1_large.JPG",
+     "price": "719.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-tao-spirulina-513.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Thuần Linh Chi Nissan hỗ trợ bồi bổ sức khỏe, giúp bảo vệ gan (50 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00007318-thuan-linh-chi-ho-tro-ngua-ung-thu-bao-ve-gan-9752-62af_large.jpg",
+     "price": "2.690.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/thuan-linh-chi-ho-tro-ngua-ung-thu-bao-ve-gan-468.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Hồng Sâm Hàn Quốc Shinsam Shinpoong Deawoo hỗ trợ tăng cường sức khỏe (180 viên)",
+     "company": "Shinpoong Deawoo",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/01/00033147-hong-sam-han-quoc-shinsam-180v-3971-61d1_large.jpg",
+     "price": "1.090.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/hong-sam-han-quoc-shinsam-180v-33263.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Đông Trùng Hạ Thảo Tenken hỗ trợ bồi bổ sức khỏe, tăng cường sinh lực (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00008485-dong-trung-ha-thao-tenken-boi-bo-suc-khoe-5288-62b0_large.jpg",
+     "price": "1.830.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dong-trung-ha-thao-tenken-boi-bo-suc-khoe-443.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Liver Complex Doppel Herz hỗ trợ giải độc gan, bảo vệ gan (30 viên)",
+     "company": "Doppelherz",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/04/00033807-doppelherz-liver-complex-3x10-4047-6256_large.jpg",
+     "price": "349.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/doppelherz-liver-complex-3x10-33891.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống DHC Lutein Blue Light Protection bổ sung lutein, anthocyanin (30 viên)",
+     "company": "DHC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501629-dhc-lutein-blue-light-protection-30v-8618-62fb_large.jpg",
+     "price": "355.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dhc-lutein-blue-light-protection-30v-35788.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống DHC Concentrated Turmeric hỗ trợ chống oxy hóa, giải độc gan (60 viên)",
+     "company": "DHC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501627-dhc-concentrated-turmeric-60v-7200-62fb_large.jpg",
+     "price": "305.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dhc-concentrated-turmeric-60v-35790.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên sủi Redoxon Triple Action Bayer bổ sung vitamin C, D và kẽm (10 viên)",
+     "company": "Bayer",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032809-thuc-pham-bao-ve-suc-khoe-redoxon-triple-action-tuyp-10-vien-7149-6198_large.jpg",
+     "price": "46.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/thuc-pham-bao-ve-suc-khoe-redoxon-triple-action-tuyp-10-vien-32926.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Brauer Baby & Kids Liquid Zinc bổ sung kẽm tăng cường đề kháng (200ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00500111-brauer-baby-kids-liquid-zinc-200ml-1001-6278_large.jpg",
+     "price": "475.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/brauer-baby-kids-liquid-zinc-200ml-34195.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Brauer Baby & Kids Liquid Multivitamin For Infants hỗ trợ bổ sung một số vitamin (45ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502560-brauer-baby-kids-liquid-multivitamin-for-infants-45ml-6406-635f_large.jpg",
+     "price": "378.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/brauer-baby-kids-liquid-multivitamin-for-infants-45ml-36835.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Brauer Baby & Kids Liquid Multivitamin For Toddlers bổ sung một số vitamin và khoáng chất (100ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502561-brauer-baby-kids-liquid-multivitamin-for-toddlers-100ml-3551-6360_large.jpg",
+     "price": "464.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/brauer-baby-kids-liquid-multivitamin-for-toddlers-100ml-36834.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Brauer Kids Liquid Multivitamin With Iron bổ sung các vitamin và khoáng chất (200ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502562-brauer-kids-liquid-multivitamin-with-iron-200ml-7911-635f_large.jpg",
+     "price": "475.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/brauer-kids-liquid-multivitamin-with-iron-200ml-36833.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột hòa tan Soki Deli cải thiện tình trạng biếng ăn, tăng cường tiêu hóa và hấp thu (18 gói x 4g)",
+     "company": "Soki",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501623-soki-deli-18-goi-x-4g-4693-62fb_large.jpg",
+     "price": "324.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/soki-deli-18-goi-x-4g-35769.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Blackmores Milk Thistle hỗ trợ bảo vệ, phục hồi gan (42 viên)",
+     "company": "Blackmores",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502409-blackmores-milk-thistle-42v-8221-634e_large.jpg",
+     "price": "360.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/blackmores-milk-thistle-42v-36669.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Blackmores Bio Magnesium hỗ trợ cơ bắp, giảm triệu chứng tiền kinh nguyệt (100 viên)",
+     "company": "Blackmores",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502414-blackmores-bio-magnesium-100v-9063-634e_large.jpg",
+     "price": "601.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/blackmores-bio-magnesium-100v-36664.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống DHC Liver Essence + Ornithine hỗ trợ tăng cường chức năng gan (90 viên)",
+     "company": "DHC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501628-dhc-liver-essence-ornithine-90v-8748-62fc_large.jpg",
+     "price": "395.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dhc-liver-essence-ornithine-90v-35789.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Thymo-Glucan Kingphar giúp tăng cường sức khỏe, nâng cao sức đề kháng (30 viên)",
+     "company": "Kingphar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00033459-vien-uong-nang-cao-suc-de-khang-thymo-glucan-kingphar-3x10-6337-6233_large.jpg",
+     "price": "98.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-nang-cao-suc-de-khang-thymo-glucan-kingphar-3x10-33564.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Ginkid GINIC hỗ trợ thanh nhiệt mát gan, tăng cường chức năng gan (20 ống x 10ml)",
+     "company": "GINIC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501602-ginkid-thanh-nhiet-mat-gan-4x5-ong-10ml-4026-62f9_large.jpg",
+     "price": "90.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/ginkid-thanh-nhiet-mat-gan-4x5-ong-10ml-35757.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Kendai Fucoidan Super Plus Sumioka hỗ trợ làm giảm nguy cơ u bướu, bảo vệ gan (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00031018-kendai-fucoidan-super-plus-sumioka-60v-7644-6384_large.jpg",
+     "price": "2.900.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/kendai-fucoidan-super-plus-sumioka-60v-31167.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên sữa non Oceania Colostrum Tablet hỗ trợ tăng cường sức đề kháng (90 viên)",
+     "company": "Healthmate Nourishing Life",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/03/00018897-colostrum-tablet-820mg45mg-igg-ferngrove-90v-sua-non-8954-5e7a_large.JPG",
+     "price": "645.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/colostrum-tablet-820mg45mg-igg-ferngrove-90v-sua-non-20195.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Kim Thính Á Âu hỗ trợ tăng cường lưu thông khí huyết (2 lọ x 90 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00032394-kim-thinh-imc-2-lo-x-90-vien-4530-62eb_large.jpg",
+     "price": "1.200.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/kim-thinh-imc-2-lo-x-90-vien-32521.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Chophytin Pharco giúp tăng cường chức năng gan (180 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00001854-chophytin-1816-5b91_large.JPG",
+     "price": "35.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/chophytin-18075.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Fitobimbi Immuno Concentrato Fluido Pharmalife tăng cường chức năng miễn dịch tự nhiên (200ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00032368-fitobimbi-immuno-200ml-2987-62ec_large.jpg",
+     "price": "365.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/fitobimbi-immuno-200ml-32498.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Giải Độc Gan Tuệ Linh hỗ trợ điều trị viêm gan virus (60 viên)",
+     "company": "Tuệ Linh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00003324-giai-doc-gan-tue-linh-tang-cuong-chuc-nang-gan-2415-6380_large.jpg",
+     "price": "195.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/giai-doc-gan-tue-linh-tang-cuong-chuc-nang-gan-538.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Kinder Optima Doppelherz hỗ trợ trẻ ăn ngon, tăng cường tiêu hóa (100ml)",
+     "company": "Doppelherz",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/04/00029094-kinder-optima-100ml-aktiv-9532-6256_large.jpg",
+     "price": "305.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/kinder-optima-100ml-aktiv-29360.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Hamega Nam Dược giúp bảo vệ gan, giải độc gan do bia rượu  (40 viên)",
+     "company": "NAM DƯỢC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00003613-hamega-ho-tro-dieu-tri-benh-gan-3927-5f9f_large.JPG",
+     "price": "70.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/hamega-ho-tro-dieu-tri-benh-gan-374.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tỏi Đen Kochi NB hỗ trợ giảm cholesterol máu, hạn chế xơ vữa mạch máu (150g)",
+     "company": "Tỏi Đen Kochi NB",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00018618-toi-den-kochi-nb-150g-9147-5c87_large.jpg",
+     "price": "150.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/toi-den-kochi-nb-150g-19929.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Nano Fucomin HVQY giúp tăng sức đề kháng, hỗ trợ giảm tác dụng phụ của hóa trị, xạ trị (30 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/01/00017500-nano-fucomin-hvqy-lo-30v-8380-5c4f_large.jpg",
+     "price": "288.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/nano-fucomin-hvqy-lo-30v-18860.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Yến sào Gold G&P hỗ trợ bồi bổ, ăn ngủ ngon dành cho trẻ (120ml)",
+     "company": "GP FRANCE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/07/00018893-yen-sao-an-ngu-ngon-gold-gp-france-120ml-8207-5f21_large.JPG",
+     "price": "68.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/yen-sao-an-ngu-ngon-gold-gp-france-120ml-20198.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Ích Mẫu Lợi Nhi IMC hỗ trợ tăng số lượng & chất lượng sữa mẹ (60 viên)",
+     "company": "IMC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00016927-ich-mau-loi-nhi-lo-60v-3498-5fa3_large.JPG",
+     "price": "695.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/ich-mau-loi-nhi-lo-60v-18184.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống X3-immune Thái Minh hỗ trợ tăng cường sức khỏe (30 viên)",
+     "company": "Thái Minh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00031656-x3-immune-thai-minh-30v-1841-61cd_large.jpg",
+     "price": "165.001đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/x3-immune-thai-minh-30v-31787.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Zlove Usapha hỗ trợ tăng cường sức khỏe, hạn chế nguy cơ sa tử cung ở phụ nữ sau sinh (50 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00020589-zlove-usapha-50-vien-1451-6286_large.jpg",
+     "price": "780.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/zlove-usapha-50-vien-20835.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Ích Mẫu Lợi Nhi IMC hỗ trợ tăng số lượng & chất lượng sữa mẹ (20 viên)",
+     "company": "IMC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00009598-ich-mau-loi-nhi-5526-5fae_large.JPG",
+     "price": "245.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/ich-mau-loi-nhi-719.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Heptral 400mg Abbott hỗ trợ tăng cường chức năng gan (30 viên)",
+     "company": "Abbott",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00029970-heptral-400mg-abbott-3x10-1995-6096_large.jpg",
+     "price": "900.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/heptral-400mg-abbott-3x10-30237.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột thảo mộc Thanh Nhiệt ADC hỗ trợ thanh nhiệt, lợi tiểu mát gan (8g x 10 gói)",
+     "company": "ADC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00015208-bot-thao-moc-thanh-nhiet-10-goi-adc-8760-5f89_large.JPG",
+     "price": "39.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bot-thao-moc-thanh-nhiet-10-goi-adc-14988.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Dưỡng Can Linh Thành Công hỗ trợ bổ gan, thanh nhiệt, giải độc (40 viên)",
+     "company": "Thành Công",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00002638-duong-can-linh-vien-uong-giai-doc-gan-8968-5b16_large.JPG",
+     "price": "45.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/duong-can-linh-vien-uong-giai-doc-gan-192.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Grow Gold G&P giúp xương chắc khỏe, trẻ cao lớn (20 ống x 10ml)",
+     "company": "GP FRANCE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00017981-canxi-gold-new-gp-france-20-ong-x-10ml-1787-5fcd_large.JPG",
+     "price": "70.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/canxi-gold-new-gp-france-20-ong-x-10ml-19323.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Tỏi đen Sâm Ngọc Linh Học Viện Quân Y giúp bồi bổ sức khỏe, nâng cao thể trạng (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00008351-toi-den-sam-ngoc-linh-6546-5fad_large.JPG",
+     "price": "200.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/toi-den-sam-ngoc-linh-340.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro ăn ngon Ích Nhi Plus Nam Dược hỗ trợ nâng cao sức đề kháng, giúp trẻ ăn ngon (20 ống x 10ml)",
+     "company": "Nam Dược",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00032956-siro-an-ngon-ich-nhi-plus-nam-duoc-4x5-ong-10ml-8264-61b3_large.jpg",
+     "price": "115.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/siro-an-ngon-ich-nhi-plus-nam-duoc-4x5-ong-10ml-33074.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Spivital Nutri DHG bổ sung vitamin D và dưỡng chất từ tảo Spirulina cho cơ thể (100 viên)",
+     "company": "DHG",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/01/00007178-vien-tao-spivital-nutri-5419-5c50_large.jpg",
+     "price": "165.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-tao-spivital-nutri-171.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Hồng Sâm Hàn Quốc Shinsam Shinpoong Deawoo hỗ trợ tăng cường sức khỏe, giảm mệt mỏi (30 viên)",
+     "company": "Shinpoong Deawoo",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/01/00033148-hong-sam-han-quoc-shinsam-30v-6980-61d1_large.jpg",
+     "price": "199.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/hong-sam-han-quoc-shinsam-30v-33264.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột Tinh Nghệ Vàng Curmin Powder Forny hỗ trợ hệ tiêu hóa, chống oxy hóa (100g)",
+     "company": "Forny",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00017544-curmin-powder-100g-lo-tinh-nghe-vang-forny-3625-62af_large.jpg",
+     "price": "150.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/curmin-powder-100g-lo-tinh-nghe-vang-forny-18902.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Donagen Gold Đông Nam Á giúp bé ăn ngon, ngủ tốt, kích thích hệ tiêu hóa (20 ống x 10ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00002541-donagen-1741-62af_large.jpg",
+     "price": "115.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/donagen-3962.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Tảo Spirulin Algae hạn chế lão hóa, giúp da mịn màng (600 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/04/00007174-vien-tao-xoan-spirulina-nhat-ban-3413-6262_large.jpg",
+     "price": "350.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-tao-xoan-spirulin-nhat-ban-173.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột pha Aminoleban Oral THAI OTSUKA hỗ trợ bệnh nhân suy gan (50g x 10 gói)",
+     "company": "THAI OTSUKA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/05/00018800-aminoleban-oral-10-goi-x-50g-8823-5ccf_large.JPG",
+     "price": "690.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/aminoleban-oral-10-goi-x-50g-20109.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Jalkton Growth For Children Cho-A hỗ trợ bổ sung vitamin, khoáng chất và axit amin (400ml)",
+     "company": "CHO-A",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00004024-jalkton-400ml-8102-5fad_large.JPG",
+     "price": "324.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/jalkton-400ml-335.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Naturen Z DHG giúp giải độc gan, tăng cường chức năng gan (100 viên)",
+     "company": "DHG",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/03/00005179-naturen-z-10x10-1956-5e71_large.JPG",
+     "price": "220.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/naturen-z-10x10-17047.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Dầu Gấc Tuệ Linh hỗ trợ bảo vệ sức khỏe đôi mắt, tăng cường thị lực (60 viên)",
+     "company": "Tuệ Linh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00022464-dau-gac-tue-linh-60v-4151-5fa3_large.JPG",
+     "price": "60.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dau-gac-tue-linh-60v-22794.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Fitobimbi Ferro C Concentrato Fluido Pharmalife  bổ sung sắt, kẽm, vitamin C cho cơ thể (200ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00030546-fitobimbi-ferro-c-200ml-7027-6228_large.jpg",
+     "price": "335.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/fitobimbi-ferro-c-200ml-30671.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống BoniAncol Botania giảm cảm giác thèm rượu và thói quen gây nghiện khác (60 viên)",
+     "company": "Botania",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00011321-boniancol-giai-phap-cai-ruou-hieu-qua-5903-633f_large.jpg",
+     "price": "405.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/boniancol-giai-phap-cai-ruou-hieu-qua-723.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Grow Nano G&P France giúp trẻ phát triển hệ xương, tăng cường đề kháng (20 ống x 10ml)",
+     "company": "GP FRANCE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00020105-canxi-nano-gold-10ml-gp-20-ong-8141-5fcd_large.JPG",
+     "price": "68.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/canxi-nano-gold-10ml-gp-20-ong-20404.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Tiêu Phong Nhuận Gan Ngọc Liên hỗ trợ thanh nhiệt, mát gan, bảo vệ gan (4g x 10 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00007360-vien-uong-tieu-phong-nhuan-gan-6854-62ae_large.jpg",
+     "price": "28.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-tieu-phong-nhuan-gan-877.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên nang Wit Ecogreen tăng cường thị lực, giảm mờ mắt, nhòe mắt (60 viên)",
+     "company": "Ecogreen",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00501342-wit-ecogreen-60v-6440-62e3_large.jpg",
+     "price": "590.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/wit-ecogreen-60v-35510.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Ăn Ngon Ích Nhi Plus Nam Dược hỗ trợ nâng cao sức đề kháng, giúp trẻ ăn ngon (100ml)",
+     "company": "NAM DƯỢC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032490-siro-an-ngon-ich-nhi-plus-nam-duoc-100ml-3886-62af_large.jpg",
+     "price": "65.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/siro-an-ngon-ich-nhi-plus-nam-duoc-100ml-32619.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Cốm Lợi Sữa Tasuamum Hadu giúp tăng tiết sữa cho phụ nữ sau sinh (20 túi x 3g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00015061-com-loi-sua-tasuamum-20-tui-1110-62b1_large.JPG",
+     "price": "140.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/com-loi-sua-tasuamum-20-tui-15129.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Kim Miễn Khang IMC tăng cường năng lượng cho tế bào miễn dịch (30 viên)",
+     "company": "IMC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00004167-kim-mien-khang-3x10-3156-5fa9_large.JPG",
+     "price": "160.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/kim-mien-khang-3x10-17175.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Pediakid Immuno-Fort hỗ trợ tăng đề kháng, bảo vệ sức khỏe (125ml)",
+     "company": "PEDIAKID",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00008518-siro-pediakid-immuno-fort-tang-de-khang-cho-tre-125ml-7546-630c_large.jpg",
+     "price": "260.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/pediakid-immuno-fortifiant-16665.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Kim Thính Âu Cơ hỗ trợ tăng cường thính lực (30 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00004176-kim-thinh-3x10-7409-5fa9_large.JPG",
+     "price": "210.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/kim-thinh-3x10-17173.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Ocuvite Lutein  Bausch & Lomb hỗ trợ tăng cường thị lực (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00005468-ocuvite-vitamin-bo-mat-cua-my-4233-62b1_large.jpg",
+     "price": "204.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/ocuvite-vitamin-bo-mat-cua-my-303.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Liver Detox 1-A-Day Henry Blooms hỗ trợ giải độc gan và thanh lọc cơ thể (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/04/00033724-henry-blooms-liver-detox-1-a-day-60v-5968-6246_large.jpg",
+     "price": "540.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/henry-blooms-liver-detox-1-a-day-60v-33813.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Hewel Ecogreen hỗ trợ tăng khả năng thải độc, bảo vệ gan trước các tác nhân gây hại (30 viên)",
+     "company": "Ecogreen",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010365-hewel-vien-giai-doc-gan-2657-62ae_large.jpg",
+     "price": "240.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/hewel-vien-giai-doc-gan-98.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Vương Lão Kiện Đông Tây hỗ trợ giảm triệu chứng run chân tay (30 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00008089-vuong-lao-kien-giup-giam-cac-trieu-chung-run-3572-62af_large.jpg",
+     "price": "185.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vuong-lao-kien-giup-giam-cac-trieu-chung-run-915.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột sủi Thanh Nhiệt Livecool Nam Dược hương chanh mát gan, giải độc (7g x 10 gói)",
+     "company": "Nam Dược",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00033610-bot-sui-thanh-nhiet-livecool-huong-chanh-10-goi-x-7g-6979-6232_large.jpg",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bot-sui-thanh-nhiet-livecool-huong-chanh-10-goi-x-7g-33692.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Minh Nhãn Khang Hồng Bàng chống đục thủy tinh thể, thoái hóa điểm vàng (30 viên)",
+     "company": "HỒNG BÀNG",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00004958-minh-nhan-khang-ngua-mu-loa-duc-thuy-tinh-the-9203-62af_large.jpg",
+     "price": "180.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/minh-nhan-khang-ngua-mu-loa-duc-thuy-tinh-the-757.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro tăng sức đề kháng Ong Vàng Herbal 5 (30 gói X 5ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00031550-siro-tang-suc-de-khang-ong-vang-herbal-30-goi-x-5ml-5574-6215_large.jpg",
+     "price": "42.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/siro-tang-suc-de-khang-ong-vang-herbal-30-goi-x-5ml-31685.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Tiêu Ban Thủy Hoa Sen hỗ trợ thanh nhiệt giải độc, giảm dị ứng, mẩn ngứa (150ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00007354-tieu-ban-thuy-3994-5fbf_large.JPG",
+     "price": "43.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/tieu-ban-thuy-1996.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch uống Alphavit USA Pharma hỗ trợ ăn ngon ngủ tốt (20 ống x 10ml)",
+     "company": "USA Pharma",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00017030-alphavit-an-ngon-ngu-tot-usa-pharma-4x5-ong-2421-5fdb_large.JPG",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/alphavit-an-ngon-ngu-tot-usa-pharma-4x5-ong-18370.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột nước mát Herba Cool Extra hỗ trợ thanh nhiệt (10 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500683-bot-nuoc-mat-herba-cool-extra-10-goi-8524-62b2_large.jpg",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bot-nuoc-mat-herba-cool-extra-10-goi-34808.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột sủi Thanh Nhiệt Livecool Nam Dược hương dưa gang mát gan, giải độc (7g x 10 gói)",
+     "company": "NAM DƯỢC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00022029-bot-sui-thanh-nhiet-livecool-nam-duoc-10-goi-x-7g-7268-6230_large.jpg",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bot-sui-thanh-nhiet-livecool-nam-duoc-10-goi-x-7g-22371.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên sủi Thanh Nhiệt Livecool Nam Dược hương dưa gang giải độc mát gan (16 viên)",
+     "company": "NAM DƯỢC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032819-vien-sui-thanh-nhiet-live-cool-huong-dua-gang-nam-duoc-3053-62ae_large.jpg",
+     "price": "40.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-sui-thanh-nhiet-live-cool-huong-dua-gang-nam-duoc-32937.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Fitobimbi Appetito Concentrato Fluido Pharmalife hỗ trợ tăng cường tiêu hóa (200ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00017031-appetito-bimbi-200ml-8823-6327_large.jpg",
+     "price": "340.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/appetito-bimbi-200ml-18385.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống giải độc gan Tuệ Linh hỗ trợ giảm triệu chứng men gan cao, vàng da (60 viên)",
+     "company": "Tuệ Linh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500187-giai-doc-gan-tue-linh-plus-60v-3964-629f_large.jpg",
+     "price": "198.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/giai-doc-gan-tue-linh-plus-60v-34270.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống WIT Ecogreen của Mỹ giúp bổ mắt, hỗ trợ điều trị (30 viên)",
+     "company": "Ecogreen",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00009959-wit-vien-uong-bo-mat-cua-my-bao-ve-mat-tu-ben-trong-4914-6328_large.jpg",
+     "price": "330.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/wit-vien-uong-bo-mat-cua-my-bao-ve-mat-tu-ben-trong-155.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Antot IQ Traphaco hỗ trợ sự phát triển toàn diện của não bộ (20 ống x 10ml)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00000804-antot-20-ongh-2901-5fdc_large.jpg",
+     "price": "48.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/antot-20-ongh-17546.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Syrup Kan Pleuran hỗ trợ tăng cường đề kháng ở trẻ em (120ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00030974-syrup-kan-120ml-6029-62ae_large.JPG",
+     "price": "319.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/syrup-kan-120ml-31137.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên sủi Thanh Nhiệt Livecool Nam Dược hương chanh giải độc mát gan (16 viên)",
+     "company": "NAM DƯỢC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033631-vien-sui-thanh-nhiet-livecool-huong-chanh-16v-9791-62ae_large.jpg",
+     "price": "40.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-sui-thanh-nhiet-livecool-huong-chanh-16v-33714.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Cà Gai Leo Tuệ Linh hỗ trợ giải độc gan (60 viên)",
+     "company": "Tuệ Linh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00001459-ca-gai-leo-ho-tro-dieu-tri-cac-benh-ve-gan-3510-62ae_large.jpg",
+     "price": "130.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/ca-gai-leo-ho-tro-dieu-tri-cac-benh-ve-gan-489.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch xịt Propolis Tutti Frutti & Honey Tracybee giảm đau họng, viêm họng, ho (30ml)",
+     "company": "TRACYBEE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/09/00014541-propolis-tutti-frutti-honey-for-kids-30ml-3358-5f62_large.jpg",
+     "price": "270.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/propolis-tutti-frutti-honey-for-kids-30ml-18782.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên nang Dầu gấc Vinaga-DHA cung cấp tiền Vitamin A, Vitamin E, Lycopen, DHA cho cơ thể (100 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/12/00007963-vinaga-dha-dau-gac-vien-nang-8676-6390_large.jpg",
+     "price": "68.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vinaga-dha-dau-gac-vien-nang-256.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước giải rượu Alcofree Rohto hỗ trợ giảm các triệu chứng khó chịu do uống rượu bia (50ml)",
+     "company": "ROHTO",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00015853-nuoc-giai-ruou-alcofree-5319-5fd0_large.jpg",
+     "price": "32.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/nuoc-giai-ruou-alcofree-14838.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột Nước Mát Herbal Drink Powder Datino hỗ trợ thải độc mát gan (10 gói)",
+     "company": "Datino",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033695-bot-nuoc-mat-datino-herbal-drink-powder-10-goi-x-8g-4036-62ad_large.jpg",
+     "price": "33.600đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bot-nuoc-mat-datino-herbal-drink-powder-10-goi-x-8g-33783.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên giải rượu ME 21 Á Châu hỗ trợ giải rượu nhanh chóng, bảo vệ gan (4 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/10/00007924-vien-giai-ruou-me-21-dieu-hoa-chuyen-hoa-ruou-1988-5bb3_large.JPG",
+     "price": "11.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-giai-ruou-me21-dopharma-1x4-485.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước giải rượu Condition Heathcare hỗ trợ giải rượu, giải độc gan (75ml)",
+     "company": "Heathcare",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00014442-nuoc-giai-ruou-condition-5874-62ae_large.jpg",
+     "price": "38.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/nuoc-giai-ruou-condition-75ml-990.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bột sủi Sensa Cools Enesis giúp thanh nhiệt cơ thể và tăng cường sức đề kháng (7g x 6 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00006640-sensacool-8075-62b1_large.JPG",
+     "price": "24.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/sensacool-16896.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Bào tử lợi khuẩn Livespo Dia 30 cho người tiêu chảy, rối loạn tiêu hóa (10 ống x 5ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502653-livespo-dia-30-10-ong-x-5ml-bao-tu-loi-khuan-cho-nguoi-tieu-chay-roi-loan-tieu-hoa-6463-6376_large.jpg",
+     "price": "275.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/livespo-dia-30-10-ong-x-5ml-bao-tu-loi-khuan-cho-nguoi-tieu-chay-roi-loan-tieu-hoa-36914.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Ginkid Ăn Ngon 11X Gold GINIC hỗ trợ kích thích tiêu hóa, giúp trẻ ăn ngon (125ml)",
+     "company": "GINIC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00022653-ginkid-an-ngon-11x-abipha-125ml-3372-62f9_large.jpg",
+     "price": "78.400đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/ginkid-an-ngon-11x-abipha-125ml-22978.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Ginkid ZinC bổ sung kẽm, tăng sức đề kháng (20 ống x 5ml)",
+     "company": "GINIC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501600-ginkid-zinc-4x5-ong-5ml-bo-sung-kem-tang-de-khang-3041-62f9_large.jpg",
+     "price": "87.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/ginkid-zinc-4x5-ong-5ml-bo-sung-kem-tang-de-khang-35752.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Euro Ginko Walgreen's Pharma hỗ trợ tăng cường tuần hoàn não (100 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00345405-euro-ginko-ho-tro-tuan-hoan-mau-nao-2231-5f9f_large.JPG",
+     "price": "155.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/euro-ginko-ho-tro-tuan-hoan-mau-nao-40.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro MorningKids Good Appetite hỗ trợ tiêu hóa, giúp bé ăn ngon (150ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/02/00029659-morningkids-good-appetite-150ml-7292-6019_large.JPG",
+     "price": "268.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/morningkids-good-appetite-150ml-29925.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Special Mum Breastfeeding bổ sung các vitamin, khoáng chất và vi chất cho phụ nữ trong thời kỳ cho con bú (60 viên)",
+     "company": "ERIC FAVRE®",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00033021-special-mum-breastfeeding-ho-tro-tang-tiet-sua-bo-sung-vitamin-khoang-chat-cho-phu-nu-dang-cho-con-4364-61b3_large.jpg",
+     "price": "450.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/special-mum-breastfeeding-ho-tro-tang-tiet-sua-bo-sung-vitamin-khoang-chat-cho-phu-nu-dang-cho-con-33130.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Đông Trùng Hạ Thảo Pure Cordyceps Pharmekal tăng sức đề kháng (60 viên)",
+     "company": "PHARMEKAL",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/01/00345341-dong-trung-ha-thao-pure-cordyceps-8634-5c34_large.jpg",
+     "price": "550.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dong-trung-ha-thao-pure-cordyceps-18.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Special Kid Vision Eric Favre hỗ trợ ngừa cận thị, mỏi mắt cho bé (125ml)",
+     "company": "ERIC FAVRE® WELLNESS",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00030559-bo-mat-cho-be-special-kid-vision-eric-favre-125ml-1906-6087_large.jpg",
+     "price": "239.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/bo-mat-cho-be-special-kid-vision-eric-favre-125ml-30707.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên dầu tỏi Garlic Oil VTV hỗ trợ tăng đề kháng, tiêu hóa, giảm mỡ máu (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032151-vien-dau-toi-garlic-oil-vtv-60v-6371-62af_large.jpg",
+     "price": "58.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-dau-toi-garlic-oil-vtv-60v-32289.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Vitatree Super Liver Detox hỗ trợ góp phần giải độc gan (100 viên)",
+     "company": "KINGPHAR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00028559-vitatree-super-liver-detox-3800-kingphar-100v-5395-623d_large.jpg",
+     "price": "730.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vitatree-super-liver-detox-3800-kingphar-100v-28865.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Drlife Natural Herb Cordyceps 1500mg Arnet Pharmaceutical giúp bổ phổi, bổ thận (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032745-dr-life-natural-herb-cordyceps-1500mg-60v-4293-618b_large.jpg",
+     "price": "560.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dr-life-natural-herb-cordyceps-1500mg-60v-32875.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Cốm lợi sữa TT.Galac Traphaco tăng tiết sữa cho phụ nữ sau sinh (20 gói x 3g)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033177-com-loi-sua-ttgalac-20-goi-x-3g-5353-62ae_large.jpg",
+     "price": "125.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/com-loi-sua-ttgalac-20-goi-x-3g-33289.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Cốm ăn ngon trẻ em TT KIDS Traphaco hỗ trợ tăng hấp thu dinh dưỡng (20 gói x 3g)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00033505-com-an-ngon-tang-de-khang-tre-em-tt-kids-traphaco-20-goi-x-3g-7213-621e_large.jpg",
+     "price": "98.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/com-an-ngon-tang-de-khang-tre-em-tt-kids-traphaco-20-goi-x-3g-33610.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Khang Bảo Bì Kingphar hỗ trợ làm giảm triệu chứng mề đay, eczema, mụn nhọt, viêm da tiếp xúc (60 viên)",
+     "company": "Kingphar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00028680-khang-bao-bi-kingphar-60v-4912-5fcf_large.JPG",
+     "price": "162.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-ho-tro-dieu-tri-me-day-khang-bao-bi-kingphar-60-vien-28983.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Diệp Hạ Châu Kingphar hỗ trợ bảo vệ gan (60 viên)",
+     "company": "Kingphar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00028572-diep-ha-chau-kingphar-60v-1465-5ff7_large.JPG",
+     "price": "79.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-giai-doc-gan-diep-ha-chau-kingphar-60-vien-28877.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Top Grow Jpanwell hỗ trợ tăng cường sức khỏe, sức đề kháng ở trẻ em (10 chai x 30ml)",
+     "company": "Jpanwell",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/08/00031920-top-grow-jpanwell-10-chai-x-30ml-siro-vitamin-tang-truong-cho-tre-em-7022-6123_large.jpg",
+     "price": "850.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/top-grow-jpanwell-10-chai-x-30ml-siro-vitamin-tang-truong-cho-tre-em-32067.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Alltimes Care Platinum Cordyceps hỗ trợ tăng cường hệ miễn dịch (60 viên)",
+     "company": "Alltimes Care",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/01/00029255-alltimes-care-platinum-cordyceps-60v-4000-5ff8_large.JPG",
+     "price": "835.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/alltimes-care-platinum-cordyceps-60v-29521.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gói cốm Thanh Nhiệt Plus Kingphar hỗ trợ giải độc, mát gan (7g x 6 gói)",
+     "company": "KINGPHAR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00015858-thanh-nhiet-kingphar-6-goi-x-7g-4159-62af_large.jpg",
+     "price": "25.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/thanh-nhiet-plus-kingphar-6-goi-x-7g-14833.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Milk Thistle Nature's Bounty hỗ trợ tăng cường chức năng gan, bảo vệ gan (50 viên)",
+     "company": "NATURE'S BOUNTY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00345367-giai-doc-gan-milk-thistle-5912-5fdc_large.jpg",
+     "price": "250.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/giai-doc-gan-milk-thistle-49.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt họng Vitatree Super Propolis Spray Complex With Honey B.pure giảm đau rát cổ họng do viêm họng (30ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00032976-vitatree-super-propolis-spray-complex-with-honey-kingphar-30ml-7329-61b3_large.jpg",
+     "price": "196.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vitatree-super-propolis-spray-complex-with-honey-kingphar-30ml-33094.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch ăn ngon tiêu hóa khỏe BBear Thành Công hỗ trợ hấp thu chất dinh dưỡng (20 ống)",
+     "company": "Thành Công",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00019020-an-ngon-tieu-hoa-khoe-bbear-thanh-cong-4x5-6885-5f9f_large.JPG",
+     "price": "86.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/an-ngon-tieu-hoa-khoe-bbear-thanh-cong-4x5-20314.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Sâm - Đông Trùng Hạ Thảo Kotimogin (20 vỉ x 3 viên)",
+     "company": "THÀNH CÔNG",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00345360-dong-trung-ha-thao-kotimogin-8015-6328_large.jpg",
+     "price": "330.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/dong-trung-ha-thao-kotimogin-17.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Echina Kingphar hỗ trợ tăng cường sức đề kháng (30 viên)",
+     "company": "KINGPHAR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00345446-echina-ho-tro-viem-hong-ho-cam-cum-5693-5f89_large.jpg",
+     "price": "55.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/echina-ho-tro-viem-hong-ho-cam-cum-81.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Liver Tonic 17500 GoodHealth hỗ trợ giải độc gan (60 viên)",
+     "company": "Good Health",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00502185-vien-uong-giai-doc-gan-good-health-liver-tonic-17500-60v-3731-6335_large.jpg",
+     "price": "812.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-giai-doc-gan-good-health-liver-tonic-17500-60v-36400.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Milk Thistle Pharma World hỗ trợ bảo vệ và tăng cường chức năng gan (60 viên)",
+     "company": "Pharma World",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501706-vien-uong-bao-ve-gan-pharma-world-milk-thistle-60v-3202-6302_large.jpg",
+     "price": "420.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-bao-ve-gan-pharma-world-milk-thistle-60v-35855.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Skillmax Ocavill hỗ trợ tăng cường thị lực (30 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501778--3834-630e_large.jpg",
+     "price": "630.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-ho-tro-thi-luc-skillmax-ocavill-hop-30v-35937.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Đông Trùng Hạ Thảo Tennen Jpanwell hỗ trợ tăng cường sức khỏe (60 viên)",
+     "company": "Jpanwell",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502755-vien-uong-dong-trung-ha-thao-tennen-jpanwell-60v-9595-6380_large.jpg",
+     "price": "973.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-dong-trung-ha-thao-tennen-jpanwell-60v-37043.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Si-Liva Naga Vesta hỗ trợ tăng cường chức năng gan (60 viên)",
+     "company": "Vesta",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00501112-si-liver-naga-super-vesta-60v-7443-6371_large.jpg",
+     "price": "205.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/si-liver-naga-super-vesta-60v-35257.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nhụy hoa nghệ tây Sasagold Saffron hỗ trợ làm đẹp và phù hợp cho người bệnh (1g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030869-sasagold-saffron-nhuy-hoa-nghe-tay-1g-9476-60a7_large.JPG",
+     "price": "429.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/sasagold-saffron-nhuy-hoa-nghe-tay-1g-31005.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nhụy hoa nghệ tây Sasagold Saffron hỗ trợ làm đẹp và phù hợp cho người bệnh (0.5g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030868-sasagold-saffron-nhuy-hoa-nghe-tay-05g-8533-60a7_large.JPG",
+     "price": "229.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/nhuy-hoa-nghe-tay-sasagold-saffron-05g-31006.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Trà nhân sâm KO Ginseng Royal Tea hỗ trợ tăng cường sức khỏe (10 hộp x 10 gói)",
+     "company": "TC Pharma",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00500955-tra-nhan-sam-ko-ginseng-royal-tea-10-hop-x-10-goi-2156-62e3_large.jpg",
+     "price": "350.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/tra-nhan-sam-ko-ginseng-royal-tea-10-hop-x-10-goi-35091.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống After Party New Nordic hỗ trợ tăng cường chức năng chuyển hóa của gan (15 viên)",
+     "company": "NEW NORDIC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00030726-vien-giai-ruou-after-party-new-nordic-15v-6722-609d_large.jpg",
+     "price": "340.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-after-party-new-nordic-han-che-tac-hai-bia-ruou-den-gan-15-vien-30874.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống SkillMax hỗ trợ tăng cường thị lực (30 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00500121-vien-uong-ho-tro-thi-luc-skillmax-ocavill-3x10-8091-628b_large.jpg",
+     "price": "630.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-ho-tro-thi-luc-skillmax-ocavill-3x10-34203.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Okinawa Fucoidan +++ Jpanwell hỗ trợ tăng cường sức để kháng và trung hòa các gốc tự do (30 viên)",
+     "company": "Jpanwell",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032884-okinawa-fucoidan-jpanwell-3x10-1585-62af_large.jpg",
+     "price": "980.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/okinawa-fucoidan-jpanwell-3x10-32984.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Blue Berry Plus Ojenvitamin New Nordic bổ sung dưỡng chất cho mắt (40 viên)",
+     "company": "NEW NORDIC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00018993-blue-berry-plus-ojenvitamin-new-nordic-2x20v-2634-6327_large.jpg",
+     "price": "320.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/blue-berry-plus-ojenvitamin-new-nordic-2x20v-20291.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống MaxPremum Naga Plus Vesta tăng sức khỏe, đề kháng cho thai phụ (30 viên)",
+     "company": "Vesta",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00029929-maxpremum-naga-plus-200mg-vesta-30v-6965-6048_large.JPG",
+     "price": "155.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/maxpremum-naga-plus-200mg-vesta-30v-30196.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Blood Care Jpanwell hỗ trợ bổ máu, tái tạo máu, tăng lượng máu trong cơ thể (60 viên)",
+     "company": "Jpanwell",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00032817-blood-care-jpanwell-60v-3261-61ad_large.jpg",
+     "price": "960.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-blood-care-jpanwell-bo-mau-hop-60-vien-32951.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên Sáng Mắt Hải Thượng Vương hỗ trợ tăng cường thị lực (60 viên)",
+     "company": "Hải Thượng Vương",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00032867-vien-sang-mat-hai-thuong-vuong-60v-8865-61af_large.jpg",
+     "price": "169.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-sang-mat-hai-thuong-vuong-60v-32986.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Dr. Liver Jpanwell hỗ trợ bảo vệ chức năng gan (60 viên)",
+     "company": "Jpanwell",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032920-vien-uong-thai-doc-gan-dr-liver-jpanwell-60v-5501-61a5_large.JPG",
+     "price": "760.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-thai-doc-gan-dr-liver-jpanwell-60v-33037.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Glutasi Glutathione Phytextra giúp đẹp da, hỗ trợ chống oxy hóa (60 viên)",
+     "company": "Phytextra",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00021675-glutasi-phytextra-60v-5894-62c3_large.jpg",
+     "price": "880.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/glutasi-phytextra-60v-22029.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Liverwell Nutrimed hỗ trợ giải độc gan, bảo vệ tế bào gan (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00028590-liverwell-nutrimed-60v-3415-6327_large.jpg",
+     "price": "420.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/liverwell-nutrimed-60v-28894.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống Lutein Nature's Bounty bổ sung Lutein giúp tăng cường thị lực cho mắt (30 viên)",
+     "company": "NATURE'S BOUNTY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00345423-lutein-vien-uong-bo-mat-cua-my-1869-62af_large.jpg",
+     "price": "209.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/lutein-vien-uong-bo-mat-cua-my-95.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên uống LiverWell Navi hỗ trợ thanh nhiệt, mát gan, giải độc, giúp bảo vệ gan, tăng cường chức năng gan (60 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00345362-vien-uong-giai-doc-gan-liverwell-9765-5f89_large.JPG",
+     "price": "129.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-giai-doc-gan-liverwell-122.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên sủi Optimax Immunity Booster Vid - Fighter tăng cường sức đề kháng (20 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033702-vien-uong-tang-suc-khang-optimax-immunity-booster-vid-fighter-20v-4698-62ae_large.jpg",
+     "price": "115.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/vien-uong-tang-suc-khang-optimax-immunity-booster-vid-fighter-20v-33794.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Healthy New Kids hỗ trợ kích thích tiêu hóa, giúp ăn ngon (120ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/09/00345454-siro-an-ngon-healthy-new-kid-8980-5f62_large.jpg",
+     "price": "79.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuc-pham-chuc-nang/siro-an-ngon-healthy-new-kid-20.html",
+     "promo": { 
+          "name": "chucnang",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt Decumar Clean hỗ trợ ngăn ngừa mụn (50g)",
+     "company": "DECUMAR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00018378-decumar-clean-cvi-50g-gel-rua-mat-ngua-mun-6830-5f97_large.JPG",
+     "price": "69.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/decumar-clean-cvi-50g-gel-rua-mat-ngua-mun-19685.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Serum Fixderma Reticuram Serum dưỡng da, ngăn ngừa lão hóa da (15ml)",
+     "company": "Fixderma",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00029926-fixderma-reticuram-serum-15ml-serum-duong-da-ngan-ngua-lao-hoa-da-3613-6048_large.JPG",
+     "price": "439.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/fixderma-reticuram-serum-15ml-serum-duong-da-ngan-ngua-lao-hoa-da-30193.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Fixderma Non Drying Cleanser hỗ trợ làm sạch bụi bẩn, bã nhờn (60g)",
+     "company": "Fixderma",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016490-fixderma-non-drying-cleanser-60g21oz-unison-4940-62bd_large.jpg",
+     "price": "204.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/fixderma-non-drying-cleanser-60g21oz-unison-14213.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Cetaphil Gentle Skin Cleanser dịu nhẹ cho da nhạy cảm (500ml)",
+     "company": "Cetaphil",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00001814-cetaphil-gentle-skin-cleanse-500ml-8021-62ae_large.JPG",
+     "price": "289.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/cetaphil-gentle-skin-cleanse-500ml-17448.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Cetaphil Gentle Skin Cleanser dịu nhẹ cho da nhạy cảm (125ml)",
+     "company": "Cetaphil",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00001813-cetaphil-gentle-skin-cleanse-125ml-9374-62f4_large.jpg",
+     "price": "115.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/cetaphil-gentle-skin-cleanse-125ml-17449.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang cho da nhạy cảm Simple Micellar Cleansing Water (200ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033001-nuoc-tay-trang-simple-cho-da-nhay-cam-200ml-9349-62b2_large.jpg",
+     "price": "139.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-tay-trang-simple-cho-da-nhay-cam-200ml-33119.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt tạo bọt Rosette Refresh Acne Foam hỗ trợ làm sạch bụi bẩn, bã nhờn (120g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032806-rosette-acne-refresh-foam-120g-sua-rua-mat-tao-bot-ngan-ngua-va-giam-mun-trung-ca-mun-mu-9199-6194_large.jpg",
+     "price": "102.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/rosette-acne-refresh-foam-120g-sua-rua-mat-tao-bot-ngan-ngua-va-giam-mun-trung-ca-mun-mu-32918.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Rosette Men's Acne Foam Oil Clear hỗ trợ ngăn ngừa mụn dành cho nam (120g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032807-rosette-mens-acne-foam-120g-sua-rua-mat-ngan-ngua-mun-danh-cho-nam-3292-6194_large.jpg",
+     "price": "102.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/rosette-mens-acne-foam-120g-sua-rua-mat-ngan-ngua-mun-danh-cho-nam-32924.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa chống nắng Vichy Capital Soleil Dry Touch Face Fluid Spf50 Uva+Uvb (50ml)",
+     "company": "VICHY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/04/00033759-kem-chong-nang-dang-sua-khong-gay-nhon-rit-vichy-capital-soleil-dry-touch-face-fluid-spf50-uvauvb-m-6669-624f_large.jpg",
+     "price": "441.001đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-dang-sua-khong-gay-nhon-rit-vichy-capital-soleil-dry-touch-face-fluid-spf50-uvauvb-m-33865.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Cerave Foaming Cleanser giúp làm sạch sâu, giữ ẩm cho da dầu (236ml)",
+     "company": "Cerave",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502229-sua-rua-mat-lam-sach-sau-danh-cho-da-dau-cerave-foaming-cleanser-mb094622-236ml-4582-6346_large.jpg",
+     "price": "285.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-lam-sach-sau-danh-cho-da-dau-cerave-foaming-cleanser-mb094622-236ml-36481.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt cho da nhạy cảm Eucerin pH5 Facial Cleanser Sensitive Skin (400ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00030325-eucerin-ph5-facial-cleanser-sensitive-skin-sua-rua-mat-cho-da-nhay-cam-400ml-8583-6065_large.jpg",
+     "price": "251.100đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-ph5-facial-cleanser-sensitive-skin-sua-rua-mat-cho-da-nhay-cam-400ml-30476.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng Sunplay Skin Aqua Tone Up Milk Lavender Spf50+ Pa++++ dạng sữa (50g)",
+     "company": "Rohto",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00033500-kem-chong-nang-dang-sua-cho-mat-co-vai-skin-aqua-tone-up-milk-lavender-50g-spf50-pa-3053-621d_large.jpg",
+     "price": "185.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-dang-sua-cho-mat-co-vai-skin-aqua-tone-up-milk-lavender-50g-spf50-pa-33604.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem rửa mặt Acnes Vitamin Cleanser sáng da, mờ sẹo, mờ vết thâm (100g)",
+     "company": "Acnes",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/08/9825-sua-rua-mat-vitamin-acnes-6759-599f_large.jpg",
+     "price": "60.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-vitamin-acnes-641.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem dưỡng ẩm Neutrogena Hydro Boost Water Gel cấp ẩm và giữ ẩm vượt trội (50g)",
+     "company": "Johnson & Johnson",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501475-kem-duong-am-neutrogena-hydro-boost-water-gel-50g-7703-630e_large.jpg",
+     "price": "370.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-duong-am-neutrogena-hydro-boost-water-gel-50g-35660.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang Neutrogena Deep Clean Micellar Purifying Water Johnson & Johnson (400ml)",
+     "company": "Johnson & Johnson",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501471-nuoc-tay-trang-neutrogena-deep-clean-micellar-purifying-water-400ml-3645-62f2_large.jpg",
+     "price": "220.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-tay-trang-neutrogena-deep-clean-micellar-purifying-water-400ml-35679.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước xịt khoáng La Roche-Posay Serozinc giúp kiềm dầu, làm dịu da, giảm sưng viêm (300ml)",
+     "company": "LAROCHE-POSAY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00016127-laroche-posay-serozinc-300ml-mb025800-5205-5c90_large.jpg",
+     "price": "435.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/la-roche-posay-serozinc-zinc-sulfate-solution-cleansing-soothing-300ml-mb025800-nuoc-khoang-giup-lam-sach-va-lam-diu-da-14569.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dưỡng chất tăng cường khoáng Vichy Minéral 89 cho da ẩm mịn, căng mượt (50ml)",
+     "company": "VICHY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00014868-vichy-duong-chat-tang-cuong-khoang-mineral-89-50ml-m9154700-4625-5c9e_large.jpg",
+     "price": "985.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/vichy-duong-chat-tang-cuong-khoang-mineral-89-50ml-m9154700-15316.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang La Roche-Posay Effaclar Micellar Water Ultra Oily Skin (200ml)",
+     "company": "Laroche posay",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00013450-nuoc-tay-trang-laroche-posay-200ml-m9054100-4181-5c90_large.jpg",
+     "price": "349.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-tay-trang-laroche-posay-200ml-m9054100-16016.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang Loreal Micellar Water Moisturizing dành cho da khô và da thường (400ml)",
+     "company": "Loreal",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502668-loreal-micellar-water-moisturizing-400ml-nuoc-tay-trang-danh-cho-da-kho-va-da-thuong-7267-636d_large.jpg",
+     "price": "209.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/loreal-micellar-water-moisturizing-400ml-nuoc-tay-trang-danh-cho-da-kho-va-da-thuong-36929.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang dành cho da trang điểm Garnier Skin Naturals Micellar Oil-infused Cleansing Water (400ml)",
+     "company": "Garnier",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502669-garnier-skin-naturals-micellar-oil-infused-cleansing-water-400ml-nuoc-tay-trang-danh-cho-da-trang-diem-8221-636d_large.jpg",
+     "price": "179.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/garnier-skin-naturals-micellar-oil-infused-cleansing-water-400ml-nuoc-tay-trang-danh-cho-da-trang-diem-36928.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tinh chất Garnier Bright Complete 30x Vitamin C Booster Serum dưỡng sáng da (30ml)",
+     "company": "Garnier",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00502183-garnier-skin-naturals-bright-complete-30x-vitamin-c-booster-serum-30ml-tinh-chat-duong-sang-da-9754-6332_large.jpg",
+     "price": "220.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/garnier-skin-naturals-bright-complete-30x-vitamin-c-booster-serum-30ml-tinh-chat-duong-sang-da-36402.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Garnier Bright Complete Anti-Acne Cleansing Foam ngừa mụn (100ml)",
+     "company": "Garnier",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00502184-garnier-skin-naturals-bright-complete-anti-acne-cleansing-foam-100ml-sua-rua-mat-ngua-mun-8949-6332_large.jpg",
+     "price": "89.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/garnier-skin-naturals-bright-complete-anti-acne-cleansing-foam-100ml-sua-rua-mat-ngua-mun-36401.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước hoa hồng Neutrogena Alcohol-Free Toner không cồn làm sạch, sáng da (150ml)",
+     "company": "Johnson & Johnson",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501509-nuoc-hoa-hong-khong-con-neutrogena-alcohol-free-toner-150ml-6386-62f2_large.jpg",
+     "price": "135.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-hoa-hong-khong-con-neutrogena-alcohol-free-toner-150ml-35678.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tinh chất Garnier Bright Complete Anti-Acne Booster Serum giảm mụn, sáng da (30ml)",
+     "company": "Garnier",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00502182-garnier-skin-naturals-bright-complete-anti-acne-booster-serum-30ml-tinh-chat-cham-soc-da-mun-4423-6332_large.jpg",
+     "price": "254.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/garnier-skin-naturals-bright-complete-anti-acne-booster-serum-30ml-tinh-chat-cham-soc-da-mun-36403.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt dưỡng ẩm Neutrogena Deep Clean Gentle Foaming Cleanser (100g)",
+     "company": "Johnson & Johnson",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/08/00501473-sua-rua-mat-duong-am-neutrogena-deep-clean-hydrating-foaming-cleanser-100g-7811-62f3_large.jpg",
+     "price": "125.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-duong-am-neutrogena-deep-clean-hydrating-foaming-cleanser-100g-35671.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang L'Oreal Micellar Water 3-in-1 Refreshing dành cho da dầu, hỗn hợp (400ml)",
+     "company": "Loreal",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00502179-loreal-micellar-water-refreshing-400ml-nuoc-tay-trang-danh-cho-da-hon-hop-va-da-dau-9593-6332_large.jpg",
+     "price": "209.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/loreal-micellar-water-refreshing-400ml---nuoc-tay-trang-danh-cho-da-hon-hop-va-da-dau-36406.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang Garnier Skin Naturals Micellar Cleansing Water cho da dầu, da mụn (400ml)",
+     "company": "Garnier",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00502181-garnier-skin-naturals-micellar-cleansing-water-400ml-nuoc-tay-trang-danh-cho-da-dau-va-da-mun-3795-6332_large.jpg",
+     "price": "159.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/garnier-skin-naturals-micellar-cleansing-water-400ml---nuoc-tay-trang-danh-cho-da-dau-va-da-mun-36404.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt tạo bọt Senka Perfect Whip U làm sạch bụi bẩn, bụi mịn và bã nhờn (120g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502421-sua-rua-mat-tao-bot-senka-perfect-whip-u-120g-10170227201vn-2238-636c_large.jpg",
+     "price": "89.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-tao-bot-senka-perfect-whip-u-120g-10170227201vn-36657.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Senka Perfect Whip Collagen In làm sạch bụi bẩn, bụi mịn và bã nhờn (120g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502422-sua-rua-mat-senka-perfect-whip-collagen-in-120g-10170231201vn-3605-636c_large.jpg",
+     "price": "107.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-senka-perfect-whip-collagen-in-120g-10170231201vn-36656.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Cerave Hydrating Cleanser giúp làm sạch sâu cho da thường, da khô (236ml)",
+     "company": "Cerave",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502231-sua-rua-mat-lam-sach-sau-danh-cho-da-thuong-va-da-kho-cerave-hydrating-cleanser-mb094520-236ml-3680-6346_large.jpg",
+     "price": "285.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-lam-sach-sau-danh-cho-da-thuong-va-da-kho-cerave-hydrating-cleanser-mb094520-236ml-36479.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang không cồn Senka Micellar All Clear Water Fresh (230ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502420-nuoc-tay-trang-khong-con-senka-micellar-all-clear-water-fresh-230ml-10215288202vn-6539-636c_large.jpg",
+     "price": "98.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-tay-trang-khong-con-senka-micellar-all-clear-water-fresh-230ml-10215288202vn-36658.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem dưỡng ẩm Cerave Moisturising Cream cấp ẩm hiệu quả dành cho da khô (340g)",
+     "company": "Cerave",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00502233-kem-duong-am-danh-cho-da-kho-cerave-moisturising-cream-mb112202-340g-7326-6346_large.jpg",
+     "price": "332.500đ / Hũ",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-duong-am-danh-cho-da-kho-cerave-moisturising-cream-mb112202-340g-36477.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Cetaphil Gentle Skin Cleanser (New) dịu nhẹ không xà phòng (500ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00502145-sua-rua-mat-diu-nhe-khong-xa-phong-cetaphil-gentle-skin-cleanser-new-500ml-7019-6335_large.jpg",
+     "price": "338.400đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-diu-nhe-khong-xa-phong-cetaphil-gentle-skin-cleanser-new-500ml-36362.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Cetaphil Gentle Skin Cleanser (New) dịu nhẹ không xà phòng (125ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00501711-sua-rua-mat-diu-nhe-khong-xa-phong-cetaphil-gentle-skin-cleanser-new-125ml-9426-6346_large.jpg",
+     "price": "130.500đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-diu-nhe-khong-xa-phong-cetaphil-gentle-skin-cleanser-new-125ml-35876.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Eucerin Ultra White+ Spotless Cleansing Foam làm trắng sáng da, rạng rỡ (150g)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/07/00022686-eucerin-ultrawhite-spotless-cleansing-foam-150g-63470-srm-tao-bot-2845-5f21_large.JPG",
+     "price": "467.100đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-ultrawhite-spotless-cleansing-foam-150g-63470-srm-tao-bot-23008.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ dưỡng trắng da Vedette Whitening Sheet Mask cấp ẩm tức thời và làm dịu da (22ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00028456-mat-na-giay-vedette-nha-dam-22ml-8522-5ea6_large.png",
+     "price": "11.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-giay-vedette-nha-dam-22ml-28758.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước hoa hồng Eucerin DermatoClean Clarifying Toner hỗ trợ cân bằng độ ẩm tự nhiên của da (200ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00008545-nuoc-hoa-hong-lam-sach-da-eucerin-dermato-clean-1213-5ca0_large.png",
+     "price": "603.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-hoa-hong-lam-sach-da-eucerin-dermato-clean-884.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước xịt khoáng La Roche-Posay Thermal Spring Water Sensitive Skin (300ml)",
+     "company": "Laroche posay",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/08/10617-nuoc-xit-khoang-la-roche-posay-300ml-5746-599f_large.jpg",
+     "price": "349.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-xit-khoang-la-roche-posay-300ml-209.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ đất sét Tsururi Ghassoul Clay Pack cung cấp vitamin, khoáng chất cho da (150g)",
+     "company": "TSURURI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032805-tsururi-ghassoul-mineral-clay-pack-150g-mat-na-dat-set-3747-6194_large.jpg",
+     "price": "422.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/tsururi-ghassoul-mineral-clay-pack-150g-mat-na-dat-set-32922.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước xịt khoáng La Roche-Posay Thermal Spring Water Sensitive Skin (150ml)",
+     "company": "Laroche posay",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00011144-nuoc-khoang-lam-sach-va-diu-da-la-roche-posay-4542-5c94_large.jpg",
+     "price": "255.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-khoang-lam-sach-va-diu-da-la-roche-posay-211.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel loại bỏ tế bao da chết Eucerin Acne-Oil Control Pro Acne Solution Scrub (100ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00017893-eucerin-dermo-purifyer-100ml-88984-grm-co-hat-5838-62af_large.jpg",
+     "price": "350.100đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-dermo-purifyer-100ml-88984-grm-co-hat-19249.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước hoa hồng Lanopearl Porimizer Toner hỗ trợ làm sạch bã nhờn, cân bằng độ ẩm (200ml)",
+     "company": "rebirth",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00030327-lanopearl-porimizer-toner-nuoc-hoa-hong-lam-sach-ba-nhon-can-bang-do-am-se-khit-lo-chan-long-20-5611-6065_large.jpg",
+     "price": "390.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/lanopearl-porimizer-toner-nuoc-hoa-hong-lam-sach-ba-nhon-can-bang-do-am-se-khit-lo-chan-long-20-30478.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sửa rửa mặt Vichy Normaderm Phytosolution Intensive Purifying Gel hỗ trợ làm sạch sâu, giảm bã nhờn (200ml)",
+     "company": "VICHY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00029025-vichy-normaderm-phytosolution-intensive-purifying-gel-200ml-mb158501-sua-rua-mat-dang-gel-giup-lam-4655-5fd9_large.jpg",
+     "price": "323.100đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/vichy-normaderm-phytosolution-intensive-purifying-gel-200ml-mb158501-sua-rua-mat-dang-gel-giup-lam-29309.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tinh chất Pro-Acne Solution Eucerin giảm thâm mụn, dưỡng sáng da (40ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00500108-eucerin-acne-oil-control-pro-acne-solution-anti-acne-mark-40ml-66862-tinh-chat-giup-giam-tham-mun-1301-627c_large.jpg",
+     "price": "649.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-acne-oil-control-pro-acne-solution-anti-acne-mark-40ml-66862-tinh-chat-giup-giam-tham-mun-34190.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ sáng da Eucerin Spotless Brightening Gentle Cleansing Foam (150ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00032666-eucerin-even-skin-spotless-brightening-gentle-cleansing-foam-150ml-63470-sua-rua-mat-tao-bot-5412-62af_large.jpg",
+     "price": "467.100đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-even-skin-spotless-brightening-gentle-cleansing-foam-150ml-63470-sua-rua-mat-tao-bot-32788.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng Cetaphil Daily Facial Moisturizer SPF15 bảo vệ da chống tia UVA/UVB (118ml)",
+     "company": "Cetaphil",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/04/00001812-cetaphil-daily-facial-moisturizer-spf15-2438-5cae_large.jpg",
+     "price": "368.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/cetaphil-daily-facial-moisturizer-spf15-17450.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch tạo bọt Acnes Foaming Wash hỗ trợ sạch mụn, kháng khuẩn (150ml)",
+     "company": "Acnes",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00000492-acnes-foaming-wash-150ml-6737-5fac_large.jpg",
+     "price": "70.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/acnes-foaming-wash-150ml-17561.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ lột mụn đầu đen Tsururi Peel-Off Pack hỗ trợ lấy đi hết mọi tạp chất cứng đầu (55g)",
+     "company": "TSURURI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032804-tsururi-peel-off-pack-55g-mat-na-lot-mun-dau-den-4045-6194_large.jpg",
+     "price": "316.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/tsururi-peel-off-pack-55g-mat-na-lot-mun-dau-den-32920.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Serum Valentine Thái Dương dưỡng trắng đẹp da (10ml)",
+     "company": "Sao Thái Dương",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00022378-serum-valentine-thai-duong-10ml-duong-trang-dep-da-6203-5e8e_large.JPG",
+     "price": "250.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/serum-valentine-thai-duong-10ml-duong-trang-dep-da-22714.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch rửa mặt Papulex Moussant Soap Free Cleansing Gel hỗ trợ ngừa mụn trứng cá (150ml)",
+     "company": "PAPULEX",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00010275-papulex-moussant-soap-free-cleansing-150ml-9653-5c8f_large.png",
+     "price": "338.800đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/papulex-moussant-soap-free-cleansing-150ml-602.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước làm sạch sâu và tẩy trang cho da nhạy cảm La Roche-Posay Micellar Water Ultra Sensitive Skin (200ml)",
+     "company": "Laroche posay",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00016462-larocheposay-micellar-water-ultra-sensitikin-200ml-m0365702-1351-6331_large.jpg",
+     "price": "287.200đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/larocheposay-micellar-water-ultra-sensitikin-200ml-m0365702-14241.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang Eucerin DermatoClean Micellar Cleansing Fluid 3in1 (200ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00017918-eucerin-dermato-clean-micellar-cleansing-fluid-3in1-200ml-63997-nuoc-tay-trang-6144-6078_large.jpg",
+     "price": "339.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-dermato-clean-micellar-cleansing-fluid-3in1-200ml-63997-nuoc-tay-trang-19257.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước hoa hồng Eucerin Pro Acne Solution Toner hỗ trợ thông thoáng lỗ chân lông (200ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/08/00017887-eucerin-pro-acne-toner-200ml-88983-nuoc-can-bang-9391-5d52_large.png",
+     "price": "350.100đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-pro-acne-toner-200ml-88983-nuoc-can-bang-19240.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt khoáng Eucerin Hyaluron Mist Spray cấp ẩm cho da suốt 24h (150ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/10/00028824-eucerin-hyaluron-mist-spray-150ml-66857-xit-khoang-9443-5f8f_large.JPG",
+     "price": "259.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-hyaluron-mist-spray-150ml-66857-xit-khoang-29120.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng Eucerin Sun Fluid Mattifying Spf 50+ bảo vệ da khỏi tia UVA/UVB (50ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00002913--2292-60dd_large.png",
+     "price": "686.700đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-sun-fluid-mattifing-spf50+-50ml-63840-3816.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Physiogel Daily Moisture Therapy Dermo-Cleanser cho da khô (150ml)",
+     "company": "PHYSIOGEL",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/05/00005936-sua-rua-mat-physiogel-6962-5ced_large.jpg",
+     "price": "160.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-physiogel-759.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Xịt khoáng Vichy Eau Thermale Mineralizing Thermal Water giúp cấp ẩm, dịu da và cân bằng độ pH (150ml)",
+     "company": "Vichy",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00029018-vichy-eau-thermale-mineralizing-thermal-water-150ml-m5028921-xit-khoang-6404-5fd9_large.jpg",
+     "price": "220.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/vichy-eau-thermale-mineralizing-thermal-water-150ml-m5028921-xit-khoang-29313.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel tẩy tế bào chết dành cho da khô Rosette Gommage Moist (180g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00029791-gel-tay-te-bao-chet-danh-cho-da-kho-rosette-gommage-moist-180g-9982-603c_large.JPG",
+     "price": "175.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gel-tay-te-bao-chet-danh-cho-da-kho-rosette-gommage-moist-180g-30056.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt SVR Physiopure Gelee Moussante cho da nhạy cảm (55ml)",
+     "company": "SVR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00029868-svr-physiopure-gelee-moussante-gel-rua-mat-cho-da-nhay-cam-55ml-1130-6045_large.JPG",
+     "price": "155.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/svr-physiopure-gelee-moussante-gel-rua-mat-cho-da-nhay-cam-55ml-30135.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt tạo bọt Rosette Acne Face Wash hỗ trợ làm sạch bụi bẩn, bã nhờn (130g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/11/00032808-rosette-acne-face-wash-130g-sua-rua-mat-tao-bot-danh-cho-da-mun-3002-6194_large.jpg",
+     "price": "105.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/rosette-acne-face-wash-130g-sua-rua-mat-tao-bot-danh-cho-da-mun-32921.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt thu nhỏ lỗ chân lông Rosette Face Wash Pasta Sea Clay Smooth (120g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029789-sua-rua-mat-thu-nho-lo-chan-long-rosette-face-wash-pasta-sea-clay-smooth-120g-3155-62af_large.jpg",
+     "price": "96.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-thu-nho-lo-chan-long-rosette-face-wash-pasta-sea-clay-smooth-120g-30054.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt bùn trắng Rosette White Clay Lift hỗ trợ làm sạch bụi bẩn, tế bào chết (120g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/10/00022008-sua-rua-mat-bun-trang-chong-lao-hoa-rosette-white-clay-lift-120g-4525-5dba_large.jpg",
+     "price": "96.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-bun-trang-chong-lao-hoa-rosette-white-clay-lift-120g-22351.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Dermal tinh chất Collagen dưa leo dưỡng ẩm da, se khít lỗ chân lông (23g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028366-mat-na-dermal-tinh-chat-collagen-dua-leo-23g-3695-62ad_large.jpg",
+     "price": "15.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-dermal-tinh-chat-collagen-dua-leo-23g-28671.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Dermal Green Tea Collagen Essence Mask hỗ trợ nuôi dưỡng, kháng khuẩn cho da (23g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00028367-mat-na-dermal-tinh-chat-collagen-tra-xanh-23g-1018-62b4_large.jpg",
+     "price": "15.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-dermal-tinh-chat-collagen-tra-xanh-23g-28672.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa tắm và rửa mặt Clearinger Gamma làm ẩm và dịu da (150ml)",
+     "company": "GAMMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/02/00011049-clearinger-8927-5c66_large.jpg",
+     "price": "178.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/clearinger-16201.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt nghệ Thái Dương làm sạch chất nhờn và bụi bẩn (90g)",
+     "company": "Sao Thái Dương",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00007022-sua-rua-mat-nghe-thai-duong-90g-8625-5c8f_large.png",
+     "price": "25.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-nghe-thai-duong-90g-742.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng Bioré UV Aqua Rich SPF50+ tinh chất màng nước hỗ trợ dưỡng ẩm (50g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033480-kem-chong-nang-dung-cho-mat-co-vai-biore-tinh-chat-mang-nuoc-duong-am-aqua-rich-spf-50-50g-2433-62af_large.jpg",
+     "price": "169.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-dung-cho-mat-co-vai-biore-tinh-chat-mang-nuoc-duong-am-aqua-rich-spf-50-50g-33591.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng Isis Pharma NeoTone Radiance SPF 50+ hỗ trợ mờ vết nám, trắng sáng da (30ml)",
+     "company": "ISIS PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00003992-kem-chong-nang-isis-neotone-radiance-spf-50-2825-633e_large.jpg",
+     "price": "909.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-isis-neotone-radiance-spf-50-971.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang Eucerin Pro Acne Solution Acne & Make Up Cleansing Water (200ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/08/00017368-eucerin-acne-oil-control-pro-acne-solution-200ml-87926-7534-5d52_large.png",
+     "price": "314.100đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-acne-oil-control-pro-acne-solution-200ml-87926-18722.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Nivea Men Deep Whitening Oil Clear than hoạt tính giúp sạch sâu (100g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500594-sua-rua-mat-nam-nivea-deep-whitening-oil-clear-than-den-hoat-tinh-100g-2684-62a8_large.jpg",
+     "price": "76.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-nam-nivea-deep-whitening-oil-clear-than-den-hoat-tinh-100g-34729.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt Isis Pharma Teen Derm Gel Sensitive giảm nhờn ngừa mụn (250ml)",
+     "company": "ISIS PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00008349-gel-rua-mat-giam-nhon-ngua-mun-teenderm-250ml-1649-62ae_large.JPG",
+     "price": "345.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gel-rua-mat-giam-nhon-ngua-mun-teenderm-250ml-987.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa chống nắng mặt và toàn thân Bioré UV Perfect Protect Milk Bright Spf 50+ (25ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033479-kem-chong-nang-dang-sua-dung-cho-mat-va-toan-than-biore-bao-ve-da-perfect-protect-milk-bright-spf-50-2561-62af_large.jpg",
+     "price": "65.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-dang-sua-dung-cho-mat-va-toan-than-biore-bao-ve-da-perfect-protect-milk-bright-spf-50-33585.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa chống nắng trang điểm Bioré Bright Milk SPF50+ Pa+++ Kao nâng tông da sáng hồng tự nhiên (30ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033478-kem-chong-nang-dang-sua-dung-cho-mat-biore-bright-milk-spf-50-30ml-5179-62af_large.jpg",
+     "price": "99.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-dang-sua-dung-cho-mat-biore-bright-milk-spf-50-30ml-33584.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Nivea Men Acne-Damaged Skin Reduction Detox Mud giúp da sạch sâu, giảm mụn (100g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500596-sua-rua-mat-nam-nivea-acne-damaged-skin-reduction-detox-mud-giam-mun-100g-3920-62a8_large.jpg",
+     "price": "63.200đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-nam-nivea-acne-damaged-skin-reduction-detox-mud-giam-mun-100g-34730.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt La Roche-Posay Effaclar Purifying Foaming Gel For Oily Sensitive Skin (50ml)",
+     "company": "LAROCHE-POSAY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016213-laroche-posay-effaclar-50ml-m2980801-1639-62af_large.jpg",
+     "price": "178.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/laroche-posay-effaclar-50ml-m2980801-14483.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng Eucerin Sun Dry Touch Oil Control SPF 50+ kiểm soát nhờn (50ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00008543-kem-chong-nang-eucerin-sun-protection-spf50-6202-5c8f_large.jpg",
+     "price": "494.100đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-eucerin-sun-protection-spf50-615.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng Fixderma Shadow Spf 30+ bảo vệ da khỏi các tia có hại của ánh nắng mặt trời (75g)",
+     "company": "Fixderma",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00029971-fixderma-shadow-spf-30-75g-kem-chong-nang-dung-duoc-cho-tre-duoi-6-tuoi-8067-6081_large.JPG",
+     "price": "273.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/fixderma-shadow-spf-30-75g-kem-chong-nang-dung-duoc-cho-tre-duoi-6-tuoi-30238.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng và giữ ẩm Fixderma Shadow SPF 50+ Cream (75g)",
+     "company": "FIXDERMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/02/00017924-fixderma-shadow-spf-50-cream-75g-kcn-va-giu-am-2240-6204_large.jpg",
+     "price": "337.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/fixderma-shadow-spf-50-cream-75g-kcn-va-giu-am-19266.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt Eucerin Pro Acne Cleansing Gel làm sạch dịu nhẹ cho da nhờn mụn (200ml)",
+     "company": "Eucerin",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00017279-eucerin-cleansing-gel-200ml-88970-7179-62af_large.jpg",
+     "price": "332.100đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/eucerin-cleansing-gel-200ml-88970-18630.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước hoa hồng Simple Soothing Facial Toner cung cấp dưỡng chất và độ ẩm cho da (200ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00033002-nuoc-hoa-hong-simple-cho-da-nhay-cam-200ml-7537-62ad_large.jpg",
+     "price": "139.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-hoa-hong-simple-cho-da-nhay-cam-200ml-33117.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sửa rửa mặt và toàn thân Skinsiogel Cleanser làm mềm da, không gây khô da (150ml)",
+     "company": "GAMMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00006768-kem-duong-da-mat-va-toan-than-skinsiogel-1474-62ae_large.jpg",
+     "price": "115.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-duong-da-mat-va-toan-than-skinsiogel-767.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel Dermacos Anti-Acne Deep Cleansing loại bỏ mọi bụi bẩn, lượng dầu dư thừa trên da (150ml)",
+     "company": "FARMONA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00016266-dermacos-anti-acne-deep-cleansing-gel-150ml-7928-6328_large.jpg",
+     "price": "338.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/dermacos-anti-acne-deep-cleansing-gel-150ml-14430.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Giấy thấm dầu Acnes Oil Remover Paper hỗ trợ kiểm soát nhờn, ngăn ngừa mụn (100 tờ)",
+     "company": "Acnes",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00000489-acnes-giay-tham-dau-oil-remover-paper-100-cai-8611-62bd_large.jpg",
+     "price": "20.800đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/acnes-giay-tham-dau-oil-remover-paper-100-cai-17563.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Serum NNO Vite Aplicapz MEGA We care hỗ trợ dưỡng da trắng sáng (3 vỉ x 10 viên)",
+     "company": "MEGA We care",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00029256-nno-vite-aplicapz-3x10-serum-duong-da-trang-sang-7877-6327_large.jpg",
+     "price": "342.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nno-vite-aplicapz-3x10-serum-duong-da-trang-sang-29522.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem rửa mặt Acnes Creamy Wash hỗ trợ ngăn ngừa mụn (100g)",
+     "company": "Acnes",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00008491-kem-rua-mat-ngan-ngua-mun-acnes-2667-62ae_large.JPG",
+     "price": "61.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-rua-mat-ngan-ngua-mun-acnes-700.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Cetaphil Gentle Cleanser loại bỏ bụi bẩn một cách nhẹ nhàng (250ml)",
+     "company": "Cetaphil",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500424-cetaphil-gentle-cleanse-250ml-sua-rua-mat-diu-nhe-8688-62b9_large.jpg",
+     "price": "224.100đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/cetaphil-gentle-cleanse-250ml-sua-rua-mat-diu-nhe-34539.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt La Roche-Posay Effaclar Purifying Foaming Gel For Oily Sensitive Skin (200ml)",
+     "company": "LAROCHE-POSAY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00018855-lrc-posay-effaclar-purifying-foaming-gel-for-oily-sensitive-skin-200ml-m9054420-grm-tao-bot-lam-sa-8178-62af_large.jpg",
+     "price": "308.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/lrc-posay-effaclar-purifying-foaming-gel-for-oily-sensitive-skin-200ml-m9054420-grm-tao-bot-lam-sa-20157.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Adaphil Gentle Skin Cleanser Gamma dành cho mọi loại da (125ml)",
+     "company": "GAMMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00009582-adaphil-125ml-4145-62ae_large.jpg",
+     "price": "60.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/adaphil-125ml-16643.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa chống nắng dưỡng da trắng mịn Sunplay Skin Aqua Clear White SPF50+/Pa++++ (25g)",
+     "company": "Sunplay",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00008506-sunplay-skin-aqua-50clear-white-25g-7220-62af_large.jpg",
+     "price": "79.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sunplay-skin-aqua-50clear-white-25g-16669.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Gammaphil Gentle Cleanser cho da nhờn, da khô, da nhạy cảm (125ml)",
+     "company": "GAMMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00010313-gammaphil-125ml-1121-5b7f_large.JPG",
+     "price": "40.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gammaphil-125ml-16475.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt dịu nhẹ Cetaphil Gentle Skin Cleanser (473ml)",
+     "company": "Cetaphil",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00500425-cetaphil-gentle-cleanse-473ml-sua-rua-mat-diu-nhe-9196-6327_large.jpg",
+     "price": "320.400đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/cetaphil-gentle-cleanse-473ml-sua-rua-mat-diu-nhe-34544.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kem chống nắng La Roche-Posay Anthelios 50+ bảo vệ da trước tác hại của tia UVA/UVB (50ml)",
+     "company": "LAROCHE-POSAY",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00013491-kem-chong-nang-la-roche-posay-kiem-soat-dau-spf50-6561-634c_large.jpg",
+     "price": "463.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/kem-chong-nang-la-roche-posay-kiem-soat-dau-spf50-585.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt Simple Refreshing Facial Wash hỗ trợ loại bỏ bụi bẩn, dầu nhờn (150ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/12/00033000-sua-rua-mat-dang-gel-simple-cho-da-nhay-cam-150ml-8953-61b3_large.jpg",
+     "price": "129.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-dang-gel-simple-cho-da-nhay-cam-150ml-33124.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch rửa mặt Isis Pharma Teen Derm Gel hỗ trợ giảm nhờn, ngăn ngừa mụn (150ml)",
+     "company": "ISIS PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00003997-gel-rua-mat-giam-nhon-ngua-mun-teenderm-150ml-7304-62ae_large.jpg",
+     "price": "278.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gel-rua-mat-giam-nhon-ngua-mun-teenderm-150ml-985.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tinh chất Bí Đao Cocoon phục hồi mạnh mẽ tình trạng mụn, kiểm soát bã nhờn (70ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502440-tinh-chat-bi-dao-cocoon-70ml-8528-6375_large.jpg",
+     "price": "265.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/tinh-chat-bi-dao-cocoon-70ml-36688.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt Bí Đao Cocoon làm sạch sâu bụi bẩn và dầu thừa (140ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502442-gel-rua-mat-bi-dao-cocoon-140ml-5146-6375_large.jpg",
+     "price": "175.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gel-rua-mat-bi-dao-cocoon-140ml-36686.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang Bí Đao Cocoon làm sạch hiệu quả lớp trang điểm, bụi bẩn, dầu thừa (500ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/11/00502441-nuoc-tay-trang-bi-dao-cocoon-500ml-8159-6375_large.jpg",
+     "price": "275.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-tay-trang-bi-dao-cocoon-500ml-36687.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt SVR Sebiaclear Gel Moussant dạng gel loại bỏ bụi bẩn, bã nhờn (200ml)",
+     "company": "SVR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00017326-sebiaclear-gel-moussant-200ml-svr-7018-62ae_large.JPG",
+     "price": "380.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sebiaclear-gel-moussant-200ml-svr-18680.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch SVR Serbiaclear Gel Moussant làm sạch và loại bỏ tế bào chết không chứa xà phòng (55ml)",
+     "company": "SVR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00029867-svr-sebiaclear-gel-moussant-gel-lam-sach-va-loai-bo-te-bao-chet-khong-chua-xa-phong-55ml-5828-62ae_large.JPG",
+     "price": "140.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/svr-sebiaclear-gel-moussant-gel-lam-sach-va-loai-bo-te-bao-chet-khong-chua-xa-phong-55ml-30134.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt đất sét Rosette Ghassoul Bright hỗ trợ giảm dầu nhờn, ngừa mụn (120g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/10/00022007-sua-rua-mat-dat-set-sang-da-rosette-ghassoul-bright-120g-8916-5dba_large.jpg",
+     "price": "96.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-dat-set-sang-da-rosette-ghassoul-bright-120g-22350.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel rửa mặt dành cho da dầu da mụn Uriage Eau Thermale Hyséac hỗ trợ làm sạch bụi bẩn, bã nhờn (150ml)",
+     "company": "URIAGE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/09/00007707-gel-rua-mat-danh-cho-da-dau-mun-uriage-150ml-2006-6148_large.jpg",
+     "price": "354.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gel-rua-mat-danh-cho-da-dau-mun-uriage-150ml-975.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt nghệ Nano Neo Cleanser hỗ trợ làm sạch da mặt, ngừa mụn, giảm nhờn (86g)",
+     "company": "LaBeauté",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00022782-sua-rua-mat-nghe-nano-ngua-mun-neo-cleanser-86g-1735-62ae_large.jpg",
+     "price": "68.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-nghe-nano-ngua-mun-neo-cleanser-86g-23102.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel tẩy tế bào chết Rosette Gommage hỗ trợ làm mềm lớp sừng, loại bỏ tế bào chết  (180g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00029790-gel-tay-te-bao-chet-rosette-gommage-180g-7626-603c_large.JPG",
+     "price": "175.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gel-tay-te-bao-chet-rosette-gommage-180g-30055.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Lifting hỗ trợ nâng cơ, duy trì sự đàn hồi da, giảm chảy xệ (30g)",
+     "company": "BANOBAGI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00030310-mat-na-banobagi-vita-genic-jelly-mask-lifting-vitamin-a-nang-co-duy-tri-su-dan-hoi-da-giam-chay-7357-628d_large.jpg",
+     "price": "25.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-lifting-vitamin-a-nang-co-duy-tri-su-dan-hoi-da-giam-chay-30461.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt bùn biển Rosette Acne Clear hỗ trợ làm sạch bụi bẩn, tế bào chết (120g)",
+     "company": "ROSETTE",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/10/00022006-sua-rua-mat-bun-bien-giam-mun-rosette-acne-clear-120g-3158-5dba_large.jpg",
+     "price": "96.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-bun-bien-giam-mun-rosette-acne-clear-120g-22349.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Relaxing hỗ trợ thư giãn, phục hồi và trẻ hóa da (30g)",
+     "company": "Banobagi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00030312-mat-na-banobagi-vita-genic-jelly-mask-relaxing-vitamin-b-thu-gian-phuc-hoi-va-tre-hoa-da-4156-6065_large.jpg",
+     "price": "25.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-relaxing-vitamin-b-thu-gian-phuc-hoi-va-tre-hoa-da-30463.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Cica sáng da, mờ nếp nhăn, giảm mụn (30g)",
+     "company": "BANOBAGI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00030287-mat-na-banobagi-vita-genic-jelly-mask-cica-sang-da-mo-nep-nhan-giam-mun-7900-62af_large.JPG",
+     "price": "25.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-cica-sang-da-mo-nep-nhan-giam-mun-30453.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Pore Tightening se nhỏ lỗ chân lông, duy trì độ ẩm trên da (30g)",
+     "company": "BANOBAGI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00030285-mat-na-banobagi-vita-genic-jelly-mask-pore-tightening-anti-sebum-p-se-nho-lo-chan-long-2932-62b4_large.jpg",
+     "price": "25.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-pore-tightening-anti-sebum-p-se-nho-lo-chan-long-30452.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Hydrating dưỡng ẩm, cung cấp nước, căng da mặt (30g)",
+     "company": "BANOBAGI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00030313-mat-na-banobagi-vita-genic-jelly-mask-hydrating-vitamin-e-duong-am-cung-cap-nuoc-cang-da-mat-6914-62af_large.JPG",
+     "price": "25.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-hydrating-vitamin-e-duong-am-cung-cap-nuoc-cang-da-mat-30464.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Sữa rửa mặt Anti-Acne Brightening Cleansing Milk Decumar Advanced giúp ngừa mụn, giảm thâm (50g)",
+     "company": "DECUMAR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500347-sua-rua-mat-anti-acne-brightening-cleansing-milk-nano-thc-decumar-advanced-50g-7858-629a_large.jpg",
+     "price": "99.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/sua-rua-mat-anti-acne-brightening-cleansing-milk-nano-thc-decumar-advanced-50g-34452.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Vitalizing duy trì sự đàn hồi và săn chắc da (30g)",
+     "company": "BANOBAGI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00030309-mat-na-banobagi-vita-genic-jelly-mask-vitalizing-collagen-duy-tri-su-dan-hoi-va-san-chac-da-5226-62af_large.JPG",
+     "price": "25.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-vitalizing-collagen-duy-tri-su-dan-hoi-va-san-chac-da-30460.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Mặt nạ Banobagi Vita Genic Jelly Mask Whitening làm mờ vết thâm, trắng sáng da, mịn màng (30g)",
+     "company": "BANOBAGI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00030311-mat-na-banobagi-vita-genic-jelly-mask-whitening-vitamin-c-lam-mo-vet-tham-trang-sang-da-min-man-8966-6065_large.jpg",
+     "price": "25.000đ / Gói",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-whitening-vitamin-c-lam-mo-vet-tham-trang-sang-da-min-man-30462.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Miếng dán mụn Somaderm - Spot hỗ trợ nhanh lành vết thương, hút nhân mụn (24 miếng)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/07/00021449-mieng-dan-mun-somaderm-spot-24-mieng-7502-62c7_large.jpg",
+     "price": "55.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/mieng-dan-mun-somaderm-spot-24-mieng-21803.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Gel ngừa mụn Anti-Acne Nano THC Decumar Advanced (20g)",
+     "company": "DECUMAR",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00500345-gel-ngua-mun-anti-acne-nano-thc-decumar-advanced-20g-6284-629a_large.jpg",
+     "price": "105.000đ / Tuýp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/gel-ngua-mun-anti-acne-nano-thc-decumar-advanced-20g-34457.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước hoa hồng La Beauty dưỡng ẩm, làm mềm da (150ml)",
+     "company": "LaBeauté",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00033699-nuoc-hoa-hong-la-beauty-150ml-duong-am-lam-mem-da-4045-623d_large.jpg",
+     "price": "88.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-hoa-hong-la-beauty-150ml-duong-am-lam-mem-da-33785.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước tẩy trang La Beauty Micellar Cleansing Water làm sạch da mọi loại da (150ml)",
+     "company": "LaBeauté",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/03/00033698-nuoc-tay-trang-la-beauty-150ml-lam-sach-da-giup-sang-da-6412-623d_large.jpg",
+     "price": "71.200đ / Hộp",
+     "link": "https://nhathuoclongchau.com/duoc-my-pham/nuoc-tay-trang-la-beauty-150ml-lam-sach-da-giup-sang-da-33789.html",
+     "promo": { 
+          "name": "sacdep",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Linh Chi OPC hỗ trợ điều hòa huyết áp, giảm cholesterol máu (2 vỉ x 10 viên)",
+     "company": "OPC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00010611-linh-chi-dieu-hoa-huyet-ap-giam-cholesterol-3160-5b5e_large.JPG",
+     "price": "54.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/linh-chi-dieu-hoa-huyet-ap-giam-cholesterol-440.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc V-Phonte Vạn Xuân hỗ trợ giảm đau chống viêm cơ, xương khớp, thần kinh (40 viên)",
+     "company": "Vạn Xuân",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00007740-v-phonte-vien-uong-dieu-tri-phong-thap-2055-62bb_large.jpg",
+     "price": "35.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/v-phonte-vien-uong-dieu-tri-phong-thap-345.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Dưỡng Cốt Hoàn Traphaco hỗ trợ điều trị đau nhức xương khớp (20 gói x 5g)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00002641-duong-cot-hoan-vien-uong-dieu-tri-dau-nhuc-xuong-khop-6341-5b1e_large.JPG",
+     "price": "70.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/duong-cot-hoan-vien-uong-dieu-tri-dau-nhuc-xuong-khop-262.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Tư Âm Bổ Thận Hoàn Đại Hồng Phúc bổ thận âm, nhuận phế (20 viên )",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00007569-tu-am-bo-than-hoan-bo-than-am-nhuan-phe-4607-5b5e_large.JPG",
+     "price": "67.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/tu-am-bo-than-hoan-bo-than-am-nhuan-phe-376.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Sedanxio Tilman hỗ trợ điều trị chứng lo âu, mất ngủ (5 vỉ x 10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00006620-sedanxio-1787-5b27_large.JPG",
+     "price": "8.800đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/sedanxio-2295.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Hoa Đà Tái Tạo Hoàn Huatuo Zaizao Pills hỗ trợ tai biến mạch máu não và di chứng (10 gói)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00012426-hoa-da-tai-tao-hoan-5052-62ad_large.jpg",
+     "price": "125.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/hoa-da-tai-tao-hoan-1097.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Kim Long Bảo Long hỗ trợ điều trị viêm mũi, viêm xoang (10 gói x 4g)",
+     "company": "Bảo Long",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/04/00004165-kim-long-ho-tro-dieu-tri-viem-mui-viem-xoang-1020-5e9e_large.JPG",
+     "price": "34.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/kim-long-ho-tro-dieu-tri-viem-mui-viem-xoang-433.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Didicera Traphaco hỗ trợ trừ phong thấp, bổ khí huyết, bổ can thận (10 gói x 5g)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00002429-didicera-10-goi-2922-5b59_large.JPG",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/didicera-4000.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Tuần Hoàn Não Thái Dương hỗ trợ điều trị thiểu năng tuần hoàn não (2 vỉ x 6 viên)",
+     "company": "Sao Thái Dương",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00012428-tuan-hoan-nao-thai-duong-4477-5b98_large.JPG",
+     "price": "35.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/tuan-hoan-nao-thai-duong-403.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Hoạt Huyết CM3 Phúc Vinh điều trị rối loạn tuần hoàn não do xơ vữa mạch máu (30 viên)",
+     "company": "Phúc Vinh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00010251-hoat-huyet-cm3-6585-5b14_large.JPG",
+     "price": "105.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/hoat-huyet-cm3-712.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc VG-5 Danapha hỗ trợ điều trị viêm gan, hạ men gan (4 vỉ x 10 viên)",
+     "company": "Danapha",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/08/7843-vg-5-40v-ho-tro-dieu-tri-gan-2461-599f_large.jpg",
+     "price": "44.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/vg-5-40v-ho-tro-dieu-tri-gan-346.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Hà Thủ Ô Traphaco điều trị đau lưng, di mộng tinh, thiếu máu (100 viên)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00010341-ha-thu-o-traphaco-3868-5b7f_large.JPG",
+     "price": "45.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/ha-thu-o-traphaco-5x20-488.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Bioflora 100mg Biocodex hỗ trợ phòng và điều trị tiêu chảy cấp (20 gói)",
+     "company": "Biocodex",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00001287-bioflora-100mg-3204-5b50_large.JPG",
+     "price": "5.600đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuoc/bioflora-100mg-4502.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Hoạt Huyết Dưỡng Não Phúc Vinh hỗ trợ điều trị suy giảm trí nhớ (5 vỉ x 20 viên)",
+     "company": "Phúc Vinh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00020047-hoat-huyet-duong-nao-phuc-vinh-5x20-vbd-6926-606b_large.jpg",
+     "price": "42.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/hoat-huyet-duong-nao-phuc-vinh-5x20-vbd-20343.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Normagut MEGA We care cân bằng hệ vi sinh đường ruột (3 vỉ x 10 viên)",
+     "company": "MEGA We care",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00005369-normagut-250mg-8869-5b39_large.JPG",
+     "price": "7.000đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/normagut-250mg-2837.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Enterogermina Sanofi điều trị rối loạn hệ vi khuẩn đường ruột (20 ống x 5ml)",
+     "company": "Sanofi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00030670-enterogemina-4b-sanofi-2x10-ong-5ml-2836-6087_large.jpg",
+     "price": "280.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/enterogemina-4b-sanofi-2x10-ong-5ml-30818.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro ho Eugica DHG hỗ trợ điều trị ho, long đờm (100ml)",
+     "company": "DHG",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/05/00002921-eugica-100ml-3603-608f_large.jpg",
+     "price": "38.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/eugica-100ml-3814.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Cao dán Cao Tan Kim Đan điều trị các vết sưng, tấy, viêm ngoài da (2 lá x 1.5g)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00022198-cao-tan-kim-dan-goi-2-la-x-15g-5098-60b8_large.jpg",
+     "price": "5.500đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuoc/cao-tan-kim-dan-goi-2-la-x-15g-22573.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Đại Tràng Nhất Nhất hỗ trợ điều trị viêm đại tràng, rối loạn tiêu hóa (20 viên)",
+     "company": "Nhất Nhất",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00002186-dai-trang-nhat-nhat-2x10-6636-5b7f_large.JPG",
+     "price": "120.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/dai-trang-nhat-nhat-2x10-18067.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Cebraton Traphaco phòng và điều trị suy giảm trí nhớ (5 vỉ x 10 viên)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00001640-cebraton-tang-cuong-tri-nho-8825-5bac_large.JPG",
+     "price": "160.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/cebraton-tang-cuong-tri-nho-533.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc trị đau răng Dentanalgi OPC điều trị đau răng, viêm nướu răng, nha chu (7ml)",
+     "company": "OPC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00016538-thuoc-tri-dau-rang-dentanalgi-7ml-opc-2859-6103_large.jpg",
+     "price": "17.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/thuoc-tri-dau-rang-dentanalgi-7ml-opc-17615.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Tottri Traphaco hỗ trợ điều trị các trường hợp trĩ cấp tính (15 túi x 5g)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00007451-tottri-tot-cho-nguoi-benh-tri-5051-5b1e_large.JPG",
+     "price": "143.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/tottri-tot-cho-nguoi-benh-tri-363.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro trị ho trẻ em Pectol-E Sagopha điều trị viêm phế quản, cảm cho trẻ (90ml)",
+     "company": "Sagopha",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/05/00005793-pectol-e-90ml-1781-5b0c_large.JPG",
+     "price": "39.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/pectol-e-90ml-499.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Cảm Xuyên Hương Yên Bái điều trị cảm cúm, sổ mũi, nhức đầu (10 vỉ x 10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/05/00001538-cam-xuyen-huong-10x10-yen-bai-nguoi-lon-7272-5af9_large.JPG",
+     "price": "79.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/cam-xuyen-huong-10x10-yen-bai-nguoi-lon-17476.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc nước Bạch Long Thủy hỗ trợ điều trị ho, hen suyễn (90ml)",
+     "company": "Bảo Long",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00001091-bach-long-thuy-90ml-7780-5b61_large.JPG",
+     "price": "27.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/bach-long-thuy-90ml-417.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc ho Người Lớn OPC hỗ trợ điều trị viêm đường hô hấp, ho, đau họng (90ml)",
+     "company": "OPC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00007325-thuoc-ho-opc-nguoi-lon-2110-5b59_large.JPG",
+     "price": "28.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/thuoc-ho-opc-nguoi-lon-524.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước súc miệng T-B Fresh Traphaco hỗ trợ sát trùng răng miệng, họng, thơm miệng (500ml)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00015016-nuoc-suc-mieng-t-b-fresh-500ml-traphaco-1469-62ad_large.jpg",
+     "price": "25.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/nuoc-suc-mieng-t-b-fresh-500ml-traphaco-15173.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên nén nhai OH NO Việt Phúc hỗ trợ bỏ hút thuốc lá (1 lọ x 12 viên)",
+     "company": "Việt Phúc",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/05/00005497-ohno-5130-5b0f_large.JPG",
+     "price": "36.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/ohno-17006.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Trà Gừng Traphaco hỗ trợ điều trị đau bụng do lạnh, đầy chướng không tiêu (3g x 10 gói)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00007466-tra-gung-traphaco-bo-huyet-bo-can-than-4099-5b59_large.JPG",
+     "price": "12.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/tra-gung-traphaco-bo-huyet-bo-can-than-891.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Hoạt Huyết Dưỡng Não Traphaco hỗ trợ điều trị suy giảm trí nhớ (5 vỉ x 20 viên)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00003789-hoat-huyet-duong-nao-traphaco-8769-5c7f_large.JPG",
+     "price": "95.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/hoat-huyet-duong-nao-traphaco-3468.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Hoạt Huyết Dưỡng Não Traphaco điều trị suy giảm trí nhớ (5 vỉ x 20 viên)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00009897-hoat-huyet-duong-nao-bao-phim100v-9433-5bab_large.JPG",
+     "price": "95.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/hoat-huyet-duong-nao-bao-phim100v-18065.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro ho Bảo Thanh Hoa Linh hỗ trợ điều trị các chứng ho (125ml)",
+     "company": "Hoa Linh",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00007321-thuoc-ho-bao-thanh-125ml-9580-60fb_large.jpg",
+     "price": "55.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/thuoc-ho-bao-thanh-125ml-496.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên xông Euca-OPC điều trị cảm mạo, cảm cúm, sát trùng mũi họng (2 vỉ x 10 viên)",
+     "company": "OPC",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/07/00007941-euca-opc-vien-xong-1308-5b48_large.JPG",
+     "price": "20.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/euca-opc-2x10-vien-xong-1784.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc cốm Probio IMP bổ sung vi khuẩn có ích ở ruột (14 gói x 1g)",
+     "company": "IMEXPHARM",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00006107-probio-1g-8025-5b97_large.JPG",
+     "price": "1.500đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuoc/probio-1g-2523.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên Xông Hương Tràm Vim Báo Gấm hỗ trợ xông trị cảm cúm, sát trùng mũi, họng (40 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00010256-vien-xong-huong-tram-vim-bao-gam-9543-5b98_large.JPG",
+     "price": "25.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/vien-xong-huong-tram-vim-bao-gam-906.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Long Huyết P/H Phúc Hưng tan bầm tím, lành vết thương (2 vỉ x 12 viên)",
+     "company": "PHÚC HƯNG",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00008451-long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-8927-5ba8_large.JPG",
+     "price": "46.080đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Enterogermina điều trị và phòng ngừa rối loạn hệ vi khuẩn đường ruột (20 ống)",
+     "company": "Sanofi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00002814-enterogemina-5ml-sanofi-20-ong-5650-60fb_large.jpg",
+     "price": "156.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/enterogemina-5ml-sanofi-20-ong-17315.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Hoạt Huyết Nhất Nhất hỗ trợ hoạt huyết, điều trị thiểu năng tuần hoàn (30 viên)",
+     "company": "Nhất Nhất",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/02/00003793-hoat-huyet-nhat-nhat-tang-cuong-tuan-hoan-nao-7218-5c68_large.JPG",
+     "price": "110.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/hoat-huyet-nhat-nhat-tang-cuong-tuan-hoan-nao-521.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Danospan Danapha điều trị viêm đường hô hấp cấp tính có kèm ho (100ml)",
+     "company": "Danapha",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/05/00021197-danospan-danapha-100ml-3275-6282_large.",
+     "price": "60.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/danospan-danapha-100ml-21534.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Stadeltine 5mg Stella hỗ trợ điều trị viêm mũi dị ứng, mày đay (50 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/01/00006878-stadeltine-8869-61d8_large.jpg",
+     "price": "1.040đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/stadeltine-2191.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Clorpheniramin 4mg DHG hỗ trợ điều trị viêm mũi dị ứng, mày đay (10 vỉ x 20 viên)",
+     "company": "DHG PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/10/00001954-clorpheniramin-4-200v-6315-634e_large.jpg",
+     "price": "100đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/clorpheniramin-4-200v-4228.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Lorastad D 5mg Stella hỗ trợ điều trị viêm mũi dị ứng, mề đay (3 vỉ x 10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/01/00004544-lorastad-10mg-2606-61dc_large.jpg",
+     "price": "1.200đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/lorastad-d-stella-3x10-3182.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Fexofenadin 120-HV US Pharma USA điều trị viêm mũi dị ứng, mày đay (100 viên)",
+     "company": "US PHARMA USA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00009847-fexofenadin-120-9981-62a6_large.jpg",
+     "price": "1.260đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/fexofenadin-120-1470.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Allergex 8mg OPV giảm các triệu chứng do viêm mũi dị ứng, mày đay (50 viên)",
+     "company": "OPV",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00000613-allergex-8mg-2527-62ad_large.jpg",
+     "price": "9.980đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/allergex-8mg-4806.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Cetirizin 10mg Thành Nam hỗ trợ điều trị viêm mũi dị ứng, mày đay (100 viên)",
+     "company": "Thành Nam",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00017466-cetirizin-thanh-nam-10x10-1-vien-24h-9927-6066_large.jpg",
+     "price": "200đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/cetirizin-thanh-nam-10x10-1-vien-24h-18826.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Lorastad 10mg Stada hỗ trợ giảm triệu chứng dị ứng (10 vỉ x 10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00004545-lorastad-10mg-5676-5b95_large.JPG",
+     "price": "800đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/lorastad-10mg-3181.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Stugeron 25mg Janssen hỗ trợ điều trị rối loạn tuần hoàn não (250 viên)",
+     "company": "Janssen",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/05/00006938-stugeron-25mg-1507-5b0e_large.JPG",
+     "price": "748đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/stugeron-25mg-2155.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Lorastad Tab 10mg Stella hỗ trợ giảm viêm mũi dị ứng, mày đay (2 vỉ x 10 viên)",
+     "company": "STELLA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00020295-lorastad-10mg-stada-2x10-9469-6073_large.jpg",
+     "price": "900đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/lorastad-10mg-stada-2x10-20567.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Telfor 180mg DHG điều trị triệu chứng của bệnh mày đay mạn tính (2 vỉ x 10 viên)",
+     "company": "DHG PHARMA",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00015008-telfor-180-2x10-8131-5b97_large.JPG",
+     "price": "2.800đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/telfor-180-2x10-15181.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Nautamine Sanofi chống say xe (20 vỉ x 4 viên)",
+     "company": "Sanofi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00005182-nautamine-9822-5c7e_large.jpg",
+     "price": "3.000đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/nautamine-2912.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Telfor 60mg DHG điều trị viêm mũi dị ứng, mày đay (2 vỉ x 10 viên)",
+     "company": "DHG Pharma",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00015009-telfor-60-2x10-9025-605c_large.jpg",
+     "price": "1.300đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/telfor-60-2x10-15180.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc A.T Desloratadin 2.5mg An Thiên điều trị viêm mũi dị ứng, mày đay (30 ống x 5ml)",
+     "company": "An Thiên",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00015240-at-desloratadin-30-ong-x-5ml-9320-5b30_large.JPG",
+     "price": "112.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/at-desloratadin-30-ong-x-5ml-14956.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Siro Theralene Sanofi hỗ trợ điều trị các triệu chứng viêm mũi dị ứng, mày đay (90ml)",
+     "company": "Sanofi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00007296-theralene-90ml-7399-5b7a_large.JPG",
+     "price": "18.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/theralene-90ml-2009.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Clarityne 10mg MSD hỗ trợ giảm triệu chứng dị ứng (1 vỉ x 10 viên)",
+     "company": "MSD",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00001912-clarityne-10mg-1032-5b71_large.JPG",
+     "price": "6.800đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/clarityne-10mg-4243.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Rupafin 10mg Hyphens điều trị viêm mũi dị ứng, mày đay (10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00006455-rupafin-10mg-6785-5b75_large.JPG",
+     "price": "6.600đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/rupafin-10mg-2360.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Zyrtec 10mg GSK hỗ trợ điều trị mày đay, viêm mũi dị ứng (1 vỉ x 10 viên)",
+     "company": "GSK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/05/00008307-zyrtec-10mg-2943-5b0e_large.JPG",
+     "price": "7.100đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/zyrtec-10mg-1631.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Cetirizine Stella 10mg hỗ trợ giảm viêm mũi dị ứng, mày đay (5 vỉ x 10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/09/00001816-cetirizine-stada-10-mg-4653-632d_large.jpg",
+     "price": "450đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/cetirizine-stada-10-mg-4282.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Deslora 5mg Pymepharco hỗ trợ điều trị viêm mũi dị ứng, mày đay (3 vỉ x 10 viên)",
+     "company": "Pymepharco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/11/00002352-deslora-5mg-3365-5bf0_large.JPG",
+     "price": "1.280đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/deslora-5mg-4037.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Xyzal 5mg GSK giảm viêm mũi dị ứng, mày đay (1 vỉ x 10 viên)",
+     "company": "GSK",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00008159-xyzal-2403-5b17_large.JPG",
+     "price": "7.500đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/xyzal-1715.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Theralene 5mg Sanofi hỗ trợ điều trị các triệu chứng viêm mũi dị ứng, mày đay (40 viên)",
+     "company": "Sanofi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/11/00007295-theralene-5mg-9378-5bf7_large.JPG",
+     "price": "500đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/theralene-5mg-2010.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Cetirizin 10mg Vidipha hỗ trợ điều trị viêm mũi dị ứng, mày đay (10 vỉ x 10 viên)",
+     "company": "Vidipha",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00016170-cetirizin-10mg-10x10-vidiphar-8420-6061_large.jpg",
+     "price": "220đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/cetirizin-10mg-10x10-vidiphar-14526.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Fexostad 180mg Stella hỗ trợ điều trị viêm mũi dị ứng, mày đay (10 viên)",
+     "company": "Stella Pharm",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00003047-fexostad-180-2635-6063_large.jpg",
+     "price": "3.400đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/fexostad-180-3754.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Aerius 0.5mg/ml MSD điều trị viêm mũi dị ứng (60ml)",
+     "company": "MSD",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00000546-aerius-05mgml-8905-60f5_large.jpg",
+     "price": "90.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/aerius-schering-60ml-4845.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Cedetamin Khapharco hỗ trợ điều trị viêm mũi dị ứng, mày đay (2 vỉ x 15 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00001647-cedetamin-2mg-2x15-5134-5b6a_large.JPG",
+     "price": "200đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/cedetamin-2mg-2x15-17461.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Telfast BD 60mg Sanofi hỗ trợ điều trị viêm mũi dị ứng, mày đay (10 viên)",
+     "company": "Sanofi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/06/00007224-telfast-60mg-7031-5b20_large.JPG",
+     "price": "38.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/telfast-60mg-2050.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Aerius 5mg MSD giảm nhanh triệu chứng liên quan đến viêm mũi dị ứng (10 viên)",
+     "company": "MSD",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2019/03/00000545-aerius-5mg-5593-5c7f_large.png",
+     "price": "10.000đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/aerius-5mg-4846.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Telfast Kids 30mg Sanofi hỗ trợ giảm viêm mũi dị ứng, mày đay cho trẻ em (10 viên)",
+     "company": "SANOFI",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00021370-telfast-kids-sanofi-30mg-1x10-6773-60b8_large.jpg",
+     "price": "28.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/telfast-kids-sanofi-30mg-1x10-21728.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch uống A.T Desloratadin 2.5mg An Thiên hương dâu hỗ trợ điều trị viêm mũi dị ứng, mề đay mãn tính (30ml)",
+     "company": "An Thiên",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00014969-at-desloratadin-25mg-huong-dau-30ml-3113-6064_large.jpg",
+     "price": "22.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/at-desloratadin-25mg-huong-dau-30ml-15220.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Loratadin 10mg Traphaco điều trị viêm mũi dị ứng, mề đay (10 viên)",
+     "company": "Traphaco",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00016119-loratadin-10mg-10v-traphaco-3561-62a7_large.jpg",
+     "price": "1.000đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/loratadin-10mg-10v-traphaco-14577.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Telfast HD 180mg Sanofi hỗ trợ điều trị viêm mũi dị ứng, mày đay (1 vỉ x 10 viên)",
+     "company": "Sanofi",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/12/00007223-telfast-180mg-4357-5c17_large.JPG",
+     "price": "78.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/telfast-180mg-2051.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Fefasdin 60 Khapharco điều trị viêm mũi dị ứng, mày đay (10 vỉ x 10 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/11/00028530-fefasdin-60-khapharco-10x10-5268-5fa2_large.JPG",
+     "price": "850đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/fefasdin-60-khapharco-10x10-28831.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Soothing Honey & Lemon điều trị đau họng (50 gói x 2 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/10/00009726-strepsils-soothing-honey-lemon-100-9642-9371_large.jpg",
+     "price": "3.500đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuoc/vien-ngam-strepsils-honey-and-lemon-50x2-1512.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch vô trùng Natri Clorid 0,9% Dược 3-2 hỗ trợ rửa vết thương, súc miệng (500ml)",
+     "company": "Dược 3-2",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/04/00005145-natriclorid-09-500ml-32-8311-607d_large.jpg",
+     "price": "11.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/natriclorid-09-500ml-32-17050.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Orange Reckitt Benckiser điều trị đau họng (50 gói x 2 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/10/00009725-strepsils-orange-with-c-100-2206-937c_large.jpg",
+     "price": "3.500đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-orange-with-vitamin-c-1513.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Tyrotab Pharmedic hỗ trợ điều trị các bệnh ở họng, ở miệng (24 viên)",
+     "company": "Pharmedic",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2017/10/00007594-tyrotab-h24-vien-5242-3f3a_large.jpg",
+     "price": "12.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/tyrotab-1897.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Throat Irritation Cough Reckitt Benckiser giúp làm sạch đường thở (24 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00014017-strepsils-throat-irritation-cough-24-vien-2485-5b65_large.JPG",
+     "price": "51.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-throat-irritation-cough-24-vien-1012.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Kẹo ngậm Strepsils Cool Reckitt Benckiser điều trị đau họng (50 gói x 2 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00010047-strepsils-cool-soothing-and-cooling-100v-8925-62ad_large.jpg",
+     "price": "3.500đ / Gói",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-cool-soothing-and-cooling-100v-16539.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc ngậm Tyrotab Pharmedic điều trị các bệnh ở miệng, họng (10 vỉ x 8 viên)",
+     "company": "Pharmedic",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00007595-tyrotab-vien-ngam-7213-5b6a_large.JPG",
+     "price": "2.700đ / Vỉ",
+     "link": "https://nhathuoclongchau.com/thuoc/tyrotab-1896.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Maxpro Reckitt Benckiser điều trị đau họng (16 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/03/00030246-strepsils-maxpro-2x8-3940-6063_large.jpg",
+     "price": "40.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-maxpro-2x8-30398.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước súc miệng Thái Dương hương bạc hà hỗ trợ sát trùng răng miệng, họng, khử mùi hôi (500ml)",
+     "company": "SAO THÁI DƯƠNG",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00005428-nuoc-suc-mieng-thai-duong-500ml-huong-bac-ha-9548-62ad_large.jpg",
+     "price": "25.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/nuoc-suc-mieng-thai-duong-500ml-huong-bac-ha-17012.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Star Benko OPV hỗ trợ điều trị bệnh nhiễm khuẩn đường miệng (2 vỉ x 12 viên)",
+     "company": "OPV",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00016250-star-benko-2x12-opv-6448-5b67_large.JPG",
+     "price": "48.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/star-benko-2x12-opv-14446.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch súc miệng Orafar Pharmedic dùng sát trùng miệng, họng (90ml)",
+     "company": "Pharmedic",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00005582-orafar-90ml-1883-62bc_large.jpg",
+     "price": "8.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/orafar-90ml-2765.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Original Reckitt đỏ điều trị đau họng (24 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00006925-strepsils-original-24-vien-2153-5b65_large.JPG",
+     "price": "32.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-original-24-vien-2158.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Soothing Reckitt Benckiser điều trị đau họng (24 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00010601-strepsils-soothing-honey-and-lemon-24-vien-9870-5b6a_large.JPG",
+     "price": "32.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-soothing-honey-lemon-24-vien-1233.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Cool Reckitt Benckiser điều trị đau họng (2 vỉ x 12 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00006920-strepsils-cool-24-vien-7215-5b65_large.JPG",
+     "price": "32.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-cool-24-vien-2162.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Star Sore Throat OPV không đường giảm đau họng, viêm họng (24 viên)",
+     "company": "OPV",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00016739-vien-ngam-star-sore-throat-khong-duong-2x12-opv-3865-5b6d_large.JPG",
+     "price": "48.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/vien-ngam-star-sore-throat-khong-duong-2x12-opv-18038.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Strepsils Orange Reckitt điều trị đau họng (2 vỉ x 12 viên)",
+     "company": "Reckitt Benckiser",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/08/00006923-strepsils-orange-with-vitamin-c-24-vien-8944-5b65_large.JPG",
+     "price": "32.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/strepsils-orange-with-vitamin-c-24-vien-2159.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Dung dịch Natri Clorid 0.9% Pharmedic súc miệng, rửa vết thương (500ml)",
+     "company": "Pharmedic",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2022/06/00021268-natri-clorid-09-pharmedic-500ml-2587-62bc_large.jpg",
+     "price": "11.500đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/natri-clorid-09-pharmedic-500ml-21602.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc Piascledine 300mg Hyphens điều trị viêm xương khớp hông (15 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/10/00005958-piascledine-300mg-3192-5bbc_large.JPG",
+     "price": "12.000đ / Viên",
+     "link": "https://nhathuoclongchau.com/thuoc/piascledine-300mg-2603.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Nước súc miệng Medoral Merap hỗ trợ điều trị viêm họng, viêm amidan (250ml)",
+     "company": "Merap Group",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/09/00015942-suc-mieng-hong-medoral-merap-4714-5ba0_large.JPG",
+     "price": "91.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/suc-mieng-hong-medoral-merap-14750.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Mekotricin 1mg Mekophar hỗ trợ điều trị viêm niêm mạc miệng, họng (24 viên)",
+     "company": "Mekophar",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/06/00022251-mekotricin-1mg-mekophar-24v-1338-60dc_large.jpg",
+     "price": "6.500đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/mekotricin-1mg-mekophar-24v-22610.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Thuốc súc họng Betadine Gargle & Mouth Wash điều trị nhiễm trùng niêm mạc miệng, cổ họng (125ml)",
+     "company": "Betadine",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2021/07/00001222-betadine-garge-and-mouthwash-4833-60fb_large.jpg",
+     "price": "62.000đ / Chai",
+     "link": "https://nhathuoclongchau.com/thuoc/betadine-garge-and-mouthwash-4536.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Viên ngậm Dorithricin Hyphens hỗ trợ điều trị nhiễm khuẩn miệng - họng (20 viên)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2018/11/00002563-dorithricin-9960-5bf4_large.JPG",
+     "price": "49.999đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/dorithricin-3952.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
+},
+{
+     "name": "Tinh dầu Nasomom 4 Reliv hỗ trợ điều trị nghẹt mũi, sổ mũi, khò khè, cảm cúm (70ml)",
+     "company": "null",
+     "img": "https://images.fpt.shop/unsafe/fit-in/600x600/filters:quality(90):fill(white)/nhathuoclongchau.com/images/product/2020/12/00029003-nasomom-4-tinh-dau-70ml-3846-5fd7_large.JPG",
+     "price": "43.000đ / Hộp",
+     "link": "https://nhathuoclongchau.com/thuoc/nasomom-4-tinh-dau-70ml-29295.html",
+     "promo": { 
+          "name": "thuoc",
+          "value": "longchau"
+     }
 }
 ]
